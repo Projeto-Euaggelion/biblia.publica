@@ -46,44 +46,49 @@ def convert_file(xml_path: Path, json_dir: Path) -> Path:
     return json_path
 
 
-def find_versions(versoes_dir: Path) -> list[Path]:
-    return sorted(p for p in versoes_dir.iterdir() if p.is_dir() and (p / "xml").is_dir())
-
-
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
-        "--versao",
-        action="append",
-        dest="versoes",
-        help="Nome da versao a converter (ex: blivre, otb, tb). Pode ser usado varias vezes. "
-             "Se omitido, converte todas as versoes encontradas em versoes/.",
+        "--version",
+        required=True,
+        dest="version",
+        help="Nome da versao a converter (ex: blivre, otb, tb).",
+    )
+    parser.add_argument(
+        "--book",
+        required=True,
+        dest="book",
+        help="Abreviacao do livro a converter (ex: gn, mt) ou 'all' para converter todos os livros da versao.",
     )
     args = parser.parse_args()
 
-    if args.versoes:
-        version_dirs = [VERSOES_DIR / v for v in args.versoes]
-        for v in version_dirs:
-            if not (v / "xml").is_dir():
-                print(f"erro: pasta xml nao encontrada para a versao '{v.name}' ({v / 'xml'})", file=sys.stderr)
-                return 1
+    version_dir = VERSOES_DIR / args.version
+    xml_dir = version_dir / "xml"
+    json_dir = version_dir / "json"
+
+    if not xml_dir.is_dir():
+        print(f"erro: pasta xml nao encontrada para a versao '{args.version}' ({xml_dir})", file=sys.stderr)
+        return 1
+
+    if args.book.lower() == "all":
+        xml_files = sorted(xml_dir.glob("*.xml"))
     else:
-        version_dirs = find_versions(VERSOES_DIR)
+        xml_path = xml_dir / f"{args.version}-{args.book}.xml"
+        if not xml_path.is_file():
+            print(f"erro: arquivo nao encontrado para o livro '{args.book}' ({xml_path})", file=sys.stderr)
+            return 1
+        xml_files = [xml_path]
 
     total = 0
-    for version_dir in version_dirs:
-        xml_dir = version_dir / "xml"
-        json_dir = version_dir / "json"
-        xml_files = sorted(xml_dir.glob("*.xml"))
-        print(f"{version_dir.name}: convertendo {len(xml_files)} arquivo(s)...")
-        for xml_path in xml_files:
-            try:
-                json_path = convert_file(xml_path, json_dir)
-            except ET.ParseError as exc:
-                print(f"  erro ao converter {xml_path}: {exc}", file=sys.stderr)
-                continue
-            print(f"  {xml_path.name} -> {json_path.relative_to(REPO_ROOT)}")
-            total += 1
+    print(f"{version_dir.name}: convertendo {len(xml_files)} arquivo(s)...")
+    for xml_path in xml_files:
+        try:
+            json_path = convert_file(xml_path, json_dir)
+        except ET.ParseError as exc:
+            print(f"  erro ao converter {xml_path}: {exc}", file=sys.stderr)
+            continue
+        print(f"  {xml_path.name} -> {json_path.relative_to(REPO_ROOT)}")
+        total += 1
 
     print(f"\nConcluido: {total} arquivo(s) convertido(s).")
     return 0
