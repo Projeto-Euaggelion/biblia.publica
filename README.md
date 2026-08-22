@@ -10,3 +10,7 @@ O objetivo principal deste repositório é organizar, de forma estruturada, toda
 As versões: Bíblia Livre, Tradução Brasileira e Almeida 1911, foram parseadas do repositório [https://github.com/damarals/biblias](https://github.com/damarals/biblias).
 
 A versão Open Translate Bible, foi parseada do projeto Open Bible - [https://github.com/OpenTranslationBible/open-bible](https://github.com/OpenTranslationBible/open-bible)
+
+## Estrutura dos arquivos XML
+
+A estrutura utilizada nos arquivos `.xml` está documentada em [docs/estrutura-xml.md](docs/estrutura-xml.md).
