@@ -1,8 +1,6 @@
 # Fontes utilizadas
 
-Este arquivo é gerado automaticamente pelo workflow `.github/workflows/atualizar-fontes.yml` a partir dos arquivos `versoes/{versao}/LICENSE.md`, sempre que um desses arquivos muda na branch principal.
-
-**Não edite este arquivo manualmente!** Para corrigir uma informação, altere o `LICENSE.md` da versão correspondente.
+> Este arquivo é gerado automaticamente pelo workflow `.github/workflows/atualizar-fontes.yml` a partir dos arquivos `versoes/{versao}/LICENSE.md`, sempre que um desses arquivos muda na branch principal. **Não edite este arquivo manualmente** — para corrigir uma informação, altere o `LICENSE.md` da versão correspondente.
 
 | Versão | Licença | Fonte | Completude | PR | Contribuidor |
 |--------|---------|-------|------------|----|--------------|
