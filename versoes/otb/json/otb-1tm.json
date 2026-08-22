@@ -1,0 +1,488 @@
+{
+  "name": "1 Timóteo",
+  "abbrev": "1tm",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paulo, apóstolo de Cristo Jesus segundo o mandamento de Deus, nosso Salvador, e de Cristo Jesus, nossa esperança,"
+        },
+        {
+          "number": 2,
+          "text": "a Timóteo, meu verdadeiro filho na fé: Que a graça, a misericórdia e a paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor, estejam com você."
+        },
+        {
+          "number": 3,
+          "text": "Assim como te roguei quando parti para a Macedônia, permanece em Éfeso para que você instrua certas pessoas a não ensinarem doutrinas estranhas,"
+        },
+        {
+          "number": 4,
+          "text": "nem a darem atenção a mitos e genealogias intermináveis, que promovem especulações inúteis em vez de promoverem o plano de Deus, que é pela fé."
+        },
+        {
+          "number": 5,
+          "text": "O objetivo desta instrução é o amor que procede de um coração puro, de uma boa consciência e de uma fé sincera."
+        },
+        {
+          "number": 6,
+          "text": "Alguns se desviaram dessas coisas e se entregaram a discussões inúteis,"
+        },
+        {
+          "number": 7,
+          "text": "desejando ser mestres da Lei, embora não compreendam nem o que dizem nem os assuntos sobre os quais fazem afirmações categóricas."
+        },
+        {
+          "number": 8,
+          "text": "Sabemos, porém, que a Lei é boa, se alguém a usa de modo adequado,"
+        },
+        {
+          "number": 9,
+          "text": "reconhecendo que a lei não é feita para o justo, mas para os transgressores e rebeldes, para os ímpios e pecadores, para os profanos e irreverentes, para os que matam pai ou mãe, para os homicidas,"
+        },
+        {
+          "number": 10,
+          "text": "para os que praticam atos imorais, para os que exploram outros, mentirosos, perjuros, e para tudo o que é contrário à sã doutrina,"
+        },
+        {
+          "number": 11,
+          "text": "conforme o glorioso evangelho do Deus bendito, que me foi confiado."
+        },
+        {
+          "number": 12,
+          "text": "Sou grato a Cristo Jesus, nosso Senhor, que me deu forças, porque me considerou fiel, designando-me para o seu serviço,"
+        },
+        {
+          "number": 13,
+          "text": "mesmo que anteriormente eu fosse blasfemo, perseguidor e insolente. Mas alcancei misericórdia porque agi por ignorância, na incredulidade;"
+        },
+        {
+          "number": 14,
+          "text": "e a graça de nosso Senhor foi mais do que abundante, com a fé e o amor que estão em Cristo Jesus."
+        },
+        {
+          "number": 15,
+          "text": "Esta é uma afirmação fiel e digna de plena aceitação: Cristo Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o principal."
+        },
+        {
+          "number": 16,
+          "text": "Mas por esta razão alcancei misericórdia, para que em mim, o principal pecador, Cristo Jesus pudesse mostrar toda a sua paciência como exemplo para aqueles que nele haveriam de crer para a vida eterna."
+        },
+        {
+          "number": 17,
+          "text": "Ora, ao Rei eterno, imortal, invisível, o único Deus, sejam honra e glória para todo o sempre. Amém."
+        },
+        {
+          "number": 18,
+          "text": "Este mandamento te confio, Timóteo, meu filho, de acordo com as profecias anteriormente feitas a teu respeito, para que por elas combatas o bom combate,"
+        },
+        {
+          "number": 19,
+          "text": "mantendo a fé e uma boa consciência, a qual alguns rejeitaram e, assim, naufragaram na fé."
+        },
+        {
+          "number": 20,
+          "text": "Entre eles estão Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Para começar, encorajo que súplicas, orações, intercessões e ações de graças sejam oferecidas por todos,"
+        },
+        {
+          "number": 2,
+          "text": "incluindo reis e todos os que estão em posições de autoridade, para que possamos viver uma vida pacífica e tranquila em toda piedade e dignidade."
+        },
+        {
+          "number": 3,
+          "text": "Isso é bom e aceitável aos olhos de Deus, nosso Salvador,"
+        },
+        {
+          "number": 4,
+          "text": "que deseja que todas as pessoas sejam salvas e cheguem ao conhecimento da verdade."
+        },
+        {
+          "number": 5,
+          "text": "Pois há um só Deus e um só mediador entre Deus e a humanidade, o homem Cristo Jesus,"
+        },
+        {
+          "number": 6,
+          "text": "que se entregou como resgate por todos, o testemunho dado no tempo apropriado."
+        },
+        {
+          "number": 7,
+          "text": "Para este propósito, fui designado pregador e apóstolo (digo a verdade, não estou mentindo), como mestre dos gentios na fé e na verdade."
+        },
+        {
+          "number": 8,
+          "text": "Portanto, desejo que os homens em todos os lugares orem, levantando mãos santas, sem ira e discussão."
+        },
+        {
+          "number": 9,
+          "text": "Da mesma forma, quero que as mulheres se vistam com roupas adequadas, com modéstia e discrição, não com cabelos trançados, ouro, pérolas ou vestes caras,"
+        },
+        {
+          "number": 10,
+          "text": "mas sim com boas obras, como convém a mulheres que professam piedade."
+        },
+        {
+          "number": 11,
+          "text": "A mulher deve aprender em silêncio, com total respeito."
+        },
+        {
+          "number": 12,
+          "text": "Mas não permito que a mulher ensine ou tenha autoridade sobre o homem; ela deve estar em silêncio."
+        },
+        {
+          "number": 13,
+          "text": "Pois primeiro foi formado Adão, e depois Eva."
+        },
+        {
+          "number": 14,
+          "text": "E não foi Adão que foi enganado, mas a mulher foi enganada e tornou-se transgressora."
+        },
+        {
+          "number": 15,
+          "text": "No entanto, as mulheres serão mantidas seguras através da maternidade—se continuarem na fé, no amor e na santidade, com domínio próprio."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Esta afirmação é digna de confiança: se alguém aspira ao cargo de supervisor, deseja uma tarefa nobre."
+        },
+        {
+          "number": 2,
+          "text": "O supervisor, portanto, deve ser irrepreensível, marido de uma só esposa, temperante, sensato, respeitável, hospitaleiro, apto para ensinar,"
+        },
+        {
+          "number": 3,
+          "text": "não dado a excessos de bebida, não violento, mas amável, não contencioso, livre do amor ao dinheiro."
+        },
+        {
+          "number": 4,
+          "text": "Ele deve ser alguém que administra bem sua própria casa, mantendo seus filhos respeitosos com toda dignidade"
+        },
+        {
+          "number": 5,
+          "text": "(pois se alguém não sabe como administrar sua própria casa, como cuidará da igreja de Deus?);"
+        },
+        {
+          "number": 6,
+          "text": "e não um recém-convertido, para que não se ensoberbeça e caia na condenação do diabo."
+        },
+        {
+          "number": 7,
+          "text": "Além disso, deve ter boa reputação com os de fora da igreja, para que não caia em desgraça e no laço do diabo."
+        },
+        {
+          "number": 8,
+          "text": "Da mesma forma, os diáconos devem ser dignos, não hipócritas, não dados a muito vinho, não gananciosos por lucro desonesto,"
+        },
+        {
+          "number": 9,
+          "text": "mas mantendo o mistério da fé com uma consciência pura."
+        },
+        {
+          "number": 10,
+          "text": "Esses indivíduos devem também ser primeiro testados; depois, se forem considerados irrepreensíveis, que sirvam como diáconos."
+        },
+        {
+          "number": 11,
+          "text": "As mulheres devem igualmente ser dignas, não caluniadoras, mas temperantes, fiéis em tudo."
+        },
+        {
+          "number": 12,
+          "text": "Os diáconos devem ser fiéis a uma só esposa, e bons administradores de seus filhos e de suas próprias casas."
+        },
+        {
+          "number": 13,
+          "text": "Pois aqueles que servirem bem como diáconos alcançarão para si uma posição de honra e grande confiança na fé que há em Cristo Jesus."
+        },
+        {
+          "number": 14,
+          "text": "Estou escrevendo estas coisas a você, esperando visitá-lo em breve;"
+        },
+        {
+          "number": 15,
+          "text": "mas caso eu demore, escrevo para que você saiba como se deve conduzir na casa de Deus, que é a igreja do Deus vivo, coluna e fundamento da verdade."
+        },
+        {
+          "number": 16,
+          "text": "Sem dúvida, o mistério da piedade é profundo: Aquele que foi manifestado na carne, Foi justificado no Espírito, Visto pelos anjos, Proclamado entre as nações, E crido no mundo inteiro, Recebido na glória."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mas o Espírito indica claramente que, em tempos posteriores, alguns se afastarão da fé, dando ouvidos a espíritos enganadores e a doutrinas de demônios,"
+        },
+        {
+          "number": 2,
+          "text": "pela hipocrisia dos que falam mentiras, tendo a consciência cauterizada,"
+        },
+        {
+          "number": 3,
+          "text": "que proíbem o casamento e exigem a abstinência de alimentos que Deus criou para serem recebidos com gratidão pelos que creem e conhecem a verdade."
+        },
+        {
+          "number": 4,
+          "text": "Pois tudo o que Deus criou é bom, e nada deve ser rejeitado se é recebido com gratidão;"
+        },
+        {
+          "number": 5,
+          "text": "porque é santificado pela palavra de Deus e pela oração."
+        },
+        {
+          "number": 6,
+          "text": "Ao lembrar os irmãos e irmãs destas coisas, você será um bom servo de Cristo Jesus, continuamente nutrido pelas palavras da fé e do bom ensino que você tem seguido."
+        },
+        {
+          "number": 7,
+          "text": "Mas evite fábulas profanas e de velhas caducas, e exercite-se na piedade;"
+        },
+        {
+          "number": 8,
+          "text": "pois o exercício físico tem algum valor, mas a piedade é valiosa em todos os aspectos, pois tem promessa para a vida presente e para a que há de vir."
+        },
+        {
+          "number": 9,
+          "text": "Esta é uma afirmação digna de plena aceitação."
+        },
+        {
+          "number": 10,
+          "text": "Pois é para isso que trabalhamos e lutamos, porque temos colocado nossa esperança no Deus vivo, que é o Salvador de todas as pessoas, especialmente dos que creem."
+        },
+        {
+          "number": 11,
+          "text": "Instrua e ensine os outros nestas coisas."
+        },
+        {
+          "number": 12,
+          "text": "Ninguém despreze a sua juventude, mas seja um exemplo para os fiéis, na palavra, no procedimento, no amor, na fé e na pureza."
+        },
+        {
+          "number": 13,
+          "text": "Até que eu venha, dedique-se à leitura pública, à exortação e ao ensino."
+        },
+        {
+          "number": 14,
+          "text": "Não negligencie o dom espiritual que está em você, que lhe foi dado por profecia com a imposição das mãos do conselho de anciãos."
+        },
+        {
+          "number": 15,
+          "text": "Seja diligente nestas coisas; dedique-se inteiramente a elas, para que o seu progresso seja evidente a todos."
+        },
+        {
+          "number": 16,
+          "text": "Cuide de sua vida e de sua doutrina de perto; persevere nelas, pois, ao fazer isso, você garantirá a salvação tanto para si mesmo quanto para aqueles que o ouvem."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Não repreenda asperamente um homem mais velho, mas exorte-o como faria a um pai, e aos mais jovens como irmãos,"
+        },
+        {
+          "number": 2,
+          "text": "as mulheres mais velhas como mães, e as mais jovens como irmãs, com toda pureza."
+        },
+        {
+          "number": 3,
+          "text": "Mostre respeito às viúvas que realmente estão em necessidade;"
+        },
+        {
+          "number": 4,
+          "text": "mas se alguma viúva tem filhos ou netos, eles devem aprender a mostrar o devido respeito para com a própria família e a retribuir aos seus pais; pois isso é aceitável aos olhos de Deus."
+        },
+        {
+          "number": 5,
+          "text": "Ora, a que é verdadeiramente viúva e ficou sozinha, põe sua esperança em Deus, e continua em súplicas e orações noite e dia."
+        },
+        {
+          "number": 6,
+          "text": "Mas a que vive em indulgência está morta, mesmo enquanto vive."
+        },
+        {
+          "number": 7,
+          "text": "Forneça estas instruções também, para que sejam irrepreensíveis."
+        },
+        {
+          "number": 8,
+          "text": "No entanto, se alguém não cuida dos seus, especialmente dos de sua própria casa, negou a fé e é pior do que um descrente."
+        },
+        {
+          "number": 9,
+          "text": "Uma viúva deve ser colocada na lista apenas se tiver pelo menos sessenta anos e tiver sido esposa de um só homem,"
+        },
+        {
+          "number": 10,
+          "text": "tendo reputação de boas obras: se criou filhos, se mostrou hospitalidade a estranhos, se lavou os pés dos santos, se assistiu os aflitos, e se se dedicou a toda boa obra."
+        },
+        {
+          "number": 11,
+          "text": "Mas recuse inscrever viúvas mais jovens, pois quando sentem desejos físicos que as afastam de Cristo, querem se casar,"
+        },
+        {
+          "number": 12,
+          "text": "incorrendo em condenação, porque deixaram de lado seu compromisso anterior."
+        },
+        {
+          "number": 13,
+          "text": "Ao mesmo tempo, elas também aprendem a ser ociosas, andando de casa em casa; e não apenas ociosas, mas também fofoqueiras e intrometidas, falando sobre coisas que não devem mencionar."
+        },
+        {
+          "number": 14,
+          "text": "Portanto, desejo que as viúvas mais jovens se casem, tenham filhos, administrem suas casas, e não deem ao inimigo oportunidade para reprovação;"
+        },
+        {
+          "number": 15,
+          "text": "pois algumas já se desviaram e agora seguem Satanás."
+        },
+        {
+          "number": 16,
+          "text": "Se alguma mulher que é crente tem viúvas dependentes, ela deve assisti-las e a igreja não deve ser sobrecarregada, para que possa assistir aquelas que são verdadeiramente viúvas."
+        },
+        {
+          "number": 17,
+          "text": "Os presbíteros que lideram bem devem ser considerados dignos de dupla honra, especialmente aqueles que se esforçam na pregação e no ensino."
+        },
+        {
+          "number": 18,
+          "text": "Pois a Escritura diz: “Não amordace o boi enquanto debulha,” e “O trabalhador é digno do seu salário.”"
+        },
+        {
+          "number": 19,
+          "text": "Não aceite uma acusação contra um presbítero, a menos que seja confirmada por duas ou três testemunhas."
+        },
+        {
+          "number": 20,
+          "text": "Aqueles que continuam no pecado, repreenda na presença de todos, para que os demais também tenham temor."
+        },
+        {
+          "number": 21,
+          "text": "Exorto-te solenemente na presença de Deus e de Cristo Jesus e de Seus anjos escolhidos, a manter esses princípios sem preconceito, nada fazendo com parcialidade."
+        },
+        {
+          "number": 22,
+          "text": "Não imponha as mãos precipitadamente sobre ninguém e, assim, participe dos pecados dos outros; mantenha-se livre do pecado."
+        },
+        {
+          "number": 23,
+          "text": "Não se limite a beber apenas água, mas use um pouco de vinho por causa do seu estômago e das suas frequentes enfermidades."
+        },
+        {
+          "number": 24,
+          "text": "Os pecados de algumas pessoas são bastante evidentes, precedendo-os ao julgamento; para outros, seus pecados seguem depois."
+        },
+        {
+          "number": 25,
+          "text": "Da mesma forma, as obras que são boas são bastante evidentes, e aquelas que são de outra forma não podem ser ocultadas."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Todos os que estão sob o jugo como escravos devem considerar seus próprios senhores como dignos de toda honra, para que o nome de Deus e nosso ensino não sejam difamados."
+        },
+        {
+          "number": 2,
+          "text": "Aqueles que têm crentes como seus senhores não devem desrespeitá-los porque são irmãos ou irmãs. Pelo contrário, devem servi-los ainda melhor, já que aqueles que se beneficiam de seu serviço são crentes e amados. Ensine e pregue esses princípios."
+        },
+        {
+          "number": 3,
+          "text": "Se alguém promove uma doutrina diferente e não concorda com as palavras sãs, as de nosso Senhor Jesus Cristo, e com a doutrina que está de acordo com a piedade,"
+        },
+        {
+          "number": 4,
+          "text": "é orgulhoso e nada entende; mas tem um desejo doentio por questões controversas e disputas sobre palavras, das quais vêm inveja, contenda, linguagem abusiva, suspeitas malignas,"
+        },
+        {
+          "number": 5,
+          "text": "e atrito constante entre pessoas de mente corrupta e privadas da verdade, que pensam que a piedade é um meio de ganho."
+        },
+        {
+          "number": 6,
+          "text": "Mas a piedade de fato é uma fonte de grande ganho quando acompanhada de contentamento."
+        },
+        {
+          "number": 7,
+          "text": "Pois nada trouxemos para o mundo, e nada podemos levar dele."
+        },
+        {
+          "number": 8,
+          "text": "Se temos alimento e vestuário, com isso estaremos contentes."
+        },
+        {
+          "number": 9,
+          "text": "Mas aqueles que desejam ser ricos caem em tentação e em laço, e em muitos desejos insensatos e nocivos que mergulham as pessoas na ruína e destruição."
+        },
+        {
+          "number": 10,
+          "text": "Pois o amor ao dinheiro é uma raiz de todos os tipos de males, e alguns, por cobiçá-lo, se desviaram da fé e se traspassaram com muitas dores."
+        },
+        {
+          "number": 11,
+          "text": "Mas evite essas coisas, homem de Deus, e busque a justiça, a piedade, a fé, o amor, a perseverança e a mansidão."
+        },
+        {
+          "number": 12,
+          "text": "Engaje-se na nobre luta da fé; abrace a vida eterna para a qual você foi chamado, e pela qual fez a boa confissão na presença de muitas testemunhas."
+        },
+        {
+          "number": 13,
+          "text": "Ordeno a você na presença de Deus, que dá vida a todas as coisas, e de Cristo Jesus, que fez a boa confissão diante de Pôncio Pilatos,"
+        },
+        {
+          "number": 14,
+          "text": "que você guarde o mandamento sem mancha ou culpa até a aparição de nosso Senhor Jesus Cristo,"
+        },
+        {
+          "number": 15,
+          "text": "a qual Ele revelará no tempo determinado—Ele que é o bendito e único Soberano, o Rei dos reis e Senhor dos senhores,"
+        },
+        {
+          "number": 16,
+          "text": "que sozinho possui imortalidade e habita em luz inacessível, a quem ninguém viu ou pode ver. A Ele seja honra e domínio eterno! Amém."
+        },
+        {
+          "number": 17,
+          "text": "Instrua aqueles que são ricos no presente mundo a não serem arrogantes nem a colocarem sua esperança na incerteza das riquezas, mas em Deus, que nos provê ricamente com todas as coisas para desfrutarmos."
+        },
+        {
+          "number": 18,
+          "text": "Guie-os a praticar boas obras, a serem abundantes em boas ações, a serem generosos e dispostos a compartilhar,"
+        },
+        {
+          "number": 19,
+          "text": "acumulando para si mesmos o tesouro de um bom fundamento para o futuro, para que possam se apossar do que é verdadeiramente vida."
+        },
+        {
+          "number": 20,
+          "text": "Timóteo, guarde o que lhe foi confiado, evitando conversas mundanas e vazias e os argumentos opostos do que falsamente se chama \"conhecimento\"—"
+        },
+        {
+          "number": 21,
+          "text": "que alguns professaram e, como resultado, se desviaram da fé. Que a graça esteja com você."
+        }
+      ]
+    }
+  ]
+}

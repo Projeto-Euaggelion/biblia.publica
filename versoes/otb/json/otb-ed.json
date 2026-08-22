@@ -1,0 +1,1176 @@
+{
+  "name": "Esdras",
+  "abbrev": "ed",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "No primeiro ano de Ciro, rei da Pérsia, para cumprir a palavra do Senhor falada por Jeremias, o Senhor despertou o coração de Ciro, rei da Pérsia, para fazer uma proclamação em todo o seu reino e também colocá-la por escrito:"
+        },
+        {
+          "number": 2,
+          "text": "“Assim diz Ciro, rei da Pérsia: ‘O Senhor, o Deus do céu, deu-me todos os reinos da terra e encarregou-me de construir para Ele uma casa em Jerusalém, que está em Judá."
+        },
+        {
+          "number": 3,
+          "text": "Qualquer entre vocês que seja do Seu povo, que o seu Deus esteja com ele, e que suba a Jerusalém, em Judá, e construa a casa do Senhor, o Deus de Israel, que está em Jerusalém."
+        },
+        {
+          "number": 4,
+          "text": "E em qualquer lugar onde agora residam sobreviventes, o povo deve apoiá-los com prata e ouro, com bens e gado, além de ofertas voluntárias para a casa de Deus em Jerusalém.’”"
+        },
+        {
+          "number": 5,
+          "text": "Então os chefes das famílias de Judá e Benjamim, e os sacerdotes e levitas—todos aqueles cujo espírito Deus havia movido—prepararam-se para subir e construir a casa do Senhor em Jerusalém."
+        },
+        {
+          "number": 6,
+          "text": "Todos os seus vizinhos os ajudaram com artigos de prata e ouro, com bens e gado, e com presentes valiosos, além de todas as ofertas voluntárias."
+        },
+        {
+          "number": 7,
+          "text": "Além disso, o rei Ciro trouxe os artigos pertencentes à casa do Senhor, que Nabucodonosor havia levado de Jerusalém e colocado na casa de seus deuses."
+        },
+        {
+          "number": 8,
+          "text": "Ciro, rei da Pérsia, os fez trazer por Mitredate, o tesoureiro, que os contou a Sesbazar, o príncipe de Judá."
+        },
+        {
+          "number": 9,
+          "text": "Este foi o inventário: trinta pratos de ouro, mil pratos de prata, e vinte e nove bacias de prata;"
+        },
+        {
+          "number": 10,
+          "text": "trinta taças de ouro, quatrocentas e dez taças de prata combinando, e mil outros artigos."
+        },
+        {
+          "number": 11,
+          "text": "No total, havia 5.400 artigos de ouro e prata. Sesbazar trouxe todos estes junto com os exilados quando subiram da Babilônia para Jerusalém."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Estes são os habitantes da província que retornaram do cativeiro dos exilados, que Nabucodonosor, rei da Babilônia, havia levado para o exílio na Babilônia. Eles retornaram para Jerusalém e Judá, cada um para sua própria cidade."
+        },
+        {
+          "number": 2,
+          "text": "Eles vieram com Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mordecai, Bilshan, Mispar, Bigvai, Reum e Baaná. Aqui está a lista dos homens do povo de Israel:"
+        },
+        {
+          "number": 3,
+          "text": "os descendentes de Parós, 2.172;"
+        },
+        {
+          "number": 4,
+          "text": "os descendentes de Sefatias, 372;"
+        },
+        {
+          "number": 5,
+          "text": "os descendentes de Ará, 775;"
+        },
+        {
+          "number": 6,
+          "text": "os descendentes de Paate-Moabe, pelos descendentes de Jesua e Joabe, 2.812;"
+        },
+        {
+          "number": 7,
+          "text": "os descendentes de Elão, 1.254;"
+        },
+        {
+          "number": 8,
+          "text": "os descendentes de Zatu, 945;"
+        },
+        {
+          "number": 9,
+          "text": "os descendentes de Zacai, 760;"
+        },
+        {
+          "number": 10,
+          "text": "os descendentes de Bani, 642;"
+        },
+        {
+          "number": 11,
+          "text": "os descendentes de Bebai, 623;"
+        },
+        {
+          "number": 12,
+          "text": "os descendentes de Azgade, 1.222;"
+        },
+        {
+          "number": 13,
+          "text": "os descendentes de Adonicão, 666;"
+        },
+        {
+          "number": 14,
+          "text": "os descendentes de Bigvai, 2.056;"
+        },
+        {
+          "number": 15,
+          "text": "os descendentes de Adim, 454;"
+        },
+        {
+          "number": 16,
+          "text": "os descendentes de Ater, por Ezequias, 98;"
+        },
+        {
+          "number": 17,
+          "text": "os descendentes de Bezai, 323;"
+        },
+        {
+          "number": 18,
+          "text": "os descendentes de Jorá, 112;"
+        },
+        {
+          "number": 19,
+          "text": "os descendentes de Hasum, 223;"
+        },
+        {
+          "number": 20,
+          "text": "os descendentes de Gibar, 95;"
+        },
+        {
+          "number": 21,
+          "text": "os homens de Belém, 123;"
+        },
+        {
+          "number": 22,
+          "text": "os homens de Netofa, 56;"
+        },
+        {
+          "number": 23,
+          "text": "os homens de Anatote, 128;"
+        },
+        {
+          "number": 24,
+          "text": "os descendentes de Azmavete, 42;"
+        },
+        {
+          "number": 25,
+          "text": "os descendentes de Quiriate-Jearim, Cefira e Beerote, 743;"
+        },
+        {
+          "number": 26,
+          "text": "os descendentes de Ramá e Geba, 621;"
+        },
+        {
+          "number": 27,
+          "text": "os de Micmás, 122;"
+        },
+        {
+          "number": 28,
+          "text": "os de Betel e Ai, 223;"
+        },
+        {
+          "number": 29,
+          "text": "os descendentes de Nebo, 52;"
+        },
+        {
+          "number": 30,
+          "text": "os descendentes de Magbis, 156;"
+        },
+        {
+          "number": 31,
+          "text": "os descendentes do outro Elão, 1.254;"
+        },
+        {
+          "number": 32,
+          "text": "os descendentes de Harim, 320;"
+        },
+        {
+          "number": 33,
+          "text": "os descendentes de Lode, Hadide e Ono, 725;"
+        },
+        {
+          "number": 34,
+          "text": "os homens de Jericó, 345;"
+        },
+        {
+          "number": 35,
+          "text": "os descendentes de Senaá, 3.630."
+        },
+        {
+          "number": 36,
+          "text": "Os sacerdotes: os descendentes de Jedaías, da casa de Jesua, 973;"
+        },
+        {
+          "number": 37,
+          "text": "os descendentes de Imer, 1.052;"
+        },
+        {
+          "number": 38,
+          "text": "os descendentes de Pasur, 1.247;"
+        },
+        {
+          "number": 39,
+          "text": "os descendentes de Harim, 1.017."
+        },
+        {
+          "number": 40,
+          "text": "Os levitas: a família de Jesua e Cadmiel, dos descendentes de Hodavias, 74."
+        },
+        {
+          "number": 41,
+          "text": "Os músicos: a família de Asafe, 128."
+        },
+        {
+          "number": 42,
+          "text": "Os porteiros do templo: os descendentes de Salum, Ater, Talmom, Acube, Hatita e Sobai, 139."
+        },
+        {
+          "number": 43,
+          "text": "Os servos do templo: os descendentes de Zia, Hasufa, Tabaote,"
+        },
+        {
+          "number": 44,
+          "text": "Queros, Siaá e Padom,"
+        },
+        {
+          "number": 45,
+          "text": "Lebana, Hagaba e Acube,"
+        },
+        {
+          "number": 46,
+          "text": "Hagabe, Salmai e Hanã,"
+        },
+        {
+          "number": 47,
+          "text": "Gidel, Gaar e Reaías,"
+        },
+        {
+          "number": 48,
+          "text": "Rezim, Necoda e Gazão,"
+        },
+        {
+          "number": 49,
+          "text": "Uzá, Paseia e Besai,"
+        },
+        {
+          "number": 50,
+          "text": "Asná, Meunim e Nefusim,"
+        },
+        {
+          "number": 51,
+          "text": "Baquebuque, Hacufa e Harur,"
+        },
+        {
+          "number": 52,
+          "text": "Bazlute, Meída e Harsa,"
+        },
+        {
+          "number": 53,
+          "text": "Barcos, Sísera e Temá,"
+        },
+        {
+          "number": 54,
+          "text": "Nezias e também Hatifa."
+        },
+        {
+          "number": 55,
+          "text": "Os descendentes dos servos de Salomão: os descendentes de Sotai, Hassofere e Peruda,"
+        },
+        {
+          "number": 56,
+          "text": "Jaala, Darcom e Gidel,"
+        },
+        {
+          "number": 57,
+          "text": "Sefatias, Hatil, e Poquerete-Hazebaim, e Ami."
+        },
+        {
+          "number": 58,
+          "text": "Os servos do templo e os descendentes dos servos de Salomão totalizaram 392."
+        },
+        {
+          "number": 59,
+          "text": "Estes foram os que subiram de Tel-Melá, Tel-Harsa, Querube, Adom e Imer, mas não puderam provar que suas famílias eram descendentes de Israel:"
+        },
+        {
+          "number": 60,
+          "text": "As famílias de Delaías, Tobias e Necoda, 652."
+        },
+        {
+          "number": 61,
+          "text": "E entre os sacerdotes: os descendentes de Hobaías, Hacoz e Barzilai, que havia se casado com uma filha de Barzilai, o gileadita, e foi chamado por seu nome."
+        },
+        {
+          "number": 62,
+          "text": "Eles procuraram seus registros familiares, mas não os encontraram, e assim foram excluídos do sacerdócio como impuros."
+        },
+        {
+          "number": 63,
+          "text": "O governador os instruiu a não participarem do alimento mais sagrado até que houvesse um sacerdote ministrando com o Urim e Tumim."
+        },
+        {
+          "number": 64,
+          "text": "Assim, toda a assembleia totalizou 42.360,"
+        },
+        {
+          "number": 65,
+          "text": "além de seus escravos e escravas, que somavam 7.337; e tinham 200 cantores e cantoras."
+        },
+        {
+          "number": 66,
+          "text": "Eles possuíam 736 cavalos e 245 mulas,"
+        },
+        {
+          "number": 67,
+          "text": "tinham 435 camelos e 6.720 jumentos."
+        },
+        {
+          "number": 68,
+          "text": "Ao chegarem à casa do Senhor em Jerusalém, alguns dos chefes de família deram ofertas voluntárias para a reconstrução da casa de Deus em seu local."
+        },
+        {
+          "number": 69,
+          "text": "De acordo com suas possibilidades, contribuíram para o tesouro desta obra 61.000 dáricos de ouro, 5.000 minas de prata e 100 vestes sacerdotais."
+        },
+        {
+          "number": 70,
+          "text": "Os sacerdotes, os levitas, os músicos, os porteiros e os servos do templo se estabeleceram em suas próprias cidades, junto com algumas das outras pessoas, enquanto o restante dos israelitas se estabeleceu em suas cidades."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Quando chegou o sétimo mês e os israelitas estavam estabelecidos em suas cidades, o povo se reuniu como um só em Jerusalém."
+        },
+        {
+          "number": 2,
+          "text": "Então Jesua, filho de Jozadaque, e seus companheiros sacerdotes, juntamente com Zorobabel, filho de Sealtiel, e seus associados, começaram a construir o altar do Deus de Israel para oferecer holocaustos sobre ele, como está escrito na Lei de Moisés, o homem de Deus."
+        },
+        {
+          "number": 3,
+          "text": "Apesar do medo dos povos ao redor, colocaram o altar sobre sua base e ofereceram holocaustos sobre ele ao Senhor, tanto de manhã como à tarde."
+        },
+        {
+          "number": 4,
+          "text": "Celebraram a Festa dos Tabernáculos, como está escrito, e ofereceram o número prescrito de holocaustos a cada dia, conforme a ordenança."
+        },
+        {
+          "number": 5,
+          "text": "Depois disso, apresentaram os holocaustos regulares, as ofertas das Luas Novas e de todas as festas sagradas designadas do Senhor, bem como aquelas dadas como ofertas voluntárias ao Senhor."
+        },
+        {
+          "number": 6,
+          "text": "Desde o primeiro dia do sétimo mês, começaram a oferecer holocaustos ao Senhor, embora o fundamento do templo do Senhor ainda não tivesse sido lançado."
+        },
+        {
+          "number": 7,
+          "text": "Eles forneceram dinheiro aos pedreiros e carpinteiros, e comida, bebida e óleo aos sidônios e tírios, para trazerem toras de cedro do Líbano até o mar em Jope, conforme autorizado por Ciro, rei da Pérsia."
+        },
+        {
+          "number": 8,
+          "text": "No segundo ano de sua chegada à casa de Deus em Jerusalém, no segundo mês, Zorobabel, filho de Sealtiel, Jesua, filho de Jozadaque, e o restante de seus irmãos — os sacerdotes, os levitas e todos os que haviam retornado do cativeiro para Jerusalém — começaram a obra. Eles designaram levitas de vinte anos para cima para supervisionar a construção da casa do Senhor."
+        },
+        {
+          "number": 9,
+          "text": "Jesua e seus filhos e irmãos, juntamente com Cadmiel e seus filhos, os filhos de Hodavias, e os filhos de Henadade com seus filhos e irmãos — todos levitas — uniram-se para supervisionar os que trabalhavam na casa de Deus."
+        },
+        {
+          "number": 10,
+          "text": "Quando os construtores lançaram o fundamento do templo do Senhor, os sacerdotes se posicionaram em suas vestes com trombetas, e os levitas, filhos de Asafe, com címbalos, para louvar ao Senhor, conforme ordenado pelo rei Davi de Israel."
+        },
+        {
+          "number": 11,
+          "text": "Com louvor e ação de graças, cantaram ao Senhor: “Ele é bom; seu amor por Israel dura para sempre.” E todo o povo deu um grande grito de alegria ao Senhor, porque o fundamento da casa do Senhor foi lançado."
+        },
+        {
+          "number": 12,
+          "text": "No entanto, muitos dos sacerdotes, levitas e chefes de família mais velhos, que haviam visto o antigo templo, choraram em voz alta quando viram o fundamento deste templo sendo lançado, enquanto muitos outros gritavam de alegria."
+        },
+        {
+          "number": 13,
+          "text": "Ninguém conseguia distinguir o som dos gritos de alegria do som do choro, porque o povo fazia tanto barulho, e o som foi ouvido de longe."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ora, quando os adversários de Judá e Benjamim ouviram que os exilados estavam construindo um templo ao Senhor, o Deus de Israel,"
+        },
+        {
+          "number": 2,
+          "text": "aproximaram-se de Zorobabel e dos chefes das casas dos pais, dizendo: “Deixem-nos construir com vocês, pois, como vocês, buscamos o seu Deus e temos oferecido sacrifícios a Ele desde os dias de Esar-Hadom, rei da Assíria, que nos trouxe para cá.”"
+        },
+        {
+          "number": 3,
+          "text": "Mas Zorobabel, Jesua e o restante dos chefes das casas dos pais de Israel lhes disseram: “Vocês não têm parte conosco na construção de uma casa para o nosso Deus; nós sozinhos construiremos para o Senhor, o Deus de Israel, como o rei Ciro, rei da Pérsia, nos ordenou.”"
+        },
+        {
+          "number": 4,
+          "text": "Então o povo da terra desanimou o povo de Judá e os fez temer continuar a construção,"
+        },
+        {
+          "number": 5,
+          "text": "e contrataram conselheiros contra eles para frustrar seus planos todos os dias de Ciro, rei da Pérsia, até o reinado de Dario, rei da Pérsia."
+        },
+        {
+          "number": 6,
+          "text": "No início do reinado de Assuero, escreveram uma acusação contra os habitantes de Judá e Jerusalém."
+        },
+        {
+          "number": 7,
+          "text": "E nos dias de Artaxerxes, Bislão, Mitredate, Tabeel e o restante de seus companheiros escreveram a Artaxerxes, rei da Pérsia; a carta foi escrita em aramaico e traduzida."
+        },
+        {
+          "number": 8,
+          "text": "Reum, o comandante, e Sinsai, o escriba, compuseram uma carta sobre Jerusalém ao rei Artaxerxes, declarando:"
+        },
+        {
+          "number": 9,
+          "text": "Reum, o comandante, Sinsai, o escriba, e o restante de seus companheiros—os juízes, os governadores menores, os oficiais, os secretários, os homens da Pérsia, Uruk e Babilônia, os homens de Susã, isto é, os elamitas,"
+        },
+        {
+          "number": 10,
+          "text": "e o restante das nações que o grande e honrado Osnapar deportou e estabeleceu na cidade de Samaria e no restante da região além do Rio."
+        },
+        {
+          "number": 11,
+          "text": "(Esta é uma cópia da carta que enviaram a ele.) “Ao rei Artaxerxes, de seus servos, os homens da região além do Rio: E agora,"
+        },
+        {
+          "number": 12,
+          "text": "saiba o rei que os judeus que vieram de você chegaram até nós em Jerusalém; eles estão reconstruindo a cidade rebelde e perversa, e estão terminando os muros e reparando os alicerces."
+        },
+        {
+          "number": 13,
+          "text": "Agora, saiba o rei que, se esta cidade for reconstruída e os muros forem terminados, eles não pagarão tributo, imposto ou pedágio, e isso será prejudicial à receita real."
+        },
+        {
+          "number": 14,
+          "text": "Agora, porque estamos a serviço do palácio, e não é apropriado para nós ver a desonra do rei, enviamos e informamos ao rei,"
+        },
+        {
+          "number": 15,
+          "text": "para que uma busca seja feita nos livros de registro de seus predecessores. Você encontrará nos registros que esta cidade é uma cidade rebelde, prejudicial a reis e províncias, e tem um histórico de revolta. É por isso que esta cidade foi destruída."
+        },
+        {
+          "number": 16,
+          "text": "Informamos ao rei que, se esta cidade for reconstruída e os muros terminados, você não terá posse na província além do Rio.”"
+        },
+        {
+          "number": 17,
+          "text": "O rei enviou esta resposta: “A Reum, o comandante, Sinsai, o escriba, e o restante de seus companheiros que vivem em Samaria e no restante da província além do Rio: Paz. E agora,"
+        },
+        {
+          "number": 18,
+          "text": "o documento que vocês nos enviaram foi traduzido e lido diante de mim."
+        },
+        {
+          "number": 19,
+          "text": "Emiti um decreto e uma busca foi feita, e descobriu-se que esta cidade tem uma longa história de revolta contra reis e tem sido um lugar de rebelião e sedição."
+        },
+        {
+          "number": 20,
+          "text": "Jerusalém teve reis poderosos governando sobre toda a província além do Rio, e tributo, imposto e pedágio foram pagos a eles."
+        },
+        {
+          "number": 21,
+          "text": "Agora, emita um decreto para que esses homens parem o trabalho, para que esta cidade não seja reconstruída até que um decreto seja emitido por mim."
+        },
+        {
+          "number": 22,
+          "text": "Tenham cuidado para não serem negligentes neste assunto. Por que deveria aumentar o dano em detrimento dos reis?”"
+        },
+        {
+          "number": 23,
+          "text": "Então, assim que a cópia da carta do rei Artaxerxes foi lida diante de Reum, Sinsai, o escriba, e seus companheiros, eles foram apressadamente a Jerusalém aos judeus e os pararam à força de armas."
+        },
+        {
+          "number": 24,
+          "text": "Assim, a obra na casa de Deus em Jerusalém cessou, e foi interrompida até o segundo ano do reinado de Dario, rei da Pérsia."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Naquele tempo, os profetas Ageu e Zacarias, filho de Ido, profetizaram aos judeus em Judá e Jerusalém, falando em nome do Deus de Israel, que estava sobre eles."
+        },
+        {
+          "number": 2,
+          "text": "Zorobabel, filho de Sealtiel, e Jesua, filho de Jozadaque, se levantaram e começaram a reconstruir a casa de Deus em Jerusalém; e os profetas de Deus estavam com eles, proporcionando apoio."
+        },
+        {
+          "number": 3,
+          "text": "Durante este período, Tatenai, o governador da região além do Eufrates, junto com Setar-Bozenai e seus colegas, aproximaram-se deles e inquiriram: “Quem lhes deu autoridade para reconstruir este templo e completar esta estrutura?”"
+        },
+        {
+          "number": 4,
+          "text": "Eles também perguntaram sobre os nomes dos indivíduos que estavam envolvidos na construção deste edifício."
+        },
+        {
+          "number": 5,
+          "text": "No entanto, o olho de seu Deus estava sobre os anciãos dos judeus, e eles não foram impedidos até que o assunto pudesse ser relatado a Dario e uma resposta fosse recebida."
+        },
+        {
+          "number": 6,
+          "text": "Aqui está uma cópia da carta que Tatenai, o governador da região além do Eufrates, e Setar-Bozenai e seus associados, os oficiais daquela região, enviaram ao rei Dario."
+        },
+        {
+          "number": 7,
+          "text": "O relatório que eles despacharam para ele foi escrito da seguinte forma: “Ao rei Dario: Toda paz."
+        },
+        {
+          "number": 8,
+          "text": "Desejamos informar ao rei que visitamos a província de Judá, ao templo do grande Deus. O edifício está sendo construído com grandes pedras, e madeira está sendo colocada nas paredes. O trabalho está progredindo diligentemente e avançando com sucesso sob sua supervisão."
+        },
+        {
+          "number": 9,
+          "text": "Questionamos os anciãos, perguntando-lhes: ‘Quem autorizou vocês a reconstruir este templo e completar esta estrutura?’"
+        },
+        {
+          "number": 10,
+          "text": "Também solicitamos seus nomes para informá-lo, para que possamos registrar os nomes dos líderes para seu conhecimento."
+        },
+        {
+          "number": 11,
+          "text": "A resposta deles para nós foi: ‘Somos servos do Deus do céu e da terra, e estamos reconstruindo o templo que foi construído muitos anos atrás, que um grande rei de Israel construiu e completou."
+        },
+        {
+          "number": 12,
+          "text": "Mas porque nossos antepassados irritaram o Deus do céu, Ele os entregou nas mãos de Nabucodonosor, o rei caldeu da Babilônia, que destruiu este templo e exilou o povo para a Babilônia."
+        },
+        {
+          "number": 13,
+          "text": "No entanto, no primeiro ano de Ciro, rei da Babilônia, o rei Ciro emitiu um decreto para reconstruir esta casa de Deus."
+        },
+        {
+          "number": 14,
+          "text": "Além disso, os artigos de ouro e prata da casa de Deus, que Nabucodonosor havia tirado do templo em Jerusalém e levado para o templo em Babilônia, o rei Ciro os recuperou do templo de Babilônia e os confiou a um homem chamado Sesbazar, a quem ele havia nomeado governador."
+        },
+        {
+          "number": 15,
+          "text": "Ele o instruiu: “Pegue estes artigos e deposite-os no templo em Jerusalém, e que a casa de Deus seja reconstruída em seu local original.”"
+        },
+        {
+          "number": 16,
+          "text": "Assim, Sesbazar veio e lançou os alicerces da casa de Deus em Jerusalém; e desde então até agora, ela está em construção, embora ainda não esteja concluída.’"
+        },
+        {
+          "number": 17,
+          "text": "Portanto, se agradar ao rei, que seja feita uma busca nos arquivos reais lá em Babilônia para determinar se um decreto foi de fato emitido pelo rei Ciro para reconstruir esta casa de Deus em Jerusalém; e que o rei nos envie sua decisão a respeito deste assunto.”"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "O rei Dario emitiu um decreto, e uma busca foi realizada nos arquivos onde os tesouros estavam armazenados em Babilônia."
+        },
+        {
+          "number": 2,
+          "text": "Na fortaleza de Ecbátana, na província da Média, um rolo foi descoberto, e o seguinte estava escrito: Memorando—"
+        },
+        {
+          "number": 3,
+          "text": "No primeiro ano do rei Ciro, um decreto foi emitido a respeito da casa de Deus em Jerusalém: Que o templo seja reconstruído como um lugar para oferecer sacrifícios, e que suas fundações sejam lançadas, com uma altura de sessenta côvados e uma largura de sessenta côvados,"
+        },
+        {
+          "number": 4,
+          "text": "usando três camadas de grandes pedras e uma camada de madeira. As despesas devem ser cobertas pelo tesouro real."
+        },
+        {
+          "number": 5,
+          "text": "Além disso, os artigos de ouro e prata da casa de Deus, que Nabucodonosor levou de Jerusalém e trouxe para Babilônia, devem ser devolvidos aos seus devidos lugares no templo em Jerusalém; eles devem ser colocados na casa de Deus. ---"
+        },
+        {
+          "number": 6,
+          "text": "Agora, Tatenai, governador da província além do Rio, Setar-Bozenai, e seus colegas, os oficiais daquela região, mantenham-se afastados dali."
+        },
+        {
+          "number": 7,
+          "text": "Não interfiram no trabalho desta casa de Deus. Permitam que o governador dos judeus e os anciãos judeus reconstruam esta casa de Deus em seu local original."
+        },
+        {
+          "number": 8,
+          "text": "Além disso, emito um decreto sobre o que vocês devem fazer por esses anciãos dos judeus na reconstrução desta casa de Deus: O custo total deve ser pago a esses homens do tesouro real, dos impostos das províncias além do Rio, sem demora."
+        },
+        {
+          "number": 9,
+          "text": "Tudo o que for necessário—touros, carneiros e cordeiros para holocaustos ao Deus do céu, e trigo, sal, vinho e azeite, conforme solicitado pelos sacerdotes em Jerusalém—deve ser fornecido a eles diariamente sem falta,"
+        },
+        {
+          "number": 10,
+          "text": "para que possam oferecer sacrifícios ao Deus do céu e buscar o bem-estar do rei e de seus filhos."
+        },
+        {
+          "number": 11,
+          "text": "Também decreto que, se alguém violar este edito, uma viga deve ser retirada de sua casa e ele deve ser empalado nela, e sua casa deve ser transformada em um monte de entulho por esta ofensa."
+        },
+        {
+          "number": 12,
+          "text": "Que o Deus que fez Seu nome habitar ali derrube qualquer rei ou povo que tente alterar este decreto ou destruir esta casa de Deus em Jerusalém. Eu, Dario, emiti este decreto; que seja executado com diligência."
+        },
+        {
+          "number": 13,
+          "text": "Então, devido ao decreto que o rei Dario havia enviado, Tatenai, governador da província além do Rio, Setar-Bozenai, e seus associados o cumpriram com diligência."
+        },
+        {
+          "number": 14,
+          "text": "Assim, os anciãos dos judeus continuaram a construir e prosperar sob a profecia de Ageu, o profeta, e Zacarias, filho de Ido. Eles completaram a construção de acordo com o comando do Deus de Israel e os decretos de Ciro, Dario e Artaxerxes, reis da Pérsia."
+        },
+        {
+          "number": 15,
+          "text": "O templo foi concluído no terceiro dia do mês de Adar, no sexto ano do reinado do rei Dario."
+        },
+        {
+          "number": 16,
+          "text": "Então os israelitas—os sacerdotes, os levitas e o restante dos exilados—celebraram a dedicação da casa de Deus com alegria."
+        },
+        {
+          "number": 17,
+          "text": "Para a dedicação desta casa de Deus, ofereceram cem touros, duzentos carneiros, quatrocentos cordeiros, e como oferta pelo pecado de todo o Israel, doze bodes, correspondendo ao número das tribos de Israel."
+        },
+        {
+          "number": 18,
+          "text": "Eles designaram os sacerdotes em suas divisões e os levitas em seus grupos para o serviço de Deus em Jerusalém, como está escrito no Livro de Moisés."
+        },
+        {
+          "number": 19,
+          "text": "No décimo quarto dia do primeiro mês, os exilados observaram a Páscoa."
+        },
+        {
+          "number": 20,
+          "text": "Os sacerdotes e levitas se purificaram juntos; todos eles estavam cerimonialmente limpos. Os levitas abateram o cordeiro pascal para todos os exilados, para seus irmãos sacerdotes e para si mesmos."
+        },
+        {
+          "number": 21,
+          "text": "Assim, os israelitas que haviam retornado do exílio o comeram, junto com todos os que se separaram da impureza das nações para buscar o Senhor, o Deus de Israel."
+        },
+        {
+          "number": 22,
+          "text": "Por sete dias celebraram com alegria a Festa dos Pães Asmos, porque o Senhor os encheu de alegria ao mudar o coração do rei da Assíria em relação a eles, para encorajá-los no trabalho na casa de Deus, o Deus de Israel."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Após esses eventos, durante o reinado de Artaxerxes, rei da Pérsia, Esdras subiu a Jerusalém. Ele era filho de Seraías, filho de Azarias, filho de Hilquias,"
+        },
+        {
+          "number": 2,
+          "text": "descendente de Salum, descendente de Zadoque, descendente de Aitube,"
+        },
+        {
+          "number": 3,
+          "text": "descendente de Amarias, descendente de Azarias, descendente de Meraiote,"
+        },
+        {
+          "number": 4,
+          "text": "descendente de Zeraías, descendente de Uzi, descendente de Buqui,"
+        },
+        {
+          "number": 5,
+          "text": "descendente de Abisua, descendente de Fineias, descendente de Eleazar, descendente de Arão, o sumo sacerdote."
+        },
+        {
+          "number": 6,
+          "text": "Este Esdras subiu da Babilônia. Ele era um escriba hábil na Lei de Moisés, que o Senhor, o Deus de Israel, havia dado. O rei concedeu-lhe tudo o que pediu, pois a mão do Senhor, seu Deus, estava sobre ele."
+        },
+        {
+          "number": 7,
+          "text": "Alguns dos israelitas, incluindo sacerdotes, levitas, cantores, porteiros e servos do templo, subiram a Jerusalém no sétimo ano do rei Artaxerxes."
+        },
+        {
+          "number": 8,
+          "text": "Esdras chegou a Jerusalém no quinto mês, durante o sétimo ano do rei."
+        },
+        {
+          "number": 9,
+          "text": "No primeiro dia do primeiro mês, ele começou sua jornada da Babilônia, e chegou a Jerusalém no primeiro dia do quinto mês, porque a boa mão de seu Deus estava sobre ele."
+        },
+        {
+          "number": 10,
+          "text": "Pois Esdras havia decidido em seu coração estudar a Lei do Senhor, praticá-la e ensinar seus estatutos e ordenanças em Israel."
+        },
+        {
+          "number": 11,
+          "text": "Esta é uma cópia da carta que o rei Artaxerxes deu a Esdras, o sacerdote, um escriba versado nas palavras dos mandamentos do Senhor e em seus estatutos para Israel:"
+        },
+        {
+          "number": 12,
+          "text": "“Artaxerxes, rei dos reis, a Esdras, o sacerdote, escriba da Lei do Deus do céu: Paz perfeita. E agora"
+        },
+        {
+          "number": 13,
+          "text": "Eu emiti um decreto de que qualquer um do povo de Israel, incluindo sacerdotes e levitas, em meu reino que esteja disposto a ir a Jerusalém, pode ir com você."
+        },
+        {
+          "number": 14,
+          "text": "Você é enviado pelo rei e seus sete conselheiros para inquirir sobre Judá e Jerusalém com respeito à Lei de seu Deus, que está em sua mão."
+        },
+        {
+          "number": 15,
+          "text": "Além disso, você deve levar a prata e o ouro que o rei e seus conselheiros deram voluntariamente ao Deus de Israel, cuja morada está em Jerusalém,"
+        },
+        {
+          "number": 16,
+          "text": "junto com toda a prata e ouro que você encontrar na província da Babilônia, juntamente com as ofertas voluntárias do povo e dos sacerdotes para a casa de seu Deus em Jerusalém."
+        },
+        {
+          "number": 17,
+          "text": "Com este dinheiro, certifique-se de comprar touros, carneiros e cordeiros, juntamente com suas ofertas de cereal e ofertas de bebida, e oferecê-los no altar da casa de seu Deus em Jerusalém."
+        },
+        {
+          "number": 18,
+          "text": "Você e seus compatriotas israelitas podem então fazer o que parecer melhor com o restante da prata e do ouro, de acordo com a vontade de seu Deus."
+        },
+        {
+          "number": 19,
+          "text": "Entregue todos os artigos confiados a você para o serviço da casa de seu Deus ao Deus de Jerusalém."
+        },
+        {
+          "number": 20,
+          "text": "E o restante das necessidades para a casa de seu Deus, que você possa ter que prover, você pode suprir do tesouro real."
+        },
+        {
+          "number": 21,
+          "text": "“Eu, o rei Artaxerxes, emito um decreto a todos os tesoureiros nas províncias além do rio Eufrates, que tudo o que Esdras, o sacerdote, o escriba da Lei do Deus do céu, exigir de vocês, seja feito diligentemente,"
+        },
+        {
+          "number": 22,
+          "text": "até cem talentos de prata, cem coros de trigo, cem batos de vinho, cem batos de azeite, e sal sem medida."
+        },
+        {
+          "number": 23,
+          "text": "Tudo o que for ordenado pelo Deus do céu deve ser feito com zelo para a casa do Deus do céu, para que não haja ira contra o reino do rei e seus filhos."
+        },
+        {
+          "number": 24,
+          "text": "Também informamos que não é permitido impor imposto, tributo ou pedágio a qualquer um dos sacerdotes, levitas, cantores, porteiros, servos do templo ou outros trabalhadores desta casa de Deus."
+        },
+        {
+          "number": 25,
+          "text": "“E você, Esdras, de acordo com a sabedoria de seu Deus que você possui, nomeie magistrados e juízes para julgar todo o povo na província além do Eufrates — todos os que conhecem as leis de seu Deus. E você deve ensinar a qualquer um que seja ignorante delas."
+        },
+        {
+          "number": 26,
+          "text": "Quem não obedecer à lei de seu Deus e à lei do rei deve ser punido com morte, banimento, confisco de bens ou prisão, conforme necessário.”"
+        },
+        {
+          "number": 27,
+          "text": "Bendito seja o Senhor, o Deus de nossos antepassados, que colocou tal coisa no coração do rei, para glorificar a casa do Senhor em Jerusalém,"
+        },
+        {
+          "number": 28,
+          "text": "e que estendeu Seu favor a mim diante do rei e de seus conselheiros e de todos os poderosos oficiais do rei. Porque a mão do Senhor meu Deus estava sobre mim, tomei coragem e reuni homens líderes de Israel para subir comigo."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Estes são os chefes das famílias e os registros genealógicos dos que subiram comigo de Babilônia durante o reinado do rei Artaxerxes:"
+        },
+        {
+          "number": 2,
+          "text": "da linhagem de Finéias, Gérson; da linhagem de Itamar, Daniel; da linhagem de Davi, Hatuse;"
+        },
+        {
+          "number": 3,
+          "text": "dos descendentes de Secanias, que era dos descendentes de Parós, Zacarias, e com ele foram listados 150 homens;"
+        },
+        {
+          "number": 4,
+          "text": "dos descendentes de Paate-Moabe, Elioenai, filho de Zeraías, e com ele 200 homens;"
+        },
+        {
+          "number": 5,
+          "text": "dos descendentes de Zatu, Secanias, filho de Jaaziel, e com ele 300 homens;"
+        },
+        {
+          "number": 6,
+          "text": "dos descendentes de Adim, Ebede, filho de Jônatas, e com ele 50 homens;"
+        },
+        {
+          "number": 7,
+          "text": "dos descendentes de Elão, Jesaías, filho de Atalias, e com ele 70 homens;"
+        },
+        {
+          "number": 8,
+          "text": "dos descendentes de Sefatias, Zebadias, filho de Micael, e com ele 80 homens;"
+        },
+        {
+          "number": 9,
+          "text": "dos descendentes de Joabe, Obadias, filho de Jeiel, e com ele 218 homens;"
+        },
+        {
+          "number": 10,
+          "text": "dos descendentes de Bani, Selomite, filho de Josifias, e com ele 160 homens;"
+        },
+        {
+          "number": 11,
+          "text": "dos descendentes de Bebai, Zacarias, filho de Bebai, e com ele 28 homens;"
+        },
+        {
+          "number": 12,
+          "text": "dos descendentes de Azgade, Joanã, filho de Hacatã, e com ele 110 homens;"
+        },
+        {
+          "number": 13,
+          "text": "dos descendentes de Adonicão, os últimos, cujos nomes eram Elifelete, Jeuel e Semaías, e com eles 60 homens;"
+        },
+        {
+          "number": 14,
+          "text": "dos descendentes de Bigvai, Utai e Zacur, e com eles 70 homens."
+        },
+        {
+          "number": 15,
+          "text": "Eu os reuni junto ao rio que corre para Aava, e acampamos ali por três dias. Quando revisei o povo e os sacerdotes, não encontrei nenhum levita ali."
+        },
+        {
+          "number": 16,
+          "text": "Então convoquei Eliezer, Ariel, Semaías, Elnatã, Jaribe, Elnatã, Natã, Zacarias e Mesulão, que eram homens líderes, e Joiaribe e Elnatã, que eram mestres."
+        },
+        {
+          "number": 17,
+          "text": "Enviei-os a Ido, o líder em Casifia, instruindo-os sobre o que dizer a Ido e seus companheiros levitas, os servos do templo em Casifia, para nos trazer ministros para a casa de nosso Deus."
+        },
+        {
+          "number": 18,
+          "text": "Porque a boa mão de nosso Deus estava sobre nós, eles nos trouxeram Serebias, um homem de entendimento, dos descendentes de Mali, filho de Levi, filho de Israel, e os filhos e irmãos de Serebias, 18 ao todo;"
+        },
+        {
+          "number": 19,
+          "text": "e Hasabias, junto com Jesaías dos descendentes de Merari, e seus irmãos e seus filhos, 20 ao todo."
+        },
+        {
+          "number": 20,
+          "text": "Eles também trouxeram 220 dos servos do templo, que Davi e os oficiais haviam designado para ajudar os levitas, todos registrados por nome."
+        },
+        {
+          "number": 21,
+          "text": "Ali, junto ao rio Aava, proclamei um jejum, para que nos humilhássemos diante de nosso Deus e buscássemos dEle uma jornada segura para nós, nossos filhos e todos os nossos bens."
+        },
+        {
+          "number": 22,
+          "text": "Fiquei envergonhado de pedir soldados e cavaleiros ao rei para nos proteger dos inimigos no caminho, porque havíamos dito ao rei: “A mão de nosso Deus está favoravelmente disposta para todos os que O buscam, mas Seu poder e ira estão contra todos os que O abandonam.”"
+        },
+        {
+          "number": 23,
+          "text": "Então jejuamos e rogamos ao nosso Deus sobre isso, e Ele atendeu ao nosso pedido."
+        },
+        {
+          "number": 24,
+          "text": "Então designei doze dos principais sacerdotes: Serebias, Hasabias, e com eles dez de seus irmãos."
+        },
+        {
+          "number": 25,
+          "text": "Pesei para eles a prata, o ouro e os utensílios, a oferta para a casa de nosso Deus que o rei, seus conselheiros, seus oficiais e todo o Israel presente haviam contribuído."
+        },
+        {
+          "number": 26,
+          "text": "Pesei para eles 650 talentos de prata, utensílios de prata pesando 100 talentos, e 100 talentos de ouro,"
+        },
+        {
+          "number": 27,
+          "text": "20 tigelas de ouro avaliadas em 1.000 dáricos, e dois utensílios finos de bronze polido, tão preciosos quanto ouro."
+        },
+        {
+          "number": 28,
+          "text": "Eu lhes disse: “Vocês são santos para o Senhor, e os utensílios são santos; a prata e o ouro são uma oferta voluntária ao Senhor, o Deus de seus antepassados."
+        },
+        {
+          "number": 29,
+          "text": "Guardem-nos cuidadosamente até que os pesem nas câmaras da casa do Senhor em Jerusalém diante dos principais sacerdotes, dos levitas e dos chefes de família de Israel.”"
+        },
+        {
+          "number": 30,
+          "text": "Assim, os sacerdotes e os levitas receberam a prata, o ouro e os utensílios sagrados que haviam sido pesados para serem levados à casa de nosso Deus em Jerusalém."
+        },
+        {
+          "number": 31,
+          "text": "No décimo segundo dia do primeiro mês, partimos do rio Aava para ir a Jerusalém. A mão de nosso Deus estava sobre nós, e Ele nos protegeu de inimigos e emboscadas ao longo do caminho."
+        },
+        {
+          "number": 32,
+          "text": "Assim, chegamos a Jerusalém e ficamos lá por três dias."
+        },
+        {
+          "number": 33,
+          "text": "No quarto dia, na casa de nosso Deus, pesamos a prata, o ouro e os utensílios sagrados nas mãos de Meremote, filho de Urias, o sacerdote. Eleazar, filho de Finéias, estava com ele, assim como os levitas Jozabade, filho de Jesua, e Noadias, filho de Binui."
+        },
+        {
+          "number": 34,
+          "text": "Tudo foi verificado por número e peso, e todo o peso foi registrado naquela ocasião."
+        },
+        {
+          "number": 35,
+          "text": "Então os exilados que haviam retornado do cativeiro ofereceram holocaustos ao Deus de Israel: doze novilhos por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros, e doze bodes como oferta pelo pecado. Tudo isso foi um holocausto ao Senhor."
+        },
+        {
+          "number": 36,
+          "text": "Eles também entregaram as ordens do rei aos sátrapas do rei e aos governadores das províncias além do Eufrates, que então apoiaram o povo e a casa de Deus."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Depois que essas coisas foram concluídas, os oficiais se aproximaram de mim e disseram: “O povo de Israel, incluindo os sacerdotes e os levitas, não se mantiveram distintos dos povos vizinhos e suas abominações, como as dos cananeus, hititas, perizeus, jebuseus, amonitas, moabitas, egípcios e amorreus."
+        },
+        {
+          "number": 2,
+          "text": "Eles tomaram algumas de suas filhas como esposas para si e para seus filhos, misturando assim a linhagem sagrada com os povos das terras. De fato, os líderes e oficiais foram os principais nessa infidelidade.”"
+        },
+        {
+          "number": 3,
+          "text": "Ao ouvir isso, rasguei meu manto e minha capa, arranquei cabelo da minha cabeça e barba, e sentei-me completamente consternado."
+        },
+        {
+          "number": 4,
+          "text": "Então todos os que tremiam diante das palavras do Deus de Israel, por causa da infidelidade dos exilados, se reuniram ao meu redor, e permaneci consternado até o sacrifício da tarde."
+        },
+        {
+          "number": 5,
+          "text": "Na hora da oferta da tarde, levantei-me da minha humilhação, com meu manto e minha capa rasgados, e caí de joelhos, estendendo minhas mãos ao Senhor meu Deus;"
+        },
+        {
+          "number": 6,
+          "text": "e orei: “Ó meu Deus, estou muito envergonhado e humilhado para levantar meu rosto a Ti, meu Deus, pois nossas iniquidades se elevaram acima de nossas cabeças, e nossa culpa chegou até os céus."
+        },
+        {
+          "number": 7,
+          "text": "Desde os dias de nossos antepassados até hoje, nossa culpa tem sido grande. Por causa de nossos pecados, nós, nossos reis e nossos sacerdotes fomos entregues nas mãos dos reis das terras, à espada, ao cativeiro, ao saque e à desonra, como acontece hoje."
+        },
+        {
+          "number": 8,
+          "text": "Mas agora, por um breve momento, o Senhor nosso Deus nos mostrou graça, deixando-nos um remanescente e dando-nos um ponto de apoio seguro em Seu lugar santo, para que nosso Deus possa iluminar nossos olhos e nos conceder um pouco de alívio em nossa escravidão."
+        },
+        {
+          "number": 9,
+          "text": "Pois, embora sejamos escravos, nosso Deus não nos abandonou em nossa escravidão. Ele nos estendeu bondade à vista dos reis da Pérsia, concedendo-nos nova vida para reconstruir a casa de nosso Deus e restaurar suas ruínas, e nos deu um muro de proteção em Judá e Jerusalém."
+        },
+        {
+          "number": 10,
+          "text": "“E agora, nosso Deus, o que podemos dizer depois disso? Pois de fato abandonamos Seus mandamentos,"
+        },
+        {
+          "number": 11,
+          "text": "que Você deu por meio de Seus servos, os profetas, dizendo: ‘A terra que vocês estão entrando para possuir é uma terra contaminada pela impureza dos povos das terras, com suas abominações enchendo-a de uma extremidade à outra."
+        },
+        {
+          "number": 12,
+          "text": "Portanto, não deem suas filhas em casamento aos filhos deles, nem tomem as filhas deles para seus filhos. Nunca busquem sua paz ou prosperidade, para que vocês sejam fortes e comam o bem da terra e a deixem como uma herança eterna para seus filhos.’"
+        },
+        {
+          "number": 13,
+          "text": "Depois de tudo o que nos sobreveio por nossos atos malignos e grande culpa, já que Você, nosso Deus, nos puniu menos do que nossos pecados mereciam e nos deu um remanescente como este,"
+        },
+        {
+          "number": 14,
+          "text": "quebraremos novamente Seus mandamentos e nos casaremos com os povos que praticam tais abominações? Você não ficaria irado conosco a ponto de nos destruir, não deixando remanescente ou sobrevivente?"
+        },
+        {
+          "number": 15,
+          "text": "Ó Senhor, Deus de Israel, Você é justo! Hoje somos deixados como um remanescente. Aqui estamos diante de Você em nossa culpa, e por causa dela, nenhum de nós pode permanecer em Sua presença.”"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Enquanto Esdras orava e fazia confissão, chorando e prostrado diante da casa de Deus, uma grande assembleia de israelitas — homens, mulheres e crianças — se reuniu ao seu redor, pois o povo chorava amargamente."
+        },
+        {
+          "number": 2,
+          "text": "Então Secanias, filho de Jeiel, um dos descendentes de Elão, disse a Esdras: “Nós fomos infiéis ao nosso Deus, casando com mulheres estrangeiras dos povos da terra. No entanto, há esperança para Israel apesar disso."
+        },
+        {
+          "number": 3,
+          "text": "Façamos agora um pacto com o nosso Deus para mandar embora todas essas mulheres e seus filhos, seguindo o conselho do meu senhor e daqueles que tremem diante do mandamento do nosso Deus. Que seja feito de acordo com a Lei."
+        },
+        {
+          "number": 4,
+          "text": "Levante-se, pois esta questão é de sua responsabilidade. Nós o apoiaremos, então seja corajoso e aja.”"
+        },
+        {
+          "number": 5,
+          "text": "Então Esdras se levantou e fez os principais sacerdotes, os levitas e todo o Israel jurarem que fariam o que havia sido proposto. E eles fizeram o juramento."
+        },
+        {
+          "number": 6,
+          "text": "Depois Esdras se retirou de diante da casa de Deus e foi para o quarto de Joanã, filho de Eliasibe. Ele não comeu pão nem bebeu água ali, pois estava de luto pela infidelidade dos exilados."
+        },
+        {
+          "number": 7,
+          "text": "Foi emitida uma proclamação por toda a Judá e Jerusalém para que todos os exilados se reunissem em Jerusalém."
+        },
+        {
+          "number": 8,
+          "text": "Qualquer um que não aparecesse dentro de três dias perderia toda a sua propriedade, de acordo com a decisão dos líderes e anciãos, e seria excluído da assembleia dos exilados."
+        },
+        {
+          "number": 9,
+          "text": "Dentro dos três dias, todos os homens de Judá e Benjamim se reuniram em Jerusalém. No vigésimo dia do nono mês, todo o povo se sentou na praça diante da casa de Deus, tremendo por causa desta questão e da forte chuva."
+        },
+        {
+          "number": 10,
+          "text": "Então Esdras, o sacerdote, levantou-se e disse-lhes: “Vocês foram infiéis, casando com mulheres estrangeiras, aumentando a culpa de Israel."
+        },
+        {
+          "number": 11,
+          "text": "Agora façam confissão ao Senhor, o Deus de seus antepassados, e façam a Sua vontade. Separem-se dos povos da terra e de suas mulheres estrangeiras.”"
+        },
+        {
+          "number": 12,
+          "text": "Toda a assembleia respondeu em alta voz: “É nosso dever fazer como você disse."
+        },
+        {
+          "number": 13,
+          "text": "No entanto, há muitas pessoas aqui, e é a estação das chuvas; não podemos ficar do lado de fora. Além disso, esta questão não pode ser resolvida em um ou dois dias, pois pecamos grandemente nisso."
+        },
+        {
+          "number": 14,
+          "text": "Que nossos líderes ajam em nome de toda a assembleia, e que todos em nossas cidades que se casaram com uma mulher estrangeira venham em tempos designados, junto com os anciãos e juízes de cada cidade, até que a ira feroz do nosso Deus sobre este assunto se afaste de nós.”"
+        },
+        {
+          "number": 15,
+          "text": "Jônatas, filho de Asael, e Jazeias, filho de Ticvá, foram os únicos que se opuseram a isso, com Mesulão e Sabetai, o levita, apoiando-os."
+        },
+        {
+          "number": 16,
+          "text": "Assim, os exilados fizeram como proposto. Esdras, o sacerdote, selecionou homens que eram chefes de famílias, um de cada divisão familiar, todos designados por nome. Eles se reuniram no primeiro dia do décimo mês para investigar a questão,"
+        },
+        {
+          "number": 17,
+          "text": "e até o primeiro dia do primeiro mês completaram a resolução de todos os homens que haviam se casado com mulheres estrangeiras."
+        },
+        {
+          "number": 18,
+          "text": "Entre os descendentes dos sacerdotes, os seguintes haviam se casado com mulheres estrangeiras: Dos descendentes de Jesua, filho de Jozadaque, e seus irmãos: Maaseias, Eliezer, Jaribe e Gedalias."
+        },
+        {
+          "number": 19,
+          "text": "Eles prometeram mandar embora suas esposas, e por sua culpa, cada um apresentou um carneiro do rebanho como oferta pela culpa."
+        },
+        {
+          "number": 20,
+          "text": "Da linhagem de Imer: Hanani e Zebadias."
+        },
+        {
+          "number": 21,
+          "text": "Da linhagem de Harim: Maaseias, Elias, Semaías, Jeiel e Uzias."
+        },
+        {
+          "number": 22,
+          "text": "Da linhagem de Pasur: Elioenai, Maaseias, Ismael, Netanel, Jozabade e Elasa."
+        },
+        {
+          "number": 23,
+          "text": "Entre os levitas: Jozabade, Simei, Quelaias (também conhecido como Quelita), Petaías, Judá e Eliezer."
+        },
+        {
+          "number": 24,
+          "text": "Eliasibe estava entre aqueles que serviam nos papéis musicais. Salum, Telem e Uri estavam entre aqueles que serviam como porteiros."
+        },
+        {
+          "number": 25,
+          "text": "E entre os outros israelitas: Da linhagem de Parós: Ramias, Issias, Malquias, Miamim, Eleazar, Malquias e Benaia."
+        },
+        {
+          "number": 26,
+          "text": "Da linhagem de Elão: Matanias, Zacarias, Jeiel, Abdi, Jeremote e Elias."
+        },
+        {
+          "number": 27,
+          "text": "Da linhagem de Zatu: Elioenai, Eliasibe, Matanias, Jeremote, Zabade e Aziza."
+        },
+        {
+          "number": 28,
+          "text": "Da linhagem de Bebai: Joanã, Hananias, Zabai e Atlai."
+        },
+        {
+          "number": 29,
+          "text": "Da família de Bani: Mesulão, Maluque, Adaías, Jasube, Seal e Jeremote."
+        },
+        {
+          "number": 30,
+          "text": "Da família de Paate-Moabe: Adna, Quelal, Benaia, Maaseias, Matanias, Bezalel, Binui e Manassés."
+        },
+        {
+          "number": 31,
+          "text": "Da linhagem de Harim: Eliezer, Issias, Malquias, Semaías, Simeão,"
+        },
+        {
+          "number": 32,
+          "text": "Incluindo Benjamim, Maluque e Semarias."
+        },
+        {
+          "number": 33,
+          "text": "Da linhagem de Hasum: Matenai, Matatã, Zabade, Elifelete, Jeremai, Manassés e Simei."
+        },
+        {
+          "number": 34,
+          "text": "Da linhagem de Bani: Maadai, Amrão, Uel,"
+        },
+        {
+          "number": 35,
+          "text": "Benaia, e Bedeias, e Quelui,"
+        },
+        {
+          "number": 36,
+          "text": "Vania, e Meremote, e Eliasibe,"
+        },
+        {
+          "number": 37,
+          "text": "Matanias, e Matenai, e Jaasu."
+        },
+        {
+          "number": 38,
+          "text": "Da linhagem de Binui: Simei,"
+        },
+        {
+          "number": 39,
+          "text": "Selemias, e Natã, e Adaías,"
+        },
+        {
+          "number": 40,
+          "text": "Macnadebai, e Sasai, e Sarai,"
+        },
+        {
+          "number": 41,
+          "text": "Azareel, e Selemias, e Semarias,"
+        },
+        {
+          "number": 42,
+          "text": "Salum, e Amarias, e José."
+        },
+        {
+          "number": 43,
+          "text": "Da linhagem de Nebo: Jeiel, Matitias, Zabade, Zebina, Jadai, Joel e Benaia."
+        },
+        {
+          "number": 44,
+          "text": "Todos estes haviam se casado com mulheres estrangeiras, e alguns deles tiveram filhos com essas esposas."
+        }
+      ]
+    }
+  ]
+}
