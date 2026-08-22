@@ -44,7 +44,9 @@ Toda versão precisa incluir um arquivo `versoes/{versao}/LICENSE.md` descrevend
 
 Esse arquivo é a referência oficial para revisão de licenciamento — sem ele, o PR não é aceito.
 
-Depois que o PR é mesclado na `main`, o workflow [`atualizar-fontes.yml`](.github/workflows/atualizar-fontes.yml) lê automaticamente todos os `versoes/{versao}/LICENSE.md` e regenera [`docs/fontes.md`](docs/fontes.md) — incluindo o número do PR e o autor da contribuição. **Não é necessário, e nem deve ser feito, editar `docs/fontes.md` manualmente**: qualquer PR que altere esse arquivo à mão terá a alteração descartada no próximo push na `main`.
+Depois que o PR é mesclado na `main`, o workflow [`atualizar-fontes.yml`](.github/workflows/atualizar-fontes.yml) lê automaticamente todos os `versoes/{versao}/LICENSE.md` e regenera [`docs/fontes.md`](docs/fontes.md), incluindo o número do PR e o autor da contribuição.
+
+**Não é necessário (e nem deve ser feito) editar `docs/fontes.md` manualmente**: qualquer PR que altere esse arquivo à mão terá a alteração descartada no próximo push na `main`.
 
 ## Completude da versão
 
