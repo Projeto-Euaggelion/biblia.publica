@@ -1,0 +1,4496 @@
+{
+  "name": "Jó",
+  "abbrev": "job",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Havia um homem na terra de Uz chamado Jó. Homem íntegro e reto que temia a Deus e se afastava do mal."
+        },
+        {
+          "number": 2,
+          "text": "Jó teve sete filhos e três filhas."
+        },
+        {
+          "number": 3,
+          "text": "Tinha sete mil ovelhas, três mil camelos, quinhentas juntas de bois, quinhentas jumentas e uma multidão de empregados. Ele era o maior de todos os homens do oriente."
+        },
+        {
+          "number": 4,
+          "text": "Os filhos, no dia determinado para cada um, ofereciam uma festa em sua casa. Eles convidavam também suas três irmãs para comerem e beberem com eles."
+        },
+        {
+          "number": 5,
+          "text": "Quando os dias da festa terminavam, Jó os chamava e os consagrava. Levantava-se cedo de manhã e oferecia holocaustos para cada um dos seus filhos, pois ele dizia: \"Talvez os meus filhos tenham pecado e blasfemado contra Deus em seus corações\". Jó sempre fazia isso."
+        },
+        {
+          "number": 6,
+          "text": "Então, chegou o dia em que os filhos de Deus apresentaram-se diante de Yahweh, e, com eles, veio também Satanás."
+        },
+        {
+          "number": 7,
+          "text": "Yahweh disse a Satanás: \"De onde vens?\". E Satanás respondeu a Yahweh, dizendo: \"De rodear a Terra e andar por ela\"."
+        },
+        {
+          "number": 8,
+          "text": "Yahweh disse a Satanás: \"Observaste o meu servo Jó? Porque não existe ninguém como ele na Terra, homem íntegro e reto, que teme a Deus e se afasta do mal\"."
+        },
+        {
+          "number": 9,
+          "text": "E Satanás respondeu a Yahweh: \"Por acaso, Jó teme a Deus sem motivo?"
+        },
+        {
+          "number": 10,
+          "text": "Não fizeste um muro em volta dele, ao redor da sua casa e em tudo que está a sua volta? Abençoaste as obras das suas mãos e seu rebanho aumentou na terra."
+        },
+        {
+          "number": 11,
+          "text": "Todavia, estende a Tua mão sobre tudo o que ele possui e vê se ele não blasfema contra Ti na Tua face\"."
+        },
+        {
+          "number": 12,
+          "text": "Yahweh disse a Satanás: \"Então, tudo o que ele possui está em teu poder. Só não estendas a tua mão sobre ele\". E Satanás retirou-se da presença de Yahweh."
+        },
+        {
+          "number": 13,
+          "text": "Em certo dia, os filhos e as filhas de Jó estavam comendo e bebendo vinho na casa do irmão mais velho."
+        },
+        {
+          "number": 14,
+          "text": "Um mensageiro veio a Jó e disse: \"Os bois estavam lavrando e as jumentas pastando ao lado deles;"
+        },
+        {
+          "number": 15,
+          "text": "de repente, chegaram os sabeus e os atacaram e os levaram embora. Também mataram os servos ao fio de espada e só eu escapei para trazer-te a notícia\"."
+        },
+        {
+          "number": 16,
+          "text": "Enquanto ele falava, um outro mensageiro veio e disse: \"Fogo de Deus caiu dos céus e queimou todas ovelhas e os servos; e só eu escapei para trazer-te a notícia\"."
+        },
+        {
+          "number": 17,
+          "text": "Enquanto este ainda falava, um outro mensageiro chegou e disse: \"Os caldeus formaram três grupos, atacaram os camelos e os levaram. Quanto aos servos, mataram ao fio espada e só eu escapei para trazer-te a notícia\"."
+        },
+        {
+          "number": 18,
+          "text": "Enquanto este ainda falava, outro também chegou, dizendo: \"Os teus filhos e as tuas filhas estavam comendo e bebendo vinho na casa do irmão mais velho,"
+        },
+        {
+          "number": 19,
+          "text": "veio um vento forte do deserto, atingiu os quatro cantos da casa, que caiu sobre eles e eles morreram; só eu escapei para trazer-te a notícia\"."
+        },
+        {
+          "number": 20,
+          "text": "Então, Jó levantou-se, rasgou sua túnica, rapou a sua cabeça, prostrou-se em terra e adorou a Deus."
+        },
+        {
+          "number": 21,
+          "text": "E disse: \"Nu, eu vim do ventre da minha mãe e, nu, eu voltarei para lá. Yahweh deu e Yahweh tirou. Bendito seja o nome de Yahweh\"."
+        },
+        {
+          "number": 22,
+          "text": "Em tudo isso, Jó não pecou e nem acusou a Deus por qualquer maldade."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Chegou o dia em que os filhos de Deus se apresentaram diante de Yahweh e, com eles, veio também Satanás se apresentar diante de Yahweh."
+        },
+        {
+          "number": 2,
+          "text": "Yahweh disse a Satanás: \"De onde vens?\". E Satanás respondeu a Yahweh: \"De rodear a Terra e andar por ela\"."
+        },
+        {
+          "number": 3,
+          "text": "Yahweh disse a Satanás: \"Observaste o meu servo Jó? Porque não existe ninguém como ele na Terra, homem íntegro e reto, que teme a Deus e se afasta do mal. Ele continua firme em sua integridade, embora tu Me persuadiste contra ele, para destruí-lo sem causa\"."
+        },
+        {
+          "number": 4,
+          "text": "Satanás respondeu a Yahweh: \"De fato, pele por pele, um homem dará tudo o que tem pela sua vida."
+        },
+        {
+          "number": 5,
+          "text": "Mas estende Tua mão agora e toca seus ossos e sua carne e vê se ele não Te amaldiçoa na Tua face\"."
+        },
+        {
+          "number": 6,
+          "text": "Yahweh disse a Satanás: \"Vê, ele está em tuas mãos, somente poupe-lhe a vida\"."
+        },
+        {
+          "number": 7,
+          "text": "Então, Satanás saiu da presença de Yahweh e feriu Jó com terríveis feridas, da sola dos pés até o alto da sua cabeça."
+        },
+        {
+          "number": 8,
+          "text": "Jó pegou um pedaço de telha para se coçar e sentou-se no meio das cinzas."
+        },
+        {
+          "number": 9,
+          "text": "Então, sua esposa disse-lhe: \"Tu continuas com tua integridade? Amaldiçoa Deus e morre\"."
+        },
+        {
+          "number": 10,
+          "text": "Mas ele lhe disse: \"Tu falas com uma mulher louca. Receberíamos as coisas boas de Deus e não as más?\". Em tudo isto, Jó não pecou com seus lábios."
+        },
+        {
+          "number": 11,
+          "text": "Quando os três amigos de Jó ouviram sobre todo o mal que lhe sobreviera, cada um veio de seu próprio lugar: Elifaz, o temanita; Bildade, o suita; Zofar, o naamatita. Eles determinaram um certo tempo para vir chorar com ele e o confortar."
+        },
+        {
+          "number": 12,
+          "text": "Quando, de longe, eles ergueram seus olhos, não o reconheceram. Então, levantaram a voz e choraram, rasgaram os seus mantos e lançaram pó para o ar e sobre suas próprias cabeças."
+        },
+        {
+          "number": 13,
+          "text": "E sentaram com ele no chão, por sete dias e sete noites e não lhe disseram palavra alguma; pois viram que o seu sofrimento era muito grande."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Depois disso, Jó abriu sua boca e amaldiçoou o dia do seu nascimento."
+        },
+        {
+          "number": 2,
+          "text": "Ele disse:"
+        },
+        {
+          "number": 3,
+          "text": "\"Que pereça o dia em que eu nasci e a noite que disse: 'Um menino foi concebido!'."
+        },
+        {
+          "number": 4,
+          "text": "Que aquele dia seja escuro; e que Deus, lá do alto, não o considere, nem deixe a luz do sol brilhar sobre ele."
+        },
+        {
+          "number": 5,
+          "text": "Que as trevas e a sombra da morte reivindiquem-no para eles mesmos; que a nuvem viva sobre ele; que todas as coisas que fazem o dia negro possam verdadeiramente aterrorizá-lo."
+        },
+        {
+          "number": 6,
+          "text": "Que densas trevas se apoderem daquela noite; que não se regozije ela entre os dias do ano; nem seja contada entre os dias dos meses."
+        },
+        {
+          "number": 7,
+          "text": "Seja aquela noite estéril; e, nela, não se ouça som de júbilo."
+        },
+        {
+          "number": 8,
+          "text": "Que eles amaldiçoem aquele dia, aqueles que sabem como acordar o Leviatã."
+        },
+        {
+          "number": 9,
+          "text": "Que as estrelas do amanhecer se tornem escuras. Que aquele dia olhe em direção à luz, mas não o encontre; nem o deixe ver as pálpebras dos olhos do amanhecer,"
+        },
+        {
+          "number": 10,
+          "text": "porque não fechou as portas do ventre da minha mãe, nem escondeu o sofrimento diante dos meus olhos."
+        },
+        {
+          "number": 11,
+          "text": "Por que eu não morri quando eu sai do ventre da minha mãe? Por que não rendi o espírito quando minha mãe me deu à luz?"
+        },
+        {
+          "number": 12,
+          "text": "Por que seus joelhos me receberam? Por que me amamentariam os seios da minha mãe?"
+        },
+        {
+          "number": 13,
+          "text": "Agora eu estaria repousando tranquilamente. Eu dormiria e descansaria"
+        },
+        {
+          "number": 14,
+          "text": "com reis e conselheiros da terra, que construíram tumbas para si que agora estão em ruínas."
+        },
+        {
+          "number": 15,
+          "text": "Ou eu estaria deitado com príncipes que uma vez tiveram ouro, que encheram suas casas com prata."
+        },
+        {
+          "number": 16,
+          "text": "Ou, talvez, eu seria como aborto que nunca teria nascido, como uma criança que nunca viu a luz."
+        },
+        {
+          "number": 17,
+          "text": "Ali, o perverso cessa de perturbar; e, ali, repousam os cansados."
+        },
+        {
+          "number": 18,
+          "text": "Ali, os prisioneiros ficam à vontade juntos; eles não houvem a voz do feitor."
+        },
+        {
+          "number": 19,
+          "text": "Pequenos e grandes estão lá; o servo está livre de seu senhor."
+        },
+        {
+          "number": 20,
+          "text": "Por que se dá luz aquele que está em miséria? Por que se concede vida àquele que está com a alma amargurada;"
+        },
+        {
+          "number": 21,
+          "text": "para aquele que anseia pela morte, mas ela não vem; para aqueles que procuram pela morte mais que os que procuram por tesouro escondido?"
+        },
+        {
+          "number": 22,
+          "text": "Por que a luz é concedida à aquele que se alegra muito e fica feliz quando encontra a sepultura?"
+        },
+        {
+          "number": 23,
+          "text": "Por que a luz é concedida ao homem cujo caminho está escondido, um homem a quem Deus o encobriu?"
+        },
+        {
+          "number": 24,
+          "text": "O meu suspiro vem antes da minha comida; o meu gemido é derramado como água."
+        },
+        {
+          "number": 25,
+          "text": "Aquilo que eu temia veio sobre mim; o que eu receava me aconteceu."
+        },
+        {
+          "number": 26,
+          "text": "Eu não estou tranquilo, eu não estou calmo; eu não tenho descanso; pelo contrário, tenho problemas\"."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Elifaz, o temanita respondeu, dizendo:"
+        },
+        {
+          "number": 2,
+          "text": "\"Se alguém tentar falar contigo, serás impaciente? Mas quem pode conter sua própria fala?"
+        },
+        {
+          "number": 3,
+          "text": "Eis que tens ensinado a muitos; tens fortalecido mãos fracas."
+        },
+        {
+          "number": 4,
+          "text": "Tuas palavras têm sustentado os que estavam caindo, tens feito fortes os joelhos vacilantes."
+        },
+        {
+          "number": 5,
+          "text": "Mas agora os problemas chegaram a ti e sofres; e, ao ser atingido, te aflinges."
+        },
+        {
+          "number": 6,
+          "text": "Não poderia o teu temor a Deus te dar confiança? Não poderia a integridade dos teus caminhos te dar esperança?"
+        },
+        {
+          "number": 7,
+          "text": "Pensa sobre isto: quem alguma vez pereceu sendo inocente? Ou qual dos íntegros foi destruído?"
+        },
+        {
+          "number": 8,
+          "text": "Baseado no que tenho observado, aquele que pratica iniquidade e que planta o mal também o colherá."
+        },
+        {
+          "number": 9,
+          "text": "Pelo sopro de Deus, eles perecem; pelo vento da Sua ira, são consumidos."
+        },
+        {
+          "number": 10,
+          "text": "Cessa o rugido do leão e a voz do leão feroz; os dentes dos leões novos se quebram."
+        },
+        {
+          "number": 11,
+          "text": "O leão perece por falta de presas; os filhotes da leoa são espalhados por todos os lados."
+        },
+        {
+          "number": 12,
+          "text": "Então, ouvi uma questão que alguém me trouxe secretamente, os meus ouvidos ouviram o segredo disso."
+        },
+        {
+          "number": 13,
+          "text": "Ele me falou em visões durante a noite, quando as pessoas caem em sono profundo."
+        },
+        {
+          "number": 14,
+          "text": "Temor e tremor vieram a mim e fizeram todos os meus ossos estremecerem."
+        },
+        {
+          "number": 15,
+          "text": "Então, um espírito passou diante da minha face; os pêlos do meu corpo levantaram-se."
+        },
+        {
+          "number": 16,
+          "text": "O espírito permaneceu em pé, mas eu não pude discernir a sua aparência. Um vulto estava diante dos meus olhos; houve silêncio e eu ouvi uma voz que dizia:"
+        },
+        {
+          "number": 17,
+          "text": "Pode um homem mortal ser mais justo que Deus? Pode um homem ser mais puro que seu Criador?"
+        },
+        {
+          "number": 18,
+          "text": "Eis que Deus não confia nos Seus servos; se até a Seus anjos atribui loucura,"
+        },
+        {
+          "number": 19,
+          "text": "quanto mais aos que habitam em casas de barro, cuja fundação é o pó, que irão se desfazer mais rapidamente que a ferrugem?"
+        },
+        {
+          "number": 20,
+          "text": "Entre a manhã e a noite, eles são destruídos; eles perecem para sempre sem que ninguém se lembre deles."
+        },
+        {
+          "number": 21,
+          "text": "As tendas deles não estão montadas entre eles? Eles morrem; eles morrem sem sabedoria."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Chama agora, será que há alguém que te responderá?A qual dos santos tu te dirigirás?"
+        },
+        {
+          "number": 2,
+          "text": "Porque a raiva mata o homem imprudente. A inveja mata o tolo."
+        },
+        {
+          "number": 3,
+          "text": "Eu já vi uma pessoa tola lançar raízes, mas subitamente amaldiçoei o seu lar."
+        },
+        {
+          "number": 4,
+          "text": "Os seus filhos estão longe da segurança, eles são esmagados no portão da cidade. Não há quem lhes resgatem."
+        },
+        {
+          "number": 5,
+          "text": "Os famintos devoraram a sua colheita; eles a tiram até dos espinhos. Os sedentos anseiam pela sua riqueza."
+        },
+        {
+          "number": 6,
+          "text": "Porque os problemas não vêm do solo; nem as tribulações vêm do chão;"
+        },
+        {
+          "number": 7,
+          "text": "Ao invés disso, a humanidade faz a sua própria tribulação, como as faíscas voam ."
+        },
+        {
+          "number": 8,
+          "text": "Quanto a mim, voltaria para Deus; para Ele, entregaria a minha causa —"
+        },
+        {
+          "number": 9,
+          "text": "Ele, que faz coisas grandes e insondáveis, maravilhas inumeráveis."
+        },
+        {
+          "number": 10,
+          "text": "Ele dá chuva à terra e envia água aos campos."
+        },
+        {
+          "number": 11,
+          "text": "Ele faz isto para elevar às alturas aqueles que estão abatidos; para levantar à segurança aqueles que estão de luto."
+        },
+        {
+          "number": 12,
+          "text": "Ele frustra os planos dos astutos, de modo que as suas mãos não possam obter êxito."
+        },
+        {
+          "number": 13,
+          "text": "Ele apanha os sábios na sua própria astúcia; os planos dos perversos logo se findam."
+        },
+        {
+          "number": 14,
+          "text": "Eles encontram trevas durante o dia, e, ao meio dia, tateam como cegos como se fosse à noite."
+        },
+        {
+          "number": 15,
+          "text": "Mas Ele salva os pobres da espada que está na boca deles e as pessoas necessitadas das mãos dos fortes."
+        },
+        {
+          "number": 16,
+          "text": "Assim, o pobre tem esperança e a injustiça tapa a sua própria boca."
+        },
+        {
+          "number": 17,
+          "text": "Abençoado é o homem que Deus corrige, portanto, não desprezes a disciplina do Todo Poderoso."
+        },
+        {
+          "number": 18,
+          "text": "Porque Ele fere e ata o ferimento; Ele fere e depois as Suas mãos curam."
+        },
+        {
+          "number": 19,
+          "text": "Ele irá te salvar de seis problemas; e, em sete dificuldades, nenhum mal te tocará."
+        },
+        {
+          "number": 20,
+          "text": "Na fome, Ele te resgatará da morte; na guerra, do poder da espada."
+        },
+        {
+          "number": 21,
+          "text": "Tu estarás escondido do perigo da língua; e tu não temerás a destruição quando vier."
+        },
+        {
+          "number": 22,
+          "text": "Tu rirás da destruição e da fome; tu não temerás os animais devoradores."
+        },
+        {
+          "number": 23,
+          "text": "Porque terás uma aliança com as pedras do teu campo; e os animais selvagens estarão em paz contigo."
+        },
+        {
+          "number": 24,
+          "text": "Tu saberás que a tua tenda está protegida, visitarás o seu aprisco e, nele, nada faltará."
+        },
+        {
+          "number": 25,
+          "text": "Tu saberás também que a tua posteridade será grande e os teus descendentes serão como o capim no solo."
+        },
+        {
+          "number": 26,
+          "text": "Tu morrerás com uma idade avançada como uma semente que é colhida no tempo certo."
+        },
+        {
+          "number": 27,
+          "text": "Vê, nós já examinamos este caso e assim é, ouve e sabe disso por ti mesmo\"."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Jó respondeu, dizendo:"
+        },
+        {
+          "number": 2,
+          "text": "\"Ó! Se apenas a minha angústia fosse pesada, se toda a minha calamidade fosse colocada na balança!"
+        },
+        {
+          "number": 3,
+          "text": "Por agora, seriam mais pesadas que a areia dos mares. Por isso, minhas palavras foram precipitadas."
+        },
+        {
+          "number": 4,
+          "text": "Já que as flechas do Todo Poderoso estão em mim, meu espírito bebe o veneno delas; o terror de Deus está posto contra mim."
+        },
+        {
+          "number": 5,
+          "text": "O jumento selvagem vai ficar desesperado quando tem grama? Ou vai ficar o boi com fome quando ele tem pasto?"
+        },
+        {
+          "number": 6,
+          "text": "Pode aquilo que não tem sabor ser comido sem sal? Ou tem qualquer sabor a clara de um ovo?"
+        },
+        {
+          "number": 7,
+          "text": "Eu me recuso tocá-los pois são como comida desagradáveis para mim."
+        },
+        {
+          "number": 8,
+          "text": "Ó, quem dera que se cumprisse o meu pedido; ó, como desejaria que Deus respondesse a pergunta que eu lhe fiz."
+        },
+        {
+          "number": 9,
+          "text": "Eu desejaria que Deus me esmagasse de uma vez, que me soltasse de Suas mãos e me tirasse desta vida."
+        },
+        {
+          "number": 10,
+          "text": "Que ainda seja este o meu consolo — mesmo que eu exulte numa dor implacável: que eu não tenha negado as palavras do Santo."
+        },
+        {
+          "number": 11,
+          "text": "Que força eu tenho para tentar esperar? Qual é o meu fim, para que eu possa prolongar a minha vida?"
+        },
+        {
+          "number": 12,
+          "text": "É minha força a força das pedras? Ou é minha carne feita de bronze?"
+        },
+        {
+          "number": 13,
+          "text": "Não é verdade que eu não tenho ajuda em mim mesmo e que a sabedoria tenha sido tirada de mim?"
+        },
+        {
+          "number": 14,
+          "text": "Para a pessoa que está a desfalecer, compaixão deveria ser mostrada pelo seu amigo; mesmo que ele tenha abandonado o temor do Todo Poderoso."
+        },
+        {
+          "number": 15,
+          "text": "Mas meus irmãos me traíram como um ribeiro de água no deserto,"
+        },
+        {
+          "number": 16,
+          "text": "como canais de água que transbordam para nada, os quais ficam turvos por causa do gelo sobre eles, como a neve que nela se esconde."
+        },
+        {
+          "number": 17,
+          "text": "Quando ela descongela, desaparece; quando está quente, ela se derrete para fora do seu lugar."
+        },
+        {
+          "number": 18,
+          "text": "As caravanas que viajam pelos seus caminhos, elas desviam seu caminho da água, caminham para terra seca e perecem."
+        },
+        {
+          "number": 19,
+          "text": "Caravanas de Temá olharam para lá, enquanto os viajantes de Sabá esperaram por eles."
+        },
+        {
+          "number": 20,
+          "text": "Eles ficaram desapontados porque estavam certos de que encontrariam água; eles foram lá, mas foram enganados."
+        },
+        {
+          "number": 21,
+          "text": "Pois agora vós, amigos, não são nada para mim; vós vedes a minha terrível situação e estais com medo."
+        },
+        {
+          "number": 22,
+          "text": "Por acaso, eu disse: 'dai-me alguma coisa?'. Ou: 'oferecei-me um presente da vossa riqueza?';"
+        },
+        {
+          "number": 23,
+          "text": "ou: 'salvai-me das mãos dos meus adversários?'; ou, 'resgatai-me das mãos dos meus opressores?'."
+        },
+        {
+          "number": 24,
+          "text": "Ensinai-me e manter-me-ei em paz; fazei-me entender onde eu tenho errado."
+        },
+        {
+          "number": 25,
+          "text": "Como são dolorosas as palavras verdadeiras! Mas os vossos argumentos, como eles realmente me corrigem?"
+        },
+        {
+          "number": 26,
+          "text": "Vós planejais ignorar minhas palavras, tratando as palavras de um homem desesperado como o vento?"
+        },
+        {
+          "number": 27,
+          "text": "De fato, lançastes sorte sobre o órfão e negociastes vosso amigo como mercadoria."
+        },
+        {
+          "number": 28,
+          "text": "Agora, portanto, por favor, olhai para mim, certamente eu não mentiria na vossa face."
+        },
+        {
+          "number": 29,
+          "text": "Mudai de parecer, eu vos peço; que não deixeis alguma injustiça convosco, pois, de fato a minha causa é justa."
+        },
+        {
+          "number": 30,
+          "text": "Está o mal em minha língua? Não pode minha boca discernir coisas maliciosas?"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Não é penoso o trabalho para os homens da terra? Não são seus dias como de um assalariado?"
+        },
+        {
+          "number": 2,
+          "text": "Como o servo que anseia pelas sombras da noite e, como o assalariado que olha o seu pagamento,"
+        },
+        {
+          "number": 3,
+          "text": "assim me deram como herança, meses de miséria e noites de aflição."
+        },
+        {
+          "number": 4,
+          "text": "Quando me deito, digo a mim mesmo: quando me levantarei? e quando a noite se vai? Estou cansado de me revirar na cama até o amanhecer."
+        },
+        {
+          "number": 5,
+          "text": "Minha carne está coberta de vermes e crostas de sujeira; as feridas da minha pele se ressecam e voltam a se abrir."
+        },
+        {
+          "number": 6,
+          "text": "Meus dias são mais velozes que a lançadeira do tecelão, passam sem esperança."
+        },
+        {
+          "number": 7,
+          "text": "Deus, lembra-Te que minha vida é somente um sopro e meus olhos não mais verão o bem."
+        },
+        {
+          "number": 8,
+          "text": "Os olhos de Deus, que me veem, não mais me verão; Seus olhos estarão sobre mim, mas eu não mais existirei."
+        },
+        {
+          "number": 9,
+          "text": "Assim como a nuvem é consumida e desaparece, quem vai para o Sheol nunca mais voltará."
+        },
+        {
+          "number": 10,
+          "text": "Não retornará mais para sua casa, nem seu lugar o conhecerá novamente."
+        },
+        {
+          "number": 11,
+          "text": "Portanto, não conterei minha boca; falarei da angústia do meu espírito; queixarei no mais amargo da minha alma."
+        },
+        {
+          "number": 12,
+          "text": "Porventura sou eu o mar ou um monstro marinho, para colocares um guarda sobre mim?"
+        },
+        {
+          "number": 13,
+          "text": "Quando digo: 'Minha cama me confortará e meu leito facilitará a minha queixa';"
+        },
+        {
+          "number": 14,
+          "text": "então, Tu me assustas com sonhos e me aterrorizas com visões."
+        },
+        {
+          "number": 15,
+          "text": "Prefiro ser estrangulado e morrer que preservar os meus ossos."
+        },
+        {
+          "number": 16,
+          "text": "A minha vida é odiosa; eu não desejaria estar sempre vivo. Deixa-me sozinho porque meus dias são inúteis."
+        },
+        {
+          "number": 17,
+          "text": "Que é o homem para que atentes para ele e ponhas sobre ele Teus pensamentos,"
+        },
+        {
+          "number": 18,
+          "text": "para que o observes toda manhã e o testes a cada momento?"
+        },
+        {
+          "number": 19,
+          "text": "Quanto tempo vai demorar antes que olhes para mim, antes que me deixes sozinho o suficiente para que eu possa respirar um pouco?"
+        },
+        {
+          "number": 20,
+          "text": "Mesmo que eu peque contra Ti, o que isto Te seria, Tu, que guardas os homens? Por que fizeste de mim um alvo para que eu seja uma carga para Ti?"
+        },
+        {
+          "number": 21,
+          "text": "Por que não perdoas minhas transgressões e levas embora minhas iniquidades? Por isso, eu me deitarei no pó; Tu me buscarás, porém não mais existirei\"."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, respondeu Bildade, o suíta, dizendo:"
+        },
+        {
+          "number": 2,
+          "text": "\"Até quando falarás tais coisas? Até quando serão as palavras da tua boca como vento impetuoso?"
+        },
+        {
+          "number": 3,
+          "text": "Pode Deus perverter o direito e o Todo Poderoso corromper a justiça?"
+        },
+        {
+          "number": 4,
+          "text": "Teus filhos pecaram contra Ele; nós sabemos disso, pois Ele os entregou às suas transgressões."
+        },
+        {
+          "number": 5,
+          "text": "Mas, se buscares diligentemente a Deus e apresentares ao Todo Poderoso a tua petição;"
+        },
+        {
+          "number": 6,
+          "text": "se o teu coração e tuas ações forem retas, Ele certamente te faria o bem, te recompensaria dando novamente tua família e te fazendo próspero."
+        },
+        {
+          "number": 7,
+          "text": "Embora os teus planos iniciais fossem humildes, ainda tua condição final seria grandiosa."
+        },
+        {
+          "number": 8,
+          "text": "Por favor, pergunta às gerações passadas e considera o que os antepassados aprenderam!"
+        },
+        {
+          "number": 9,
+          "text": "Nós sabemos que nascemos ontem e que não sabemos nada pois nossos dias na terra são apenas sombra."
+        },
+        {
+          "number": 10,
+          "text": "Eles não te ensinarão, nem te contarão? Eles não dirão palavras vindas dos seus corações?"
+        },
+        {
+          "number": 11,
+          "text": "Pode o papiro crescer sem lodo ou o junco crescer sem água?"
+        },
+        {
+          "number": 12,
+          "text": "Estando ainda eles verdes, sem ter sido cortados, secam-se antes de qualquer outra planta."
+        },
+        {
+          "number": 13,
+          "text": "São assim também os passos de todo que se esquece de Deus, a esperança do corrupto perecerá."
+        },
+        {
+          "number": 14,
+          "text": "Sua confiança se desfará e sua segurança será frágil como uma teia de arranha."
+        },
+        {
+          "number": 15,
+          "text": "Ele se apoia em sua casa, mas ela não permanecerá em pé; segura-se nela, mas ela não se sustentará."
+        },
+        {
+          "number": 16,
+          "text": "Sob o sol, eles são verdes e seus ramos passam para além de todo o jardim;"
+        },
+        {
+          "number": 17,
+          "text": "suas raízes envolvem os montes de pedras e procuram bons lugares nas rochas."
+        },
+        {
+          "number": 18,
+          "text": "Mas, se esta pessoa é destruida fora de seu lugar, então, aquele lugar irá negá-lo e dirá: 'nunca te vi'."
+        },
+        {
+          "number": 19,
+          "text": "Eis a \"alegria\" das pessoas com esses comportamentos; outras plantas brotarão em seu lugar no mesmo solo."
+        },
+        {
+          "number": 20,
+          "text": "Deus nunca castigará um homem inocente, nem segurará pela mão o malfeitor."
+        },
+        {
+          "number": 21,
+          "text": "Ele irá encher sua boca de risos e seus lábios de gritos de júbilo."
+        },
+        {
+          "number": 22,
+          "text": "Aqueles que te odeiam se vestirão de vergonha e a tenda dos corrupto não mais existirá\"."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Jó respondeu, dizendo:"
+        },
+        {
+          "number": 2,
+          "text": "\"Verdadeiramente, eu sei que é assim. Mas como é que a pessoa pode estar correta diante de Deus?"
+        },
+        {
+          "number": 3,
+          "text": "Se ela quer discutir com Deus, Ele não lhe responde uma vez em mil vezes."
+        },
+        {
+          "number": 4,
+          "text": "Deus é prudente no coração, forte e poderoso, quem já se endureceu contra Ele e foi bem sucedido?"
+        },
+        {
+          "number": 5,
+          "text": "Ele é quem tira as montanhas sem avisar a ninguém quando as move na Sua ira,"
+        },
+        {
+          "number": 6,
+          "text": "Ele é quem move a Terra para fora do seu lugar faz suas colunas estremecerem."
+        },
+        {
+          "number": 7,
+          "text": "É o mesmo Deus que diz ao sol para não nascer e não nasce e quem cobre as estrelas,"
+        },
+        {
+          "number": 8,
+          "text": "Quem, por si mesmo, estende os céus, pisoteia e subjuga as ondas do mar,"
+        },
+        {
+          "number": 9,
+          "text": "Quem faz a Ursa, Orion, Plêiades e as constelações do sul."
+        },
+        {
+          "number": 10,
+          "text": "É o mesmo Deus que faz grandes coisas, coisas incompreensíveis — coisas maravilhosas incontáveis."
+        },
+        {
+          "number": 11,
+          "text": "Vê, Ele passa por mim e eu nem O vejo; Ele segue adiante também, mas eu não O percebo."
+        },
+        {
+          "number": 12,
+          "text": "Se Ele remove alguma coisa, quem pode O impedir? Quem pode Lhe dizer: 'o que Tu fazes?'."
+        },
+        {
+          "number": 13,
+          "text": "Deus não irá retirar a Sua ira; os ajudadores de Raabe se curvam diante Dele."
+        },
+        {
+          "number": 14,
+          "text": "Quanto menos eu poderia Lhe responder, poderia escolher palavras para discutir com Ele?"
+        },
+        {
+          "number": 15,
+          "text": "Mesmo que eu fosse justo, eu não Lhe responderia; eu pediria somente misericórdia ao meu Juiz."
+        },
+        {
+          "number": 16,
+          "text": "Mesmo que eu clamasse e Ele me respondesse, não acredito que Ele estaria ouvindo a minha voz."
+        },
+        {
+          "number": 17,
+          "text": "Porque Ele me quebra com tempestade e multiplica-me as feridas sem causa."
+        },
+        {
+          "number": 18,
+          "text": "Ele nem me permite retomar o fôlego e me enche de amargura."
+        },
+        {
+          "number": 19,
+          "text": "Se é uma questão de força, saiba! Ele é poderoso! Se for uma questão de justiça, quem pode intimá-Lo?"
+        },
+        {
+          "number": 20,
+          "text": "Mesmo estando com a razão, minha própria boca me condenaria; mesmo que eu não tenha culpa, minhas palavras me provariam culpado."
+        },
+        {
+          "number": 21,
+          "text": "Estou sem culpa, mas já não me interesso mais por mim mesmo; eu desprezo a minha própria vida."
+        },
+        {
+          "number": 22,
+          "text": "Não faz diferença nenhuma, é por isso que eu disse que Ele destrói ambos, os justos e os maus."
+        },
+        {
+          "number": 23,
+          "text": "Se qualquer flagelo mata subitamente, Ele rirá da aflição dos inocentes."
+        },
+        {
+          "number": 24,
+          "text": "A Terra está entregue nas mãos dos perversos; Deus cobre os rostos dos Seus juízes. Se não for Ele que faz isso, então, quem é?"
+        },
+        {
+          "number": 25,
+          "text": "Meus dias são mais velozes que um mensageiro corredor; os meus dias desaparecem, eles não veem nenhum bem."
+        },
+        {
+          "number": 26,
+          "text": "Eles são tão rápidos quanto barcos de juncos e tão rápidos quanto a águia que se lança em sua vítima."
+        },
+        {
+          "number": 27,
+          "text": "Se eu dissese que vou esquecer minhas queixas, que vou tirar a minha face triste e estar feliz,"
+        },
+        {
+          "number": 28,
+          "text": "estaria com medo de todas minhas tristezas porque eu sei que Tu não irás me considerar inocente."
+        },
+        {
+          "number": 29,
+          "text": "Eu serei condenado; por que, então, tentaria em vão?"
+        },
+        {
+          "number": 30,
+          "text": "Se me lavasse com água de neve e tornasse as minhas mãos limpas,"
+        },
+        {
+          "number": 31,
+          "text": "Deus me mergulharia numa vala e a minha própria roupa ficaria com nojo de mim."
+        },
+        {
+          "number": 32,
+          "text": "Porque Deus não é homem, como eu sou; eu poderia respondê-L; não poderíamos nos apresentar juntos ao tribunal."
+        },
+        {
+          "number": 33,
+          "text": "Não há juiz entre nós que possa por as mãos sobre ambos."
+        },
+        {
+          "number": 34,
+          "text": "Não há um outro juiz que tire a vara de Deus de cima de mim, que possa evitar o Seu terror de me assustar."
+        },
+        {
+          "number": 35,
+          "text": "Então, eu poderia falar alto e não O temer. Mas, com as coisas desse jeito, eu não posso fazer isto."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Estou cansado da minha vida; darei renda solta à minha reclamação; falarei na amargura da minha alma."
+        },
+        {
+          "number": 2,
+          "text": "Direi a Deus: 'Não me condene apenas; mostra-me a razão porque me acusas."
+        },
+        {
+          "number": 3,
+          "text": "Será que é bom que me oprimas; desprezar a obra de Tuas mãos enquanto Tu sorris nos planos dos corruptos?"
+        },
+        {
+          "number": 4,
+          "text": "Tens Tu olhos de carne? Vês Tu como o homem vê?"
+        },
+        {
+          "number": 5,
+          "text": "Os Teus dias são como os dias da humanidade ou os Teus anos, como os anos de homens,"
+        },
+        {
+          "number": 6,
+          "text": "para inquerir a minha iniquidade e averiguar o meu pecado,"
+        },
+        {
+          "number": 7,
+          "text": "mesmo sabendo que não sou culpado e não há ninguém que pode me resgatar de Tuas mãos?"
+        },
+        {
+          "number": 8,
+          "text": "Tuas mãos me formaram e me moldaram por completo, mas Tu estás me destruindo."
+        },
+        {
+          "number": 9,
+          "text": "Lembra-Te, eu Te imploro, que Tu me modelaste como barro; Tu irás me trazer ao pó novamente?"
+        },
+        {
+          "number": 10,
+          "text": "Não me derramaste como leite e me coalhaste como queijo?"
+        },
+        {
+          "number": 11,
+          "text": "Tu me vestiste com pele e carne, de ossos e tendões, teceste a mim."
+        },
+        {
+          "number": 12,
+          "text": "Tu tens me concedido vida e aliança de fidelidade; Tua ajuda tem guardado o meu espírito."
+        },
+        {
+          "number": 13,
+          "text": "Mas ainda estas coisas escondeste no Teu coração — Eu sei que isto é o que pensavas:"
+        },
+        {
+          "number": 14,
+          "text": "que, se eu pecasse, Tu notarias; Tu não me perdoarias das minhas iniquidades."
+        },
+        {
+          "number": 15,
+          "text": "Ai de mim, se sou corrupto; mesmo se eu fosse íntegro, não poderia levantar minha cabeça, uma vez que estou cheio de desgraça e olhando meu próprio sofrimento."
+        },
+        {
+          "number": 16,
+          "text": "Se a minha cabeça se levantar, Tu me caçarás como um leão; outra vez, Tu Te mostras poderoso a mim."
+        },
+        {
+          "number": 17,
+          "text": "Tu trazes novas testemunhas contra mim e aumentas Tua ira contra mim; Tu me atacas com novos exércitos."
+        },
+        {
+          "number": 18,
+          "text": "Então, porque me tirastes do ventre? Quem me dera eu tivesse entregue meu espírito e que nenhum olho nunca tivesse me visto."
+        },
+        {
+          "number": 19,
+          "text": "Eu seria como quem nunca existiu, teria sido levado do ventre para a sepultura."
+        },
+        {
+          "number": 20,
+          "text": "Não são poucos os meu dias? Para, deixa-me, sozinho, para que eu descanse um pouco."
+        },
+        {
+          "number": 21,
+          "text": "Antes que eu vá para o lugar de onde nunca voltarei, para a terra das trevas e da sombra da morte;"
+        },
+        {
+          "number": 22,
+          "text": "para a terra escura como a meia noite, a terra da sombra da morte, desordenada, onde a luz parece com a meia noite'\"."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Zofar, o naamatita, respondeu, dizendo:"
+        },
+        {
+          "number": 2,
+          "text": "\"Não deveria tal multidão de palavras serem respondidas? Deveria acreditar neste homem, cheio de palavras?"
+        },
+        {
+          "number": 3,
+          "text": "Deveria tua vanglória fazer outros permanecerem em silêncio? Quando tu zombas de nossos ensinamentos, ninguém fará com que te sintas envergonhado?"
+        },
+        {
+          "number": 4,
+          "text": "Pois dizes a Deus: 'Minhas doutrinas são puras, estou eu sem culpa diante dos Teus olhos'."
+        },
+        {
+          "number": 5,
+          "text": "Mas, ah, se Deus falasse Deus e abrisse Seus lábios contra ti;"
+        },
+        {
+          "number": 6,
+          "text": "Ele te mostraria os segredos da sabedoria! Pois Ele é grande em entendimento. Sabe que Deus exige menos de ti que a tua iniquidade merece."
+        },
+        {
+          "number": 7,
+          "text": "Podes tu entender a Deus por procurar por Ele? Podes tu compreender perfeitamente o Todo Poderoso?"
+        },
+        {
+          "number": 8,
+          "text": "Este assunto é tão alto quanto o céu; que poderás fazer? Isso é mais profundo que o Sheol; o que podes tu saber?"
+        },
+        {
+          "number": 9,
+          "text": "Isso mede mais que a Terra e é mais amplo que o mar."
+        },
+        {
+          "number": 10,
+          "text": "Se Ele passar por alguém e calá-lo, se Ele chamar alguém para o julgamento, então, quem poderá impedi-lo?"
+        },
+        {
+          "number": 11,
+          "text": "Pois Ele conhece pessoas falsas; quando Ele vê a iniquidade, Ele não a percebe?"
+        },
+        {
+          "number": 12,
+          "text": "Mas o povo tolo não tem entendimento; eles vão obtê-lo quando um jumento selvagem der cria a um homem."
+        },
+        {
+          "number": 13,
+          "text": "Mas, imagina que tu tenhas posto certo o teu coração e tenhas alcançado com as tuas mãos em direção a Deus;"
+        },
+        {
+          "number": 14,
+          "text": "imagina que a iniquidade estivesse em tuas mãos, mas que, depois, tu a tenhas posto longe de ti e não tenhas deixado que a injustiça habite em tuas tendas."
+        },
+        {
+          "number": 15,
+          "text": "Então, certamente, tu levantarias teu rosto sem sinal de vergonha; de fato, tu estarias firme e sem medo."
+        },
+        {
+          "number": 16,
+          "text": "Tu esquecerias o teu sofrimento; tu te lembrarias disto apenas como águas que passaram."
+        },
+        {
+          "number": 17,
+          "text": "Tua vida seria mais brilhante que o meio dia; embora houvesse trevas, tornariam-se como a manhã."
+        },
+        {
+          "number": 18,
+          "text": "Tu estarias seguro porque há esperança; de fato, tu terias encontrado segurança sobre ti e descansarias seguro."
+        },
+        {
+          "number": 19,
+          "text": "Também tu te deitarias em descanso e ninguém te faria medo, certamente, muitos buscariam o teu favor."
+        },
+        {
+          "number": 20,
+          "text": "Mas os olhos dos perversos vão fracassar, eles não terão como fugir; a sua única esperança será o último suspiro de vida\"."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Jó respondeu, dizendo:"
+        },
+        {
+          "number": 2,
+          "text": "\"Sem dúvida, vós sois o povo; a sabedoria morrerá convosco."
+        },
+        {
+          "number": 3,
+          "text": "Mas eu tenho entendimento tanto quanto vós; eu não sou inferior a vós. Na verdade, quem não sabe coisas como estas?"
+        },
+        {
+          "number": 4,
+          "text": "Eu sou motivo de riso para o meu próximo. Eu, aquele que chamou Deus e foi respondido por Ele! Eu, um justo e inocente; sou agora motivo de riso."
+        },
+        {
+          "number": 5,
+          "text": "No pensamento de quem está tranquilo, há desprezo pela calamidade; um empurrão para aqueles cujos os pés estão escorregando."
+        },
+        {
+          "number": 6,
+          "text": "As tendas dos bandidos prosperam e aqueles que provocam a Deus sentem-se seguros; as suas próprias mãos são os seus deuses."
+        },
+        {
+          "number": 7,
+          "text": "Mas agora pergunta aos animais e eles te ensinarão; pergunta às aves dos céus e elas te contarão."
+        },
+        {
+          "number": 8,
+          "text": "Ou fale para a Terra e ela te ensinará; os peixes do mar irão declarar-te isto."
+        },
+        {
+          "number": 9,
+          "text": "Qual animal entre todos estes não sabe que a mão de Yahweh fez isto?"
+        },
+        {
+          "number": 10,
+          "text": "Em Sua mão, está a vida de todo ser vivo e o fôlego de toda humanidade."
+        },
+        {
+          "number": 11,
+          "text": "O ouvido não examina as palavras como o paladar prova a comida?"
+        },
+        {
+          "number": 12,
+          "text": "Com os homens velhos, há sabedoria; com o passar dos dias, há entendimento."
+        },
+        {
+          "number": 13,
+          "text": "Com Deus, estão a sabedoria e o poder; Ele tem conselho e entendimento."
+        },
+        {
+          "number": 14,
+          "text": "Vê, Ele destrói algo e aquilo não pode ser construído novamente; se Ele aprisiona alguém, não pode ser liberto."
+        },
+        {
+          "number": 15,
+          "text": "Vê, se Ele retém as águas, elas se secam; e, se Ele as solta, elas inundam a terra."
+        },
+        {
+          "number": 16,
+          "text": "Com Ele, estão a força e a sabedoria; as pessoas que são enganadas e o enganador, ambas pertencem a Ele."
+        },
+        {
+          "number": 17,
+          "text": "Ele conduz os conselheiros para longe, entristecidos, com os pés descalços; Ele torna juízes em tolos."
+        },
+        {
+          "number": 18,
+          "text": "Ele toma a autoridade dos reis; Ele enrola um pano nas cinturas deles."
+        },
+        {
+          "number": 19,
+          "text": "Ele conduz os sacerdotes para longe, entristecidos, com os pés descalços e derruba pessoas poderosas."
+        },
+        {
+          "number": 20,
+          "text": "Ele remove o discurso daqueles que são confiados a falar e tira o entendimento dos anciãos."
+        },
+        {
+          "number": 21,
+          "text": "Ele derrama desprezo sobre os príncipes e afrouxa o cinto dos poderosos."
+        },
+        {
+          "number": 22,
+          "text": "Ele revela coisas profundas da escuridão e traz à luz as sombras de onde as pessoas estão mortas."
+        },
+        {
+          "number": 23,
+          "text": "Ele faz nações fortes e Ele também as destrói; Ele faz crescer nações e Ele também as faz prisioneiras."
+        },
+        {
+          "number": 24,
+          "text": "Ele tira o entendimento dos líderes do povo da Terra; e os faz vaguear por um deserto, onde não existe caminho."
+        },
+        {
+          "number": 25,
+          "text": "Eles apalpam no escuro, sem luz, e Ele os faz cambalear como um bêbado."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vê, meu olho tem visto tudo isso; meu ouvido tem ouvido e entendido isso."
+        },
+        {
+          "number": 2,
+          "text": "O que vós sabeis, também sei; não sou inferior a vós."
+        },
+        {
+          "number": 3,
+          "text": "No entanto, eu preferiria falar com o Todo Poderoso; desejo a razão diante de Deus."
+        },
+        {
+          "number": 4,
+          "text": "Mas vós mascarais a verdade com mentiras; vós sois médicos sem valor."
+        },
+        {
+          "number": 5,
+          "text": "Ó, que vós pudésseis permanecer em silêncio! Assim, passaríeis por sábios."
+        },
+        {
+          "number": 6,
+          "text": "Ouvi agora a minha defesa; escutai os argumentos dos meus próprios lábios."
+        },
+        {
+          "number": 7,
+          "text": "Vós falareis injustamente para Deus e direis mentiras a Ele?"
+        },
+        {
+          "number": 8,
+          "text": "Vós poderíeis mostrar bondade a Ele? Poderíeis realmente argumentar no tribunal como advogados de Deus?"
+        },
+        {
+          "number": 9,
+          "text": "Seria realmente bom para vós se Ele vos examinasse? Poderíeis enganar Deus como se enganam homens?"
+        },
+        {
+          "number": 10,
+          "text": "Ele certamente vos reprovaria se secretamente vós mostrásseis parcialidade."
+        },
+        {
+          "number": 11,
+          "text": "Não poderia Sua majestade vos amedrontar? Não poderia Seu pavor cair em vós?"
+        },
+        {
+          "number": 12,
+          "text": "Vossas memoráveis palavras são provérbios feitos de cinzas; vossas defesas são torres feitas de barro."
+        },
+        {
+          "number": 13,
+          "text": "Calai-vos, deixai-me sozinho, assim, posso falar, deixai vir sobre mim o que vier."
+        },
+        {
+          "number": 14,
+          "text": "Tomarei minha própria carne nos meus dentes; tomarei minha vida nas minhas mãos."
+        },
+        {
+          "number": 15,
+          "text": "Vê, se Ele me mata, não terei mais esperança, no entanto, eu defenderei meus caminhos diante Dele."
+        },
+        {
+          "number": 16,
+          "text": "Esta será a razão da minha absolvição: eu não virei diante Dele como homem sem Deus."
+        },
+        {
+          "number": 17,
+          "text": "Deus, ouve cuidadosamente meu discurso; permite que minhas declarações cheguem aos Teus ouvidos."
+        },
+        {
+          "number": 18,
+          "text": "Vê, agora, tenho colocado minha defesa em ordem; eu sei que sou inocente."
+        },
+        {
+          "number": 19,
+          "text": "Quem é a pessoa que poderia levantar-se contra mim no tribunal? Se Tu vens para fazer isso e, se fosse provado que estou errado, então, eu me silenciaria e desistiria da vida."
+        },
+        {
+          "number": 20,
+          "text": "Deus, faz apenas duas coisas por mim e, então, não me esconderei da Tua face:"
+        },
+        {
+          "number": 21,
+          "text": "retira Tua mão opressiva de mim e não deixes os Teus terrores me amedrontarem."
+        },
+        {
+          "number": 22,
+          "text": "Então, chama-me e responderei; ou deixa-me falar-Te e Tu me respondes."
+        },
+        {
+          "number": 23,
+          "text": "Quantas são as minhas iniquidades e meus pecados? Deixa-me saber minhas transgressões e meus pecados."
+        },
+        {
+          "number": 24,
+          "text": "Por que escondes Tua face de mim e me tratas como Teu inimigo?"
+        },
+        {
+          "number": 25,
+          "text": "Poderás perseguir uma folha voando? Irás Tu perseguires uma palha seca?"
+        },
+        {
+          "number": 26,
+          "text": "Pois escreves coisas amargas contra mim; tens me feito herdar as iniquidades da minha juventude."
+        },
+        {
+          "number": 27,
+          "text": "Também pões os meus pés no tronco; Tu, que observas todos os meus passos, examinas o chão onde as solas dos meus pés têm andado,"
+        },
+        {
+          "number": 28,
+          "text": "embora eu seja como uma coisa apodrecida, como uma vestimenta que as traças tenham comido."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "O homem, que é nascido de mulher, vive apenas alguns dias e está cheio de problemas."
+        },
+        {
+          "number": 2,
+          "text": "Ele brota do chão como uma flor e é cortado, foge como uma sombra e não dura."
+        },
+        {
+          "number": 3,
+          "text": "Tu olhas para alguém assim? E me levas a julgamento contigo?"
+        },
+        {
+          "number": 4,
+          "text": "Quem pode tirar coisa limpa a partir de uma coisa suja? Ninguém."
+        },
+        {
+          "number": 5,
+          "text": "Os dias do homem são determinados. O número dos seus meses estão Contigo. Tu apontaste os limites dos quais ele não pode passar."
+        },
+        {
+          "number": 6,
+          "text": "Desvia-te dele para que possa descansar, para que possa aproveitar seu dia como um diarista, se puder fazê-lo."
+        },
+        {
+          "number": 7,
+          "text": "Pode haver esperança para uma árvore; se for cortada, poderá brotar de novo, para que seu caule tenro não desapareça."
+        },
+        {
+          "number": 8,
+          "text": "Embora sua raiz envelheça na terra e seu toco morra no chão,"
+        },
+        {
+          "number": 9,
+          "text": "apenas com o cheiro das águas, brotará e dará ramos como uma planta."
+        },
+        {
+          "number": 10,
+          "text": "Mas o homem morre. Ele se torna fraco. De fato, o homem para de respirar e onde está?"
+        },
+        {
+          "number": 11,
+          "text": "Como a água desaparece de um lago e como o rio perde água e seca,"
+        },
+        {
+          "number": 12,
+          "text": "assim as pessoas se deitam e não se levantam novamente. Até que os céus não existam mais, eles não acordarão nem se despertarão do seu sono."
+        },
+        {
+          "number": 13,
+          "text": "Ah! Se Tu me escondesses no Sheol longe dos problemas, se me escondesses até que a Tua ira passasse, fixasses o tempo da minha permanência lá e Te lembrasses de mim!"
+        },
+        {
+          "number": 14,
+          "text": "Se um homem morre, ele viverá novamente? Se assim for, desejaria esperar todo o meu tempo penoso até que minha libertação chegasse."
+        },
+        {
+          "number": 15,
+          "text": "Tu chamarias e eu responderia. Desejarias ver a obra de Tuas mãos."
+        },
+        {
+          "number": 16,
+          "text": "Tu contarias e cuidaria dos meus passos; não vigiarias meu pecado."
+        },
+        {
+          "number": 17,
+          "text": "Minha transgressão seria selada em uma bolsa. Tu cobririas a minha iniquidade."
+        },
+        {
+          "number": 18,
+          "text": "Mas até montanhas caem e não dão em nada; até as rochas são removidas do seu lugar;"
+        },
+        {
+          "number": 19,
+          "text": "as águas desgastam as pedras e suas enchentes lavam o pó da terra e Tu destróis a esperança do homem."
+        },
+        {
+          "number": 20,
+          "text": "Tu sempre o derrotas e ele passa. Tu mudas o rosto dele e o mandas para morrer."
+        },
+        {
+          "number": 21,
+          "text": "Se seus filhos são honrados, ele não sabe disso. E, se são humilhados, ele não os vê."
+        },
+        {
+          "number": 22,
+          "text": "Ele sente apenas a dor do próprio corpo e lamenta por si mesmo\"."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Elifaz, o temanita, respondeu e disse:"
+        },
+        {
+          "number": 2,
+          "text": "\"Deveria um homem sábio responder com conhecimento inútil e se saciar com o vento do leste?"
+        },
+        {
+          "number": 3,
+          "text": "Deveria argumentar com conversa inútil ou com discursos com os quais ele não faça o bem?"
+        },
+        {
+          "number": 4,
+          "text": "Na verdade, tu diminuis o respeito por Deus; tu obstruis a devoção a Ele,"
+        },
+        {
+          "number": 5,
+          "text": "a tua iniquidade ensina à tua boca; tu escolhes ter a língua de um homem astuto."
+        },
+        {
+          "number": 6,
+          "text": "Tua própria boca te condena, não a minha; de fato, teus próprios lábios testificam contra ti."
+        },
+        {
+          "number": 7,
+          "text": "És tu o primeiro homem que nasceu? Vieste tu à existência antes das montanhas?"
+        },
+        {
+          "number": 8,
+          "text": "Tens ouvido o conhecimento secreto de Deus? Tu limitas a sabedoria a ti mesmo?"
+        },
+        {
+          "number": 9,
+          "text": "O que sabes que nós não sabemos? O que compreendes o que nós já não compreendemos?"
+        },
+        {
+          "number": 10,
+          "text": "Conosco estão ambos: os grisalhos e os homens idosos, os quais são bem mais velhos que teu pai."
+        },
+        {
+          "number": 11,
+          "text": "As consolações de Deus são pequenas demais para ti; palavras muito brandas para ti?"
+        },
+        {
+          "number": 12,
+          "text": "Por que teu coração te leva para longe? Por que teus olhos brilham"
+        },
+        {
+          "number": 13,
+          "text": "e voltas teu espírito contra Deus e deixas sair tais palavras de tua boca?"
+        },
+        {
+          "number": 14,
+          "text": "O que é o homem para estar limpo? Como o nascido de mulher pode ser justo?"
+        },
+        {
+          "number": 15,
+          "text": "Vê, Deus não confia nem mesmo em Seus santos; de fato, os céus não são puros à Sua vista."
+        },
+        {
+          "number": 16,
+          "text": "Quanto menos limpo é aquele que é abominável e corrupto, que bebe a iniquidade como a água!"
+        },
+        {
+          "number": 17,
+          "text": "Escuta-me e eu te mostrarei; eu te anunciarei o que tenho visto,"
+        },
+        {
+          "number": 18,
+          "text": "coisas que os sábios ensinaram, as quais vieram de seus pais, coisas que seus ancestrais não ocultaram."
+        },
+        {
+          "number": 19,
+          "text": "Estes eram seus antepassados, aos quais tão somente, a terra foi dada; entre eles, nenhum estranho jamais passou."
+        },
+        {
+          "number": 20,
+          "text": "O homem perverso torce de dor todos os dias, o número de anos que estão reservados para o opressor sofrer."
+        },
+        {
+          "number": 21,
+          "text": "Um som de terrores está em seus ouvidos; enquanto ele está na prosperidade, o destruidor vem sobre ele."
+        },
+        {
+          "number": 22,
+          "text": "Ele não acha que retornará das trevas; a espada espera por ele."
+        },
+        {
+          "number": 23,
+          "text": "Ele vai a vários lugares à procura de pão, dizendo: 'Onde está?'. Ele sabe que o dia da escuridão está perto."
+        },
+        {
+          "number": 24,
+          "text": "Desespero e angústia o deixam com medo; prevalecem contra ele, como um rei pronto para a batalha."
+        },
+        {
+          "number": 25,
+          "text": "Porque ele estendeu a mão contra Deus e se comportou orgulhosamente contra o Todo Poderoso."
+        },
+        {
+          "number": 26,
+          "text": "Esse homem perverso corre até Deus com teimosia, com um escudo espesso."
+        },
+        {
+          "number": 27,
+          "text": "Isto é verdade, mesmo que ele tenha coberto o rosto com sua gordura, acumule-a em sua cintura"
+        },
+        {
+          "number": 28,
+          "text": "e tenha vivido em cidades desoladas; em casas nas quais ninguém mais habita e que estavam prontas para se tornarem montes."
+        },
+        {
+          "number": 29,
+          "text": "Ele não será rico; sua riqueza não durará; nem mesmo sua sombra durará na Terra."
+        },
+        {
+          "number": 30,
+          "text": "Ele não se afastará das trevas; [ Várias versões modernas deixam de fora \"Ele não se afastará das trevas\", porque eles acreditam que esta expressão foi erroneamente copiada de 15:22 ]; uma chama incendiará seus ramos; irá embora pelo sopro da boca de Deus.[O texto hebraico tem \"irá embora pelo sopro da boca de Deus\", algumas versões modernas, incluindo a ULB e a UDB, interpretam como significando o sopro da boca de Deus. No entanto, outras versões modernas seguem uma antiga leitura grega, \"sua flor cairá com o vento\"]."
+        },
+        {
+          "number": 31,
+          "text": "Que ele não confie em coisas inúteis, enganando a si mesmo; porque a inutilidade será sua recompensa."
+        },
+        {
+          "number": 32,
+          "text": "Isso acontecerá antes do tempo de sua morte; seu ramo não se tornará verde."
+        },
+        {
+          "number": 33,
+          "text": "Suas uvas verdes serão derrubadas como as da videira; ele deixará cair as suas flores como as da oliveira."
+        },
+        {
+          "number": 34,
+          "text": "A companhia de pessoas sem Deus será estéril; o fogo consumirá suas tendas de propina."
+        },
+        {
+          "number": 35,
+          "text": "Elas concebem o mal e dão luz à iniquidade; seus ventres concebem engano\"."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Jó respondeu:"
+        },
+        {
+          "number": 2,
+          "text": "\"Eu tenho ouvido muitas coisas como essas; sois todos consoladores miseráveis."
+        },
+        {
+          "number": 3,
+          "text": "Não terão fim essas palavras inúteis? O que está errado convosco para responderdes assim?"
+        },
+        {
+          "number": 4,
+          "text": "Eu também poderia falar como vós, se estivésseis em meu lugar; eu poderia amontoar palavras contra vós e menear minha cabeça zombando de vós."
+        },
+        {
+          "number": 5,
+          "text": "Ah, como eu poderia encorajar-vos com a minha boca! Como a consolação de meus lábios poderia aliviar a vossa dor!"
+        },
+        {
+          "number": 6,
+          "text": "Se falo, a minha dor não é aliviada; se não falo, como posso ter auxílio?"
+        },
+        {
+          "number": 7,
+          "text": "Mas agora, Deus, Tu me tornaste alguém sem nenhum vigor; Tu fizeste a minha família desolada."
+        },
+        {
+          "number": 8,
+          "text": "Fizeste-me secar, isso constitui uma testemunha contra mim, o emagrecimento do meu corpo depõe contra mim e testifica contra meu rosto."
+        },
+        {
+          "number": 9,
+          "text": "Deus, em Sua ira, me deixou em pedaços e me perseguiu; Ele tem rangido Seus dentes contra mim; e meu inimigo fixa seus olhos em mim enquanto Ele me deixa em pedaços."
+        },
+        {
+          "number": 10,
+          "text": "Pessoas estão de boca aberta para mim, elas me esmurram no queixo; elas se reuniram contra mim."
+        },
+        {
+          "number": 11,
+          "text": "Deus me entregou nas mãos dos perversos e me faz cair nas mãos dos corruptos."
+        },
+        {
+          "number": 12,
+          "text": "Eu estava tranquilo, mas Ele me despedaçou. Então, Ele me agarrou pelo pescoço, deixou-me em pedaços e também fez de mim o Seu alvo."
+        },
+        {
+          "number": 13,
+          "text": "Seus flecheiros me rodeiam; Deus penetra os meus rins, não me poupa; derrama no chão a minha bilis."
+        },
+        {
+          "number": 14,
+          "text": "Ele me esmaga contra o muro uma vez e de novo. Ele corre contra mim como um guerreiro."
+        },
+        {
+          "number": 15,
+          "text": "Costurei vestes de luto sobre minha pele; enterrei minha testa na terra."
+        },
+        {
+          "number": 16,
+          "text": "O meu rosto está vermelho de tanto choro. A sombra da morte circunda os meus olhos."
+        },
+        {
+          "number": 17,
+          "text": "Mesmo que não haja violência nas minhas mãos e seja pura a minha oração."
+        },
+        {
+          "number": 18,
+          "text": "Terra, não cubras o meu sangue! Que meu choro não tenha lugar de descanso."
+        },
+        {
+          "number": 19,
+          "text": "Eis que agora, minha testemunha está nos céus; alguém, que me defende, está nas alturas."
+        },
+        {
+          "number": 20,
+          "text": "Meus amigos zombam de mim, mas os meus olhos derramam lágrimas diante de Deus."
+        },
+        {
+          "number": 21,
+          "text": "Eu peço para que uma testemunha no céu defenda a causa deste homem diante de Deus, como um homem faz com seu próximo."
+        },
+        {
+          "number": 22,
+          "text": "Pois, em alguns poucos anos, irei a um lugar de onde não mais voltarei."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Meu espírito está desfalecido e meus dias estão se acabando; meu túmulo está pronto."
+        },
+        {
+          "number": 2,
+          "text": "Certamente, os zombadores estão comigo; e tenho que ficar vendo suas provocações."
+        },
+        {
+          "number": 3,
+          "text": "Dá-me um defensor que seja para mim uma garantia diante de Ti. Quem mais poderá me ajudar?"
+        },
+        {
+          "number": 4,
+          "text": "Pois Tu, Deus, mantiveste os seus corações sem entendimento; por isso, Tu não os exaltarás acima de mim."
+        },
+        {
+          "number": 5,
+          "text": "Aquele que denuncia seus amigos por uma recompensa, os olhos dos seus filhos falharão."
+        },
+        {
+          "number": 6,
+          "text": "Mas Ele fez de mim um escárnio para as pessoas; elas cospem no meu rosto."
+        },
+        {
+          "number": 7,
+          "text": "Minha visão também está turva de tanta tristeza; todas as partes do meu corpo estão tão finas como sombras."
+        },
+        {
+          "number": 8,
+          "text": "Os justos ficarão pasmos com isso; e o inocente se levantará contra esses homens sem Deus."
+        },
+        {
+          "number": 9,
+          "text": "O justo seguirá o seu caminho; o que tem mãos limpas crescerá, ficando cada vez mais forte."
+        },
+        {
+          "number": 10,
+          "text": "Mas, quanto a todos vós, vinde agora! Eu não encontrarei nenhum homem sábio entre vós."
+        },
+        {
+          "number": 11,
+          "text": "Foram-se os meus dias; meus planos fracassaram, assim como os desejos do meu coração."
+        },
+        {
+          "number": 12,
+          "text": "Essas pessoas, esses zombadores, trocam a noite pelo dia; a luz ficou próxima da escuridão."
+        },
+        {
+          "number": 13,
+          "text": "Vejo o Sheol como minha casa; tenho estendido minha cama na escuridão;"
+        },
+        {
+          "number": 14,
+          "text": "tenho dito à cova: 'Tu és meu pai'; aos vermes: 'Vós sois minha mãe ou minha irmã',"
+        },
+        {
+          "number": 15,
+          "text": "onde está, então, a minha esperança? A minha esperança: quem poderá ver?"
+        },
+        {
+          "number": 16,
+          "text": "Descerá a esperança comigo aos portões do Sheol quando descermos ao pó?\"."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Bildade, o suíta, respondeu:"
+        },
+        {
+          "number": 2,
+          "text": "\"Quando irás parar de falar? Considera, depois falaremos\"."
+        },
+        {
+          "number": 3,
+          "text": "Por que nós somos tratados como animais; por que nos tornamos ignorantes na tua presença?"
+        },
+        {
+          "number": 4,
+          "text": "Tu, que te despedaças na tua ira, poderia a Terra ser abandonada por tua causa ou poderiam as pedras serem removidas de seus lugares?"
+        },
+        {
+          "number": 5,
+          "text": "Realmente, a luz de uma pessoa corrupta será apagada; a faísca do seu fogo não brilhará."
+        },
+        {
+          "number": 6,
+          "text": "A luz se escurecerá na sua tenda e a lâmpada sobre ela será tirada."
+        },
+        {
+          "number": 7,
+          "text": "Os seus passos firmes ficarão curtos; os seus próprios planos o lançarão para baixo."
+        },
+        {
+          "number": 8,
+          "text": "Porque, por seus próprios pés, será lançado na rede e andará nos fios enredados."
+        },
+        {
+          "number": 9,
+          "text": "A armadilha o pega pelo calcanhar; o laço o prende firme."
+        },
+        {
+          "number": 10,
+          "text": "Uma corda está escondida para ele no chão; e uma armadilha no caminho."
+        },
+        {
+          "number": 11,
+          "text": "Terrores o farão sentir medo por todos os lados; eles o perseguirão pelo calcanhar."
+        },
+        {
+          "number": 12,
+          "text": "Suas riquezas se tornarão em fome e a calamidade estará pronta ao seu lado."
+        },
+        {
+          "number": 13,
+          "text": "As partes do seu corpo serão devoradas; realmente, o primogênito da morte o devorará."
+        },
+        {
+          "number": 14,
+          "text": "Ele é arrancado da segurança da sua tenda, levado para o rei dos terrores."
+        },
+        {
+          "number": 15,
+          "text": "Um povo que não é seu habitará na sua tenda depois que eles virem o enxofre espalhado dentro de sua casa."
+        },
+        {
+          "number": 16,
+          "text": "Suas raízes secarão por baixo; por cima, serão cortados os seus ramos."
+        },
+        {
+          "number": 17,
+          "text": "Sua memória perecerá na Terra; e, pelas ruas, não terá nome."
+        },
+        {
+          "number": 18,
+          "text": "Ele será tirado da luz para as trevas e será expulso deste mundo."
+        },
+        {
+          "number": 19,
+          "text": "Ele não terá filhos ou netos em sua geração e também nenhuma lembrança dos parentes de onde morava."
+        },
+        {
+          "number": 20,
+          "text": "Aqueles que vivem no ocidente serão amedrontados pelo que lhe acontece em um dia; aqueles que vivem no oriente ficarão amedrontados por isso."
+        },
+        {
+          "number": 21,
+          "text": "Certamente, tais são as casas dos corruptos, lugares daqueles que não conhecem a Deus\"."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Jó respondeu:"
+        },
+        {
+          "number": 2,
+          "text": "\"Até quando me fareis sofrer e me atormentareis com palavras?"
+        },
+        {
+          "number": 3,
+          "text": "Por dez vezes, repreendestes a mim e não estais envergonhados de tratar-me duramente."
+        },
+        {
+          "number": 4,
+          "text": "Se, de fato, eu errei, meu erro permanece comigo."
+        },
+        {
+          "number": 5,
+          "text": "Se, na verdade, quereis exaltar-vos sobre mim e usar a minha humilhação contra mim,"
+        },
+        {
+          "number": 6,
+          "text": "então, deveríeis saber que Deus fez algo errado comigo e me pegou em Sua rede."
+        },
+        {
+          "number": 7,
+          "text": "Vede, clamo: 'Violência!', mas não obtenho resposta; clamo por socorro, mas não há justiça."
+        },
+        {
+          "number": 8,
+          "text": "Ele fez um muro no meu caminho, para que eu não passe e colocou trevas em minhas veredas."
+        },
+        {
+          "number": 9,
+          "text": "Despojou-me da minha glória e tirou-me a coroa da cabeça."
+        },
+        {
+          "number": 10,
+          "text": "Quebrou-me por todos lados e fui destruído; arrancou-me as esperanças como a uma árvore."
+        },
+        {
+          "number": 11,
+          "text": "Também acendeu a Sua ira contra mim e me considera um dos Seus adversários."
+        },
+        {
+          "number": 12,
+          "text": "Suas tropas se reúnem, levantam um cerco contra mim e acampam ao redor da minha tenda."
+        },
+        {
+          "number": 13,
+          "text": "Ele pôs meus irmãos longe de mim; e meus conhecidos estão completamente afastados de mim."
+        },
+        {
+          "number": 14,
+          "text": "Meus parentes falharam comigo; e meus amigos mais próximos se esqueceram de mim."
+        },
+        {
+          "number": 15,
+          "text": "Aqueles que se hospedaram em minha casa e também minhas servas me consideram como um estrangeiro; sou um estranho aos seus olhos."
+        },
+        {
+          "number": 16,
+          "text": "Chamo meu servo, mas ele não me responde, ainda que eu o suplique com minha boca."
+        },
+        {
+          "number": 17,
+          "text": "O meu hálito é desagradável à minha mulher; sou repugnante para os que nasceram da minha mãe."
+        },
+        {
+          "number": 18,
+          "text": "Até as crianças me desprezam; se me levanto para falar, elas falam contra mim."
+        },
+        {
+          "number": 19,
+          "text": "Todos meus amigos íntimos me odeiam; os que amo se viraram contra mim."
+        },
+        {
+          "number": 20,
+          "text": "Os meus ossos se apegaram à minha pele e à minha carne; escapei só com a pele dos meus dentes."
+        },
+        {
+          "number": 21,
+          "text": "Tende compaixão de mim! Tende compaixão de mim, meus amigos! Pois a mão de Deus me tocou."
+        },
+        {
+          "number": 22,
+          "text": "Por que me perseguis como se fossem Deus? Por que não estais satisfeitos com a ruína da minha carne?"
+        },
+        {
+          "number": 23,
+          "text": "Ó, se as minhas palavras fossem escritas! Ó, se fossem registradas num livro!"
+        },
+        {
+          "number": 24,
+          "text": "Ó, se, com pena de ferro e com chumbo, fossem gravadas numa rocha para sempre!"
+        },
+        {
+          "number": 25,
+          "text": "Quanto a mim, sei que o meu Redentor vive e que, por fim, Ele se levantará sobre a Terra."
+        },
+        {
+          "number": 26,
+          "text": "Depois que a minha pele, ou seja, este corpo, for destruído, então, na minha carne, verei a Deus."
+        },
+        {
+          "number": 27,
+          "text": "Eu, O verei com meus próprios olhos; eu e não outra pessoa. Meu coração se enfraquece dentro de mim."
+        },
+        {
+          "number": 28,
+          "text": "Se dizeis: 'Como o perseguiremos! A origem da sua aflição está nele';"
+        },
+        {
+          "number": 29,
+          "text": "então, tende medo da espada, porque a ira traz a punição da espada, para saberdes que existe um julgamento\"."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Zofar, o naamatita, respondeu:"
+        },
+        {
+          "number": 2,
+          "text": "\"Os meus pensamentos me fazem responder rapidamente, por causa da minha preocupação."
+        },
+        {
+          "number": 3,
+          "text": "Ouço uma repreensão que me ofende, mas um espírito que procede do meu entendimento me responde."
+        },
+        {
+          "number": 4,
+          "text": "Tu não sabes que, desde tempos antigos, quando Deus colocou o homem na Terra,"
+        },
+        {
+          "number": 5,
+          "text": "o triunfo do corrupto é curto e a alegria do homem sem Deus permanence apenas por um instante?"
+        },
+        {
+          "number": 6,
+          "text": "Mesmo que a sua altura alcance os céus e a sua cabeça toque as nuvens,"
+        },
+        {
+          "number": 7,
+          "text": "tal pessoa perecerá permanentemente como suas próprias fezes; todos aqueles que o viram, dirão: 'Onde ele está?'."
+        },
+        {
+          "number": 8,
+          "text": "Ele voará como um sonho e não será encontrado; na verdade, será dissipado como a visão da noite."
+        },
+        {
+          "number": 9,
+          "text": "Os olhos que o viram não o verão mais; mesmo o seu lugar não o verá mais."
+        },
+        {
+          "number": 10,
+          "text": "Seus filhos procurarão o favor dos pobres; e suas mãos terão que devolver sua riqueza."
+        },
+        {
+          "number": 11,
+          "text": "Os seus ossos estão cheios do vigor da mocidade, mas esse vigor se deitará com ele no pó."
+        },
+        {
+          "number": 12,
+          "text": "Mesmo que a maldade seja doce na boca dele; mesmo que ele a esconda debaixo da língua,"
+        },
+        {
+          "number": 13,
+          "text": "segurando-a, sem deixá-la sair, mantendo-a em sua boca —"
+        },
+        {
+          "number": 14,
+          "text": "a comida se torna amarga em seu intestino; torna-se veneno de cobra dentro dele."
+        },
+        {
+          "number": 15,
+          "text": "Ele engole riquezas, mas irá vomitá-las; Deus as expulsará de seu ventre."
+        },
+        {
+          "number": 16,
+          "text": "Ele sugará o veneno das cobras e a língua da víbora o matará."
+        },
+        {
+          "number": 17,
+          "text": "Ele não viverá para desfrutar das correntes e dos rios de mel e manteiga."
+        },
+        {
+          "number": 18,
+          "text": "Restituirá o fruto do seu trabalho e não poderá comê-lo; não desfrutará da riqueza que adquiriu com seu comércio."
+        },
+        {
+          "number": 19,
+          "text": "Pois ele oprimiu e rejeitou os pobres; tomou violentamente casas que não construiu."
+        },
+        {
+          "number": 20,
+          "text": "Porque ele não experimentou nenhuma satisfação, ele não será capaz de guardar qualquer coisa que lhe proporcione prazer."
+        },
+        {
+          "number": 21,
+          "text": "Nada sobrou que ele não tenha consumido. E, assim, sua prosperidade não permanecerá."
+        },
+        {
+          "number": 22,
+          "text": "Na abundância de sua riqueza, cairá em dificuldade; a mão de cada um que está em pobreza virá sobre ele."
+        },
+        {
+          "number": 23,
+          "text": "Quando ele estiver enchendo seu estômago, Deus derramará a fúria da Sua ira sobre ele; como chuva, cairá sobre ele enquanto come."
+        },
+        {
+          "number": 24,
+          "text": "Ainda que esse homem fuja da arma de ferro, um arco de bronze o atingirá."
+        },
+        {
+          "number": 25,
+          "text": "A flecha penetrará as suas costas e emergirá; de fato, a ponta resplandecente sairá através do seu fígado. Terrores virão sobre ele."
+        },
+        {
+          "number": 26,
+          "text": "Escuridão total está reservada para os seus tesouros; um fogo não abanado o consumirá e acabará com o que restou na sua tenda."
+        },
+        {
+          "number": 27,
+          "text": "Os céus revelarão sua iniquidade e a Terra se levantará contra ele como testemunha."
+        },
+        {
+          "number": 28,
+          "text": "A riqueza da sua casa desaparecerá; os seus bens se derramarão no dia da ira do Senhor."
+        },
+        {
+          "number": 29,
+          "text": "Esta é a recompensa de Deus para o homem corrupto, a herança que lhe foi reservada por Deus\"."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Jó, respondeu e disse:"
+        },
+        {
+          "number": 2,
+          "text": "\"Ouvi cuidadosamente meu discurso e que ele seja o conforto que vós oferecereis a mim."
+        },
+        {
+          "number": 3,
+          "text": "Tolerai-me e eu também falarei; depois que eu falar, podeis zombar."
+        },
+        {
+          "number": 4,
+          "text": "Quanto a mim, é a minha reclamação para uma pessoa? Por que eu não estaria impaciente?"
+        },
+        {
+          "number": 5,
+          "text": "Olhai para mim, ficai espantado e colocai vossa mão à boca."
+        },
+        {
+          "number": 6,
+          "text": "Quando penso em meus sofrimentos, fico aterrorizado e tremedeiras tomam conta do meu corpo."
+        },
+        {
+          "number": 7,
+          "text": "Por que as pessoas malvadas continuam a viver, tornam-se velhas e crescem em poder?"
+        },
+        {
+          "number": 8,
+          "text": "Seus descendentes são estabelecidos com eles às suas vistas e sua posteridade é estabelecida ante seus olhos."
+        },
+        {
+          "number": 9,
+          "text": "Suas casas estão salvas do medo; e a vara de Deus não está sobre eles."
+        },
+        {
+          "number": 10,
+          "text": "Seus bois se reproduzem e isso não falha; suas vacas dão à luz e não perdem seus bezerros prematuramente."
+        },
+        {
+          "number": 11,
+          "text": "Eles enviam seus pequenos como rebanhos e suas crianças dançam."
+        },
+        {
+          "number": 12,
+          "text": "Eles cantam ao som do tamborim, da harpa e se regozijam com a música da flauta."
+        },
+        {
+          "number": 13,
+          "text": "Eles gastam seus dias em prosperidade e vão, calmamente, ao Sheol."
+        },
+        {
+          "number": 14,
+          "text": "Dizem a Deus: 'Aparta-Te de nós, pois não desejamos nenhum conhecimento dos Teus caminhos."
+        },
+        {
+          "number": 15,
+          "text": "Quem é o Altíssimo para que O adoremos? Que vantagem teríamos se tivéssemos orado a Ele?'."
+        },
+        {
+          "number": 16,
+          "text": "Vede, não está a prosperidade deles em suas próprias mãos? Eu não tenho o que fazer com o conselho dos maus."
+        },
+        {
+          "number": 17,
+          "text": "Quantas vezes a lâmpada dos maus se apaga ou a calamidade vem sobre eles? Quantas vezes Deus lhes dá dar tristeza na Sua ira?"
+        },
+        {
+          "number": 18,
+          "text": "Quantas vezes eles se tornam como palha ante o vento ou como os ciscos que a tempestade leva para longe?"
+        },
+        {
+          "number": 19,
+          "text": "Vós dizeis: 'Deus coloca a culpa de outro para Seus filhos pagarem'. Deixai-o pagar por si mesmo, para que ele saiba que é culpado."
+        },
+        {
+          "number": 20,
+          "text": "Deixai que seus próprios olhos vejam sua destruição e deixai-o beber da ira do Altíssimo."
+        },
+        {
+          "number": 21,
+          "text": "Por que ele se preocuparia com sua família quando o número de seus meses for cortado?"
+        },
+        {
+          "number": 22,
+          "text": "Poderá alguém ensinar conhecimento a Deus, já que Ele julga até mesmo aqueles que estão em posição elevada?"
+        },
+        {
+          "number": 23,
+          "text": "Um homem morre com toda a sua energia, ficando completamente quieto e à vontade."
+        },
+        {
+          "number": 24,
+          "text": "Seu corpo está cheio de leite e a medula de seus ossos está umedecida e saudável."
+        },
+        {
+          "number": 25,
+          "text": "Outro homem morre em amargura de alma, alguém que nunca experimentou algo de bom."
+        },
+        {
+          "number": 26,
+          "text": "Eles, da mesma maneira, descansam na poeira; os vermes vêm sobre ambos."
+        },
+        {
+          "number": 27,
+          "text": "Vede, eu conheço os vossos pensamentos e os caminhos nos quais desejais enganar-me."
+        },
+        {
+          "number": 28,
+          "text": "Pois vós dizeis: 'Onde está a casa do príncipe agora? Onde está a tenda em que o homem mau uma vez habitou?'"
+        },
+        {
+          "number": 29,
+          "text": "Vós nunca perguntastes aos viajantes? Vós não sabeis as evidências que eles falam,"
+        },
+        {
+          "number": 30,
+          "text": "que o homem mau está guardado do dia da calamidade e que ele é guiado para longe do dia da ira?"
+        },
+        {
+          "number": 31,
+          "text": "Quem condenará os caminhos do homem mau perante a sua face? Quem o recompensará pelo que ele tem feito?"
+        },
+        {
+          "number": 32,
+          "text": "Ele será carregado à sepultura; homens guardarão seu túmulo."
+        },
+        {
+          "number": 33,
+          "text": "O solo do vale será doce para ele; todas as pessoas virão depois dele, assim como há inúmeras pessoas que foram antes dele."
+        },
+        {
+          "number": 34,
+          "text": "Como, então, vós podeis consolar-me com estes absurdos, já que, em vossas repostas, não há nada além de falsidade?\"."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Elifaz, o temanita, respondeu:"
+        },
+        {
+          "number": 2,
+          "text": "\"Pode o homem ser útil a Deus? Pode o sábio ser útil a Ele?"
+        },
+        {
+          "number": 3,
+          "text": "Há algum prazer para o Todo Poderoso se fores justo? Há algum proveito para Ele se tornares teus caminhos irrepreensíveis?"
+        },
+        {
+          "number": 4,
+          "text": "É por causa da tua reverência por Ele, que Ele te repreende e te leva a juízo?"
+        },
+        {
+          "number": 5,
+          "text": "Não é grande a tua malícia? E sem fim as tuas iniquidades?"
+        },
+        {
+          "number": 6,
+          "text": "Pois tu tens exigido segurança de teus irmãos sem razão; tu tens retirado as roupas daquele que estava nú."
+        },
+        {
+          "number": 7,
+          "text": "Tu não destes água ao sedento e negastes pão ao faminto,"
+        },
+        {
+          "number": 8,
+          "text": "mesmo sendo tu um homem poderoso, possuindo a terra; mesmo sendo tu um homem honrado, viveu nela."
+        },
+        {
+          "number": 9,
+          "text": "Tu despediste as viúvas de mãos vazias; o braço dos orfãos foi quebrado."
+        },
+        {
+          "number": 10,
+          "text": "Portanto, as armadilhas estão à tua volta e medo repentino te aflinge."
+        },
+        {
+          "number": 11,
+          "text": "Há trevas, para que tu não vejas; uma abundância de águas te cobrem."
+        },
+        {
+          "number": 12,
+          "text": "Não está Deus nas alturas do céu? Olha para a altura das estrelas, quão altas estão!"
+        },
+        {
+          "number": 13,
+          "text": "Tu dizes: 'O que Deus sabe? Pode Ele julgar por meio de densa escuridão?"
+        },
+        {
+          "number": 14,
+          "text": "Nuvens carregadas O cobrem para que Ele não nos veja; Ele anda nos altos céus'."
+        },
+        {
+          "number": 15,
+          "text": "Guardarás os antigos caminhos, nos quais andaram os homens corruptos —"
+        },
+        {
+          "number": 16,
+          "text": "os quais foram arrebatados antes do seu tempo, cuja fundação tem sido arrastada como um rio,"
+        },
+        {
+          "number": 17,
+          "text": "aqueles que disseram a Deus: 'Aparta-Te de nós'; aqueles que disseram: 'O que pode nos fazer o Todo Poderoso?'."
+        },
+        {
+          "number": 18,
+          "text": "Mesmo assim, Ele encheu suas casas com bens, os planos dos corruptos estão longe de mim."
+        },
+        {
+          "number": 19,
+          "text": "Os justos veem a sua destruição e se alegram; pessoas inocentes riem deles até o escárneo."
+        },
+        {
+          "number": 20,
+          "text": "Eles dizem: 'Na verdade, aqueles que se levantam contra nós são exterminados; o fogo tem consumido suas posses'."
+        },
+        {
+          "number": 21,
+          "text": "Agora, concorda com Deus e fica em paz com Ele; assim, o bem virá para ti."
+        },
+        {
+          "number": 22,
+          "text": "Rogo-te: recebe instruções da Sua boca; guarda a Sua palavra no teu coração."
+        },
+        {
+          "number": 23,
+          "text": "Se retornares ao Todo Poderoso e, se puseres a iniquidades longe das tuas tendas, tu serás edificado."
+        },
+        {
+          "number": 24,
+          "text": "Lança fora o teu tesouro no pó, o ouro de Ofir entre as pedras dos ribeiros,"
+        },
+        {
+          "number": 25,
+          "text": "e o Todo Poderoso será o teu tesouro e a tua prata preciosa."
+        },
+        {
+          "number": 26,
+          "text": "Então, terás prazer no Todo Poderoso; tu levantarás o teu rosto a Deus."
+        },
+        {
+          "number": 27,
+          "text": "Tu farás a tua oração a Ele e Ele te ouvirá; Tu cumprirás os teus votos diante Dele."
+        },
+        {
+          "number": 28,
+          "text": "Tu também ordenarás qualquer coisa e esta será confirmada a ti; a luz brilhará em teus caminhos."
+        },
+        {
+          "number": 29,
+          "text": "Deus humilha o homem orgulhoso e salva aqueles com olhos baixos."
+        },
+        {
+          "number": 30,
+          "text": "Ele resgatará o homem inocente; tu serás resgatado através da pureza das tuas mãos\"."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Depois, Jó respondeu e disse:"
+        },
+        {
+          "number": 2,
+          "text": "\"Ainda hoje, a minha queixa é amarga; minha mão é pesada por causa do meu sofrimento."
+        },
+        {
+          "number": 3,
+          "text": "Ah, se eu soubesse onde encontrá-Lo! Ah, se eu pudesse ir ao Seu lugar!"
+        },
+        {
+          "number": 4,
+          "text": "Eu apresentaria o meu caso diante Dele e encheria a minha boca com argumentos."
+        },
+        {
+          "number": 5,
+          "text": "Eu aprenderia as palavras com as quais Ele me responderia e entenderia o que Ele me diria."
+        },
+        {
+          "number": 6,
+          "text": "Ele iria argumentar contra mim segundo a grandeza do Seu poder? Não, Ele prestaria atenção em mim."
+        },
+        {
+          "number": 7,
+          "text": "Então, um homem reto poderia argumentar com Ele. Assim, eu seria liberto para sempre pelo meu juiz."
+        },
+        {
+          "number": 8,
+          "text": "Vê, eu vou para o oriente, mas Ele não está lá; vou para o ocidente, mas não consigo achá-Lo."
+        },
+        {
+          "number": 9,
+          "text": "Mesmo para o norte, onde Ele está a trabalhar, não posso vê-Lo; e, para o sul, onde Ele se esconde, eu não posso vê-Lo."
+        },
+        {
+          "number": 10,
+          "text": "Mas Ele conhece o caminho em que ando; quando Ele me prova, eu saio como o ouro."
+        },
+        {
+          "number": 11,
+          "text": "Os meus pés seguiram apressadamente as Suas pisadas; eu guardei o Seu caminho e não me desviei dele."
+        },
+        {
+          "number": 12,
+          "text": "Não abadonei o mandamento dos Seus lábios; Eu guardei como um tesouro as palavras da Sua boca mais que minha porção de comida."
+        },
+        {
+          "number": 13,
+          "text": "Mas Ele é único, quem pode Lhe virar as costas? Aquilo que Ele deseja, faz."
+        },
+        {
+          "number": 14,
+          "text": "Ele carrega Seu decreto contra mim; e há muitas outras coisas como essas."
+        },
+        {
+          "number": 15,
+          "text": "Por isso, estou aterrorizado em Sua presença; quando eu penso Nele, fico com medo."
+        },
+        {
+          "number": 16,
+          "text": "Pois Deus fez enfraquecer o meu coração; oTodo Poderoso aterrorizou-me."
+        },
+        {
+          "number": 17,
+          "text": "Porém, eu não fui destruído pelas trevas, as densas trevas que encobrem o meu rosto."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Por que os tempos para o julgamento dos corruptos não são marcados pelo Todo Poderoso? Por que os fiéis não veem seus dias de julgamento chegar?"
+        },
+        {
+          "number": 2,
+          "text": "Há corruptos que removem os marcos de fronteira; há corruptos que roubam à força os rebanhos e colocam nos seus próprios pastos."
+        },
+        {
+          "number": 3,
+          "text": "Eles roubam o jumento dos órfãos; eles levam o boi da viúva como penhor."
+        },
+        {
+          "number": 4,
+          "text": "Eles forçam os necessitados para fora do caminho; os pobres da Terra se escondem deles."
+        },
+        {
+          "number": 5,
+          "text": "Vê, como jumentos selvagens no deserto, esse pobre povo sai para o seu trabalho, procurando, atentamente, por comida; talvez, o deserto proverá comida para seus filhos."
+        },
+        {
+          "number": 6,
+          "text": "Povo pobre que colhe durante a noite nos campos dos outros; eles recolhem restos de uvas da colheita dos corruptos."
+        },
+        {
+          "number": 7,
+          "text": "Eles se deitam nus toda noite; eles não têm cobertor no frio."
+        },
+        {
+          "number": 8,
+          "text": "Eles são molhados pela chuva das montanhas; eles se deitam perto das grandes rochas porque não têm habitação."
+        },
+        {
+          "number": 9,
+          "text": "Há corruptos que arrancam os órfãos do peito das suas mães e também corruptos que levam as crianças dos pobres como penhor."
+        },
+        {
+          "number": 10,
+          "text": "Mas os pobres andam quase nus sem vestimenta; embora com fome, eles carregam os feixes de cereais de outros."
+        },
+        {
+          "number": 11,
+          "text": "Os pobres fazem óleo dentro dos muros daqueles corruptos; eles pisam os lagares dos corruptos, mas eles mesmos sofrem com a sede."
+        },
+        {
+          "number": 12,
+          "text": "Na cidade, as pessoas gemem; os feridos clamam, mas Deus não Se atenta para as suas orações."
+        },
+        {
+          "number": 13,
+          "text": "Alguns desses corruptos rebelam-se contra a luz; eles não sabem seus caminhos e nem permanecem nos mesmos."
+        },
+        {
+          "number": 14,
+          "text": "Antes de amanhecer, o homicida se levanta e mata pessoas pobres e necessitadas; de noite, ele é como um ladrão."
+        },
+        {
+          "number": 15,
+          "text": "Também, o olho do adúltero espera pelo crepúsculo; ele diz : 'Nenhum olho me verá'. Ele disfarça sua face."
+        },
+        {
+          "number": 16,
+          "text": "Na escuridão, os corruptos invadem casas; eles se escondem durante o dia; eles não se importam com a luz."
+        },
+        {
+          "number": 17,
+          "text": "Pois, para todos eles, a manhã é como densas trevas; eles são amigos dos terrores das densas trevas."
+        },
+        {
+          "number": 18,
+          "text": "Rapidamente, eles morrem como espuma na superfície das águas; sua porção da terra está amaldiçoada; ninguém vai trabalhar nas suas vinhas."
+        },
+        {
+          "number": 19,
+          "text": "Como a seca e o calor derretem a neve em água; também o Sheol consome aqueles que pecaram."
+        },
+        {
+          "number": 20,
+          "text": "O ventre que o gerou o esquecerá; o verme se deliciará dele; ele nunca mais será lembrado. Dessa forma, o corrupto será quebrado como a árvore."
+        },
+        {
+          "number": 21,
+          "text": "O corrupto devora a mulher estéril que nunca teve filhos; ele não faz o bem para a viúva ."
+        },
+        {
+          "number": 22,
+          "text": "Ainda assim, Deus arrasta as pessoas poderosas com o Seu poder; Ele Se levanta e não fortalece suas vidas."
+        },
+        {
+          "number": 23,
+          "text": "Deus lhes permite achar que estão seguras; e elas são felizes por isso, mas os Seus olhos estão em seus caminhos."
+        },
+        {
+          "number": 24,
+          "text": "Essas pessoas são exaltadas; mas, em pouco tempo, e elas se vão; certamente, elas serão rebaixadas; serão reunidas como todas as outras; serão cortadas como as pontas das espigas dos cereais."
+        },
+        {
+          "number": 25,
+          "text": "Se assim não for, quem pode provar-me que sou mentiroso; quem pode fazer o meu discurso inválido?\"."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Bildade, o suíta respondeu e disse:"
+        },
+        {
+          "number": 2,
+          "text": "\"Domínio e temor estão com Ele; Ele coloca ordem nos Seus altos lugares do céu."
+        },
+        {
+          "number": 3,
+          "text": "Há fim ao número dos Seus exércitos? Sobre quem a Sua luz não resplandece?"
+        },
+        {
+          "number": 4,
+          "text": "Então, como o homem pode ser justo perante Deus? Como pode ele, que é nascido de mulher ser limpo, aceitável a Ele?"
+        },
+        {
+          "number": 5,
+          "text": "Vê, mesmo a lua não tem brilho para Ele; as estrelas não são puras aos Seus olhos."
+        },
+        {
+          "number": 6,
+          "text": "Quanto menos o homem que é um verme --- um filho de homem, que é uma minhoca!\"."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Jó respondeu e disse,"
+        },
+        {
+          "number": 2,
+          "text": "\"Como tu tens ajudado ao que não tem força! Como tens salvado o braço que não tem força!"
+        },
+        {
+          "number": 3,
+          "text": "Como tens aconselhado ao que não tem sabedoria e revelado a ele melhor conhecimento!"
+        },
+        {
+          "number": 4,
+          "text": "Com ajuda de quem proferiste estas palavras? E de quem era o espírito que saiu de ti?"
+        },
+        {
+          "number": 5,
+          "text": "Os mortos tremem, aqueles que estão debaixo das águas e todos que habitam nelas."
+        },
+        {
+          "number": 6,
+          "text": "O Sheol está nu perante Deus; a própria destruição não tem cobertura contra Ele."
+        },
+        {
+          "number": 7,
+          "text": "Ele estende os céus do norte sobre espaço vazio e suspende a Terra acima do nada."
+        },
+        {
+          "number": 8,
+          "text": "Ele prende as águas nas Suas densas nuvens, mas as nuvens não se rasgam debaixo delas."
+        },
+        {
+          "number": 9,
+          "text": "Ele encobre a face da lua e espalha as suas nuvens sobre ela."
+        },
+        {
+          "number": 10,
+          "text": "Ele marcou um limite circular por cima das águas como a linha entre a luz e as trevas."
+        },
+        {
+          "number": 11,
+          "text": "Os pilares do céu estremecem e são surpreendidos pela Sua repreensão."
+        },
+        {
+          "number": 12,
+          "text": "Ele acalmou o mar pela Sua força; pelo Seu conhecimento, despedaça a Raabe."
+        },
+        {
+          "number": 13,
+          "text": "Pelo Seu sopro, limpou os céus; a Sua mão feriu a serpente fugitiva."
+        },
+        {
+          "number": 14,
+          "text": "Vê, esses são apenas a beirada dos Seus caminhos. Quão pequeno é um sussurro que podemos ouvir Dele! Quem pode compreender o trovão do Seu poder?\"."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jó,retmou sua fala e disse:"
+        },
+        {
+          "number": 2,
+          "text": "\"Tão certo como Deus vive, Quem arrancou a minha justiça, o Todo Poderoso, que tornou minha vida amarga,"
+        },
+        {
+          "number": 3,
+          "text": "pois, enquanto a minha vida ainda estiver em mim e o fôlego de Deus em minhas narinas, é isto que farei."
+        },
+        {
+          "number": 4,
+          "text": "Meus lábios não falarão iniquidade, nem a minha língua falará engano."
+        },
+        {
+          "number": 5,
+          "text": "Nunca vou admitir que vós três estáveis certos; até que eu morra, eu nunca negarei minha integridade."
+        },
+        {
+          "number": 6,
+          "text": "Eu me apego à minha justiça e não a deixarei ir; meus pensamentos não me repreenderão enquanto eu viver."
+        },
+        {
+          "number": 7,
+          "text": "Que o meu inimigo seja como o homem corrupto; e aquele que se levanta contra mim seja como o homem injusto."
+        },
+        {
+          "number": 8,
+          "text": "Pois qual é a esperança de um homem corrupto quando Deus o destrói, quando Deus tira-lhe a vida?"
+        },
+        {
+          "number": 9,
+          "text": "Poderá Deus ouvir seu choro quando a aflição vier sobre ele?"
+        },
+        {
+          "number": 10,
+          "text": "Alegrar-se-á ele no Todo Poderoso e clamará a Deus em todos os tempos?"
+        },
+        {
+          "number": 11,
+          "text": "Eu vos ensinarei a respeito da mão de Deus; não ocultarei os pensamentos do Todo Poderoso."
+        },
+        {
+          "number": 12,
+          "text": "Vede, todos vós tendes visto isto pessoalmente; por que, então, tendes falado tudo isso sem nenhum sentido?"
+        },
+        {
+          "number": 13,
+          "text": "Este é o destino do homem corrupto com Deus, a herança do opressor que ele recebe do Todo Poderoso:"
+        },
+        {
+          "number": 14,
+          "text": "se seus filhos se multipicarem, será para a espada; sua prole nunca terá comida suficiente."
+        },
+        {
+          "number": 15,
+          "text": "Todos os que sobreviverem serão sepultados pela praga e suas viúvas não farão lamentação alguma por eles."
+        },
+        {
+          "number": 16,
+          "text": "Ainda que o homem corrupto acumule prata como o pó e acumule roupas como barro,"
+        },
+        {
+          "number": 17,
+          "text": "ele poderá acumular roupas, mas pessoas justas as vestirão e as pessoas inocentes dividirão a prata entre elas."
+        },
+        {
+          "number": 18,
+          "text": "Ele constrói sua casa como a da aranha, como a cabana que um guarda faz."
+        },
+        {
+          "number": 19,
+          "text": "Ele se deita em riquezas, mas não fará isto para sempre; ele abre seus olhos e tudo se foi."
+        },
+        {
+          "number": 20,
+          "text": "Terrores o inundam como águas; uma tempestade o arrasta pela noite."
+        },
+        {
+          "number": 21,
+          "text": "O vento do leste o leva para longe e ele sai; e o varre do seu lugar."
+        },
+        {
+          "number": 22,
+          "text": "O vento do leste se joga sobre ele e não pára; ele tenta escapar das suas mãos."
+        },
+        {
+          "number": 23,
+          "text": "O vento bate palmas a ele em gozação; seus assobios o tiram do seu lugar."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Certamente, existe uma mina para a prata e um lugar onde se refina o ouro."
+        },
+        {
+          "number": 2,
+          "text": "O ferro é tirado da terra; e o cobre é fundido da pedra."
+        },
+        {
+          "number": 3,
+          "text": "Um homem põe fim às trevas e procura, no limite mais distante, as pedras na escuridão e nas densas trevas."
+        },
+        {
+          "number": 4,
+          "text": "Ele abre um túnel afastado de onde as pessoas vivem, lugares esquecidos, nos quais as pessoas não colocam seus pés. Ele se dependura longe dos homens, ele balança para lá e para cá."
+        },
+        {
+          "number": 5,
+          "text": "A terra, de onde procede o pão, é revolvida em baixo como por fogo."
+        },
+        {
+          "number": 6,
+          "text": "As suas pedras são lugares onde se encontra a safira e sua poeira contém ouro."
+        },
+        {
+          "number": 7,
+          "text": "Nenhuma ave da rapina conhece este caminho, nem o olho do falcão pode vê-los."
+        },
+        {
+          "number": 8,
+          "text": "O animal orgulhoso não andou por tais caminhos, nem o leão feroz passou por lá."
+        },
+        {
+          "number": 9,
+          "text": "O homem estende a mão sobre as pedras duras; ele revolve as montanhas pelas suas raízes."
+        },
+        {
+          "number": 10,
+          "text": "Ele corta canais no meio das pedras; os seus olhos veem todas as coisas valiosas lá."
+        },
+        {
+          "number": 11,
+          "text": "Ele fecha os rios para que não corram. O que está escondido lá ele traz para a luz."
+        },
+        {
+          "number": 12,
+          "text": "Onde se achará a sabedoria? Onde está o lugar do entendimento?"
+        },
+        {
+          "number": 13,
+          "text": "O homem não conhece o seu preço; e nem é este encontrado na terra dos viventes."
+        },
+        {
+          "number": 14,
+          "text": "As águas profundas embaixo da terra dizem: 'Não está em mim'; o mar diz: 'Também não está em mim'."
+        },
+        {
+          "number": 15,
+          "text": "Não pode ser conseguida com ouro; e nem pode a prata ser pesada como seu preço."
+        },
+        {
+          "number": 16,
+          "text": "Também não pode ser comprada com o ouro de Ofir, nem com o precioso ônix, ou com a safira."
+        },
+        {
+          "number": 17,
+          "text": "O ouro e o cristal não podem ser igualados em valor à sabedoria; nem se pode trocar por joias de ouro fino."
+        },
+        {
+          "number": 18,
+          "text": "Não vale a pena fazer menção ao coral ou jaspe; certamente, o preço da sabedoria é mais que rubis."
+        },
+        {
+          "number": 19,
+          "text": "O topázio da Etiópia não se compara com ela; nem pode ser valorizada em termos de ouro puro."
+        },
+        {
+          "number": 20,
+          "text": "De onde, pois, vem a sabedoria? Onde está o lugar do entendimento?"
+        },
+        {
+          "number": 21,
+          "text": "A sabedoria está escondida dos olhos de todos os seres viventes e está guardada em oculto das aves dos céus."
+        },
+        {
+          "number": 22,
+          "text": "A destruição e a morte dizem: 'Temos escutado somente um rumor acerca disto com os nossos ouvidos'."
+        },
+        {
+          "number": 23,
+          "text": "Deus entende o caminho para ela; Ele conhece o seu lugar."
+        },
+        {
+          "number": 24,
+          "text": "Pois Ele vê os limites da Terra e vê abaixo de todos os céus."
+        },
+        {
+          "number": 25,
+          "text": "No passado, Ele fez a força do vento e dividiu as águas por medidas."
+        },
+        {
+          "number": 26,
+          "text": "Ele colocou um limite para a chuva e um caminho para o relâmpago dos trovões."
+        },
+        {
+          "number": 27,
+          "text": "Então, Ele viu a sabedoria e a anunciou; Ele a estabeleceu e a examinou de fato."
+        },
+        {
+          "number": 28,
+          "text": "Para as pessoas, Ele disse: 'Vê, o temor do Senhor é sabedoria; e apartar-se do mal é entendimento'\"."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jó continuou o discurso e disse:"
+        },
+        {
+          "number": 2,
+          "text": "\"Ó, quem me dera eu fosse o que era nos meses passados quando Deus cuidava de mim,"
+        },
+        {
+          "number": 3,
+          "text": "quando a Sua luz brilhava sobre a minha cabeça, e quando eu andava pelas trevas guiado pela Sua luz."
+        },
+        {
+          "number": 4,
+          "text": "Ó, quem me dera fosse como era nos dias da minha colheita, quando a amizade de Deus estava sobre a minha tenda,"
+        },
+        {
+          "number": 5,
+          "text": "quando o Todo Poderoso ainda estava comigo e meus filhos estavam à minha volta,"
+        },
+        {
+          "number": 6,
+          "text": "quando meus caminhos eram cobertos de nata e a rocha derramava sobre mim rios de azeite!"
+        },
+        {
+          "number": 7,
+          "text": "Quando eu ia ao portal da cidade, quando me sentava na praça da cidade,"
+        },
+        {
+          "number": 8,
+          "text": "os jovens me viam e mantinham distância de mim por respeito e os idosos se levantavam e ficavam de pé diante de mim."
+        },
+        {
+          "number": 9,
+          "text": "Os príncipes paravam suas falas quando eu chegava; eles colocavam as mãos sobre suas bocas."
+        },
+        {
+          "number": 10,
+          "text": "As vozes dos nobres eram silenciadas e as suas línguas grudavam no céu da boca."
+        },
+        {
+          "number": 11,
+          "text": "Porque, depois que os seus ouvidos me ouviam, eles me abençoavam; depois que os seus olhos me viam, eles testemunhavam a meu respeito e me aprovavam;"
+        },
+        {
+          "number": 12,
+          "text": "pois eu resgatava o pobre quando ele clamava e também os órfão que não tinham ninguém para o ajudar."
+        },
+        {
+          "number": 13,
+          "text": "A bênção daquele que estava prestes a morrer vinha sobre mim e eu fazia com que o coração da viúva cantasse de alegria."
+        },
+        {
+          "number": 14,
+          "text": "Eu vestia a justiça e ela me cobria; a minha justiça era como um manto e um turbante."
+        },
+        {
+          "number": 15,
+          "text": "Eu era olhos dos cegos; pés para os coxos;"
+        },
+        {
+          "number": 16,
+          "text": "e pai dos necessitados. Eu examinava a causa até mesmo dos que eu não conhecia."
+        },
+        {
+          "number": 17,
+          "text": "Eu quebrava as mandíbulas do corrupto; arrancava a vítima dentre os seus dentes."
+        },
+        {
+          "number": 18,
+          "text": "E eu falava: 'morrerei no meu ninho; multiplicarei os meus dias como os grãos de areia."
+        },
+        {
+          "number": 19,
+          "text": "As minhas raízes se espalharam pelas águas, o orvalho ficava sobre os meus ramos a noite inteira."
+        },
+        {
+          "number": 20,
+          "text": "A honra em mim era sempre nova e o arco da minha força estava sempre novo em minha mão."
+        },
+        {
+          "number": 21,
+          "text": "Os homens me escutavam; eles esperavam por mim; ficavam em silêncio para ouvir o meu conselho."
+        },
+        {
+          "number": 22,
+          "text": "Depois que eu acabava de falar, eles não falavam mais; o meu discurso caía como água sobre eles."
+        },
+        {
+          "number": 23,
+          "text": "Eles sempre esperavam por mim como esperavam pela chuva; eles abriam largamente as suas bocas para beberem as minhas palavras, como fariam para a chuva tardia."
+        },
+        {
+          "number": 24,
+          "text": "Eu lhes sorria quando menos esperavam; eles não rejeitavam a luz do meu rosto."
+        },
+        {
+          "number": 25,
+          "text": "Eu selecionava os caminhos para eles e me sentava como o chefe deles; eu vivia como rei no seu exército, como alguém que consola os enlutados."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Agora, os que são mais novos que eu não possuem nada, mas zombam de mim — esses jovens, cujos pais que trabalhassem ao lado dos cães de guarda do meu rebanho."
+        },
+        {
+          "number": 2,
+          "text": "Pois de que me serveria a força das mãos dos seus pais, homens cuja força da sua idade madura já pereceu?"
+        },
+        {
+          "number": 3,
+          "text": "Eles eram magros por causa da pobreza e fome, andavam roendo em lugares secos na escuridão do deserto e na desolação."
+        },
+        {
+          "number": 4,
+          "text": "Apanhavam malvas e folhas de arbustos; e o seu alimento eram as raízes dos arbustos."
+        },
+        {
+          "number": 5,
+          "text": "Eles eram expulsos do meio dos homens, que gritavam para eles, como se grita para ladrões."
+        },
+        {
+          "number": 6,
+          "text": "Por isso, eles tinham que viver nos vales dos rios, em buracos da terra e das rochas."
+        },
+        {
+          "number": 7,
+          "text": "Entre os arbustos, urravam como jumentos e, debaixo dos arbustos, se ajuntavam."
+        },
+        {
+          "number": 8,
+          "text": "Eles eram filhos de tolos, verdadeiramente eram filhos de homens sem nome. Eles eram expulsos da terra com chicotes."
+        },
+        {
+          "number": 9,
+          "text": "Mas, agora, para os seus filhos, tornei-me canção de zombaria; na verdade, eu agora sou piada para eles."
+        },
+        {
+          "number": 10,
+          "text": "Eles me abominam, ficam distantes de mim e não se privam de cuspir no meu rosto."
+        },
+        {
+          "number": 11,
+          "text": "Portanto, Deus afroxou a corda do meu arco e me afligiu, por isso, aqueles que zombam de mim não se detêm diante de minha face."
+        },
+        {
+          "number": 12,
+          "text": "À minha direita, levanta-se gente vil; eles levantam contra mim o seu cerco."
+        },
+        {
+          "number": 13,
+          "text": "Eles destroem meu caminho, promovem desastres para mim, homens que ninguém pode deter."
+        },
+        {
+          "number": 14,
+          "text": "Eles vêm contra mim como um exército por meio de grande buraco na muralha da cidade; no meio das ruínas, se lançam contra mim."
+        },
+        {
+          "number": 15,
+          "text": "Terrores vieram sobre mim; a minha honra foi retirada como se pelo vento; a minha prosperidade se foi como as nuvens."
+        },
+        {
+          "number": 16,
+          "text": "Agora, a minha vida se derrama dentro de mim; muitos dias de sofrimento se prederam a mim."
+        },
+        {
+          "number": 17,
+          "text": "De noite, os meus ossos são perfurados, as dores que me corroem não descansam."
+        },
+        {
+          "number": 18,
+          "text": "A poderosa força de Deus desfigurou as minhas vestes; esta me envolve como a gola da minha túnica."
+        },
+        {
+          "number": 19,
+          "text": "Ele me lançou na lama; tornei-me como pó e cinza."
+        },
+        {
+          "number": 20,
+          "text": "Clamo a Ti, Deus, mas Tu não me respondes; Eu me levanto e Tu não olhas para mim."
+        },
+        {
+          "number": 21,
+          "text": "Tu mudaste e Te tornaste cruel a mim; com a força da Tua mão, Tu me persegues."
+        },
+        {
+          "number": 22,
+          "text": "Tu me levantas no vento e fazes com que ele me leve para longe; lanças a mim para um lado e outro na tempestade. [Algumas versões modernas adotam \"Tu me derretes na tempestade\".]"
+        },
+        {
+          "number": 23,
+          "text": "Pois eu sei que me trarás à morte, para casa destinada a todos seres viventes."
+        },
+        {
+          "number": 24,
+          "text": "Porventura, não estende alguém sua mão para implorar por ajuda quando cai? Não clama por socorro aquele que está atribulado?"
+        },
+        {
+          "number": 25,
+          "text": "Não chorei por aquele que se encontrava em tribulação? Não lamentei pelo homen necessitado?"
+        },
+        {
+          "number": 26,
+          "text": "Quando procurei pelo bem, o mal me sobreveio, quando eu esperei pela luz, sobreveio a mim a escuridão."
+        },
+        {
+          "number": 27,
+          "text": "O meu coração está atribulado e não descansa; dias de aflição vieram sobre mim."
+        },
+        {
+          "number": 28,
+          "text": "Tenho passado como alguém que vive nas trevas, mas não por causa do sol; levanto-me na assembleia e clamo por socorro."
+        },
+        {
+          "number": 29,
+          "text": "Tornei-me irmão de chacais e companheiro de avestruzes."
+        },
+        {
+          "number": 30,
+          "text": "A minha pele é escura e se desfaz; os meus ossos estão queimados pelo calor."
+        },
+        {
+          "number": 31,
+          "text": "Por isso, a minha harpa foi afinada para hinos de lamento e a minha flauta para tocar aos que se queixam."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Eu fiz uma aliança com os meus olhos; como, então, olharia a virgem com desejo?"
+        },
+        {
+          "number": 2,
+          "text": "Qual é a porção que tenho do Deus lá de cima, a herança do Todo Poderoso das alturas?"
+        },
+        {
+          "number": 3,
+          "text": "Eu pensava que a calamidade fosse para os injustos e os desastres para os corruptos."
+        },
+        {
+          "number": 4,
+          "text": "Será que Deus não vê os meus caminhos e conta todos os meus passos?"
+        },
+        {
+          "number": 5,
+          "text": "Se eu andei em falsidade, se o meu pé se apressou para o engano,"
+        },
+        {
+          "number": 6,
+          "text": "que Deus me pese numa balança para que saiba da minha integridade."
+        },
+        {
+          "number": 7,
+          "text": "Se o meu passo se desviou do caminho certo, se o meu coração seguiu as atrações dos meus olhos, se alguma mancha de impureza se apegou às minhas mãos,"
+        },
+        {
+          "number": 8,
+          "text": "de fato, que outros comam o que plantei, inclusive, que a colheita seja arrancada das minhas plantações."
+        },
+        {
+          "number": 9,
+          "text": "Se o meu coração se atraiu por outra mulher, se espreitei à porta do próximo para tomar a sua esposa,"
+        },
+        {
+          "number": 10,
+          "text": "então, que a minha esposa moa o grão de cereais de outro homem e que outros se deitem com ela."
+        },
+        {
+          "number": 11,
+          "text": "Certamente, isso seria um crime terrível; portanto, digno de castigo pelos juízes."
+        },
+        {
+          "number": 12,
+          "text": "Porque isso é fogo que consome tudo para o Sheol e que queimaria toda a minha colheita."
+        },
+        {
+          "number": 13,
+          "text": "Se ignorei o direito de justiça do meu servo ou da minha serva, quando reclamaram."
+        },
+        {
+          "number": 14,
+          "text": "O que farei quando Deus Se levantar para me julgar? Quando Ele vier me julgar, como Lhe responderia?"
+        },
+        {
+          "number": 15,
+          "text": "Aquele que me formou no ventre não lhes formou também? Não é O mesmo que nos moldou no ventre?"
+        },
+        {
+          "number": 16,
+          "text": "Se eu neguei o desejo dos pobres, ou, se causei lágrimas nos olhos da viúva,"
+        },
+        {
+          "number": 17,
+          "text": "ou, se eu comi sozinho e não permiti que os órfãos comessem também."
+        },
+        {
+          "number": 18,
+          "text": "No entanto, os órfãos cresceram comigo na minha juventude como se fosse com um pai e cuidei da mãe deles, uma viúva, do ventre da minha própria mãe."
+        },
+        {
+          "number": 19,
+          "text": "Se vi alguém perecendo por falta de cobertor, ou um homem necessitado de roupa;"
+        },
+        {
+          "number": 20,
+          "text": "e, se seu coração não me abençou porque não se aqueceu com a lã do meu rebanho,"
+        },
+        {
+          "number": 21,
+          "text": "se levantei a minha mão contra os órfãos, porque vi o meu sustento no portão da cidade, então, trazei as acusações contra mim!"
+        },
+        {
+          "number": 22,
+          "text": "Que meu ombro caia das minhas costas e que o meu braço aparte-se das juntas."
+        },
+        {
+          "number": 23,
+          "text": "Porque a calamidade de Deus seria um terror para mim; por causa da Sua majestade, eu não faria nenhuma destas coisas."
+        },
+        {
+          "number": 24,
+          "text": "Se fiz do ouro a minha confiança, e, se disse ao ouro puro: 'Tu és a minha segurança';"
+        },
+        {
+          "number": 25,
+          "text": "se me alegrei por causa da minha grande riqueza, pelas muitas posses que as minhas mãos obtiveram, então, trazei as acusações contra mim!"
+        },
+        {
+          "number": 26,
+          "text": "Se vi o sol quando brilhou, ou a lua caminhando em seu fulgor,"
+        },
+        {
+          "number": 27,
+          "text": "e, se o meu coração foi atraído secretamente, para que a minha boca beijasse a minha mão em adoração a eles —"
+        },
+        {
+          "number": 28,
+          "text": "isso também seria um crime a ser punido pelos juízes, pois teria negado ao Deus que está no alto."
+        },
+        {
+          "number": 29,
+          "text": "Se me alegrei com a ruína do inimigo ou celebrei o desastre que lhe tomou,"
+        },
+        {
+          "number": 30,
+          "text": "certamente, não permiti que a minha boca pecasse por desejar maldição sobre a vida dele."
+        },
+        {
+          "number": 31,
+          "text": "Se o homem da minha tenda nunca tivesse dito: 'Quem encontrará alguém que não foi saciado com os alimentos de Jó?'"
+        },
+        {
+          "number": 32,
+          "text": "(Até os estrangeiros nunca tiveram que ficar ao relento, pois sempre abri minha porta aos viajantes), se não fui assim, então, trazei as acusações contra mim!"
+        },
+        {
+          "number": 33,
+          "text": "Se como ser humano, ocultei os meus pecados, escondendo a minha culpa nas minhas túnicas,"
+        },
+        {
+          "number": 34,
+          "text": "(porque temi a grande multidão e porque o desprezo das famílias me aterrorizou, para que me mantivesse calado e não mais saísse), então, trazei as acusações contra mim!"
+        },
+        {
+          "number": 35,
+          "text": "Ó, quem me dera se tivesse alguém para me ouvir, esta é a minha declaração da verdade; que o Altíssimo me responda! Se eu tivesse apenas a nota escrita pelos meus inimigos!"
+        },
+        {
+          "number": 36,
+          "text": "Certamente, a exibiria abertamente nos meus ombros. A usaria como uma coroa."
+        },
+        {
+          "number": 37,
+          "text": "Eu Lhe declararia os meus passos, como um príncipe seguro, iria até Ele."
+        },
+        {
+          "number": 38,
+          "text": "Se a minha terra clamar contra mim e os seus canais chorarem juntos,"
+        },
+        {
+          "number": 39,
+          "text": "se consumi os seus frutos sem pagar ou causei a perda da vida dos donos,"
+        },
+        {
+          "number": 40,
+          "text": "que cresçam espinhos ao invés do trigo e a erva ao invés da cevada\". Acabaram-se as palavras de Jó."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, estes três homens deixaram de responder a Jó porque ele se considerava justo aos seus próprios olhos."
+        },
+        {
+          "number": 2,
+          "text": "Então, inflamou-se a ira de Eliú, filho de Baraquel de Buz, o buzita, da família de Rão; ele se irou contra Jó, porque este se justificava a si mesmo em vez de Deus."
+        },
+        {
+          "number": 3,
+          "text": "A ira de Eliú se inflamou também contra os seus três amigos porque não haviam achado a resposta para Jó e, ainda assim, o condenaram."
+        },
+        {
+          "number": 4,
+          "text": "Eliú esperou para falar com Jó porque os outros homens eram mais velhos que ele."
+        },
+        {
+          "number": 5,
+          "text": "Contudo, quando Eliú viu que não havia resposta na boca destes três homens, inflamou-se sua ira."
+        },
+        {
+          "number": 6,
+          "text": "Então, Eliú filho de Baraquel de Buz falou: \"Eu sou jovem e vós sois velhos. Por isso, ponderei e não ousei dar a minha opinião."
+        },
+        {
+          "number": 7,
+          "text": "Eu disse: 'que a longevidade dos dias fale, a multidão dos anos ensine sabedoria."
+        },
+        {
+          "number": 8,
+          "text": "Mas é o espírito dentro do homem que lhe dá entendimento, o sopro do Todo Poderoso."
+        },
+        {
+          "number": 9,
+          "text": "Não são só os mais velhos que são os sábios, não são só os de idade que entendem o que é justo."
+        },
+        {
+          "number": 10,
+          "text": "Por isso, eu vos digo: 'Escutai-me; também vos direi o meu conhecimento'."
+        },
+        {
+          "number": 11,
+          "text": "Eis que esperei por vossas palavras, escutei vossos argumentos enquanto estáveis pensando acerca do que dizer."
+        },
+        {
+          "number": 12,
+          "text": "De fato, eu prestei atenção em vós; eis que não havia dentre vós quem pudesse convencer Jó ou quem pudesse responder às suas palavras."
+        },
+        {
+          "number": 13,
+          "text": "Cuidado para não dizer: 'Nós achamos a sabedoria!'. Deus irá derrotar a Jó; homem comum não pode fazer isso."
+        },
+        {
+          "number": 14,
+          "text": "Porque Jó não direcionou suas palavras contra mim, por isso, não irei responder a ele com vossas palavras."
+        },
+        {
+          "number": 15,
+          "text": "Estes três homens estão sem palavras, não conseguem mais responder a Jó, não têm mais palavra para dizer."
+        },
+        {
+          "number": 16,
+          "text": "Poderia eu esperá-los porque eles não estão falando, porque estão ali em silêncio e não conseguem mais responder?"
+        },
+        {
+          "number": 17,
+          "text": "Não, eu também responderei minha parte, expressarei meu conhecimento."
+        },
+        {
+          "number": 18,
+          "text": "Pois estou cheio de palavras, o espírito em mim me impulsiona."
+        },
+        {
+          "number": 19,
+          "text": "Eis que meu peito está como o vinho fermentando e sem brechas, como novos odres prestes a explodir."
+        },
+        {
+          "number": 20,
+          "text": "Falarei, para que ache alívio; abrirei meus lábios e responderei."
+        },
+        {
+          "number": 21,
+          "text": "Que não faça eu acepção de pessoas, nem adularei homem algum."
+        },
+        {
+          "number": 22,
+          "text": "Porque não sei como adular, se eu o fizesse, meu Criador em breve me levaria."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mas agora, Jó, suplico-te, escuta meu discurso; ouve todas as minhas palavras."
+        },
+        {
+          "number": 2,
+          "text": "Eu abri minha boca; minha língua falou na minha boca."
+        },
+        {
+          "number": 3,
+          "text": "Minhas palavras declaram a justiça do meu coração; os meus lábios falam puro conhecimento."
+        },
+        {
+          "number": 4,
+          "text": "O Espírito de Deus me fez; o sopro do Todo Poderoso me deu vida."
+        },
+        {
+          "number": 5,
+          "text": "Se tu podes, responde-me; define tuas palavras diante de mim."
+        },
+        {
+          "number": 6,
+          "text": "Vê, eu estou apenas como tu estás sob a vista de Deus; eu também fui formado do barro."
+        },
+        {
+          "number": 7,
+          "text": "Eis que o meu terror não te farás temer; nem uma pressão pesada sobre ti."
+        },
+        {
+          "number": 8,
+          "text": "Tu falaste ao meu ouvido; tenho ouvido o som das tuas palavras, dizendo:"
+        },
+        {
+          "number": 9,
+          "text": "'Eu estou limpo e sem transgressão; eu sou inocente e não há pecado em mim."
+        },
+        {
+          "number": 10,
+          "text": "Eis que Deus encontra oportunidades para me atacar; Ele me considera como seu inimigo."
+        },
+        {
+          "number": 11,
+          "text": "Ele prende os meus pés; Ele vigia todos os meus caminhos'."
+        },
+        {
+          "number": 12,
+          "text": "Vê, nisto não estás correto — porque Deus é maior que o homem."
+        },
+        {
+          "number": 13,
+          "text": "Por que lutas contra Ele? Deus não tem que explicar nenhum dos Seus feitos."
+        },
+        {
+          "number": 14,
+          "text": "Pois Deus fala uma — sim, duas, embora o homem não perceba."
+        },
+        {
+          "number": 15,
+          "text": "Em um sonho, em uma visão da noite, quando sono profundo cai sobre os homens, totalmente adormecidos nas suas camas —"
+        },
+        {
+          "number": 16,
+          "text": "então, Deus abre os ouvidos dos homens e os assusta com ameaças,"
+        },
+        {
+          "number": 17,
+          "text": "para tirar o homem dos seus propósitos pecaminosos e do seu orgulho."
+        },
+        {
+          "number": 18,
+          "text": "Deus afasta a vida dos homens do poço, de caminhar para a morte."
+        },
+        {
+          "number": 19,
+          "text": "O homem é punido também com dor na sua cama, com constante agonia em seus ossos,"
+        },
+        {
+          "number": 20,
+          "text": "para que sua vida abomine comida e sua alma abomine iguarias."
+        },
+        {
+          "number": 21,
+          "text": "Sua carne é consumida e isto não pode ser visto; seus ossos, que não se viam, agora aparecem."
+        },
+        {
+          "number": 22,
+          "text": "De fato, sua alma se aproxima do poço; sua vida, daqueles que a desejam destruir."
+        },
+        {
+          "number": 23,
+          "text": "Mas, se houver um anjo que pode ser mediador para ele, um mediador, um dentre os milhares de anjos, para mostrar a ele o que é certo fazer,"
+        },
+        {
+          "number": 24,
+          "text": "e, se o anjo for gentil com ele e disser a Deus: 'Salva esta pessoa de ir ao fundo do poço; eu encontrei redenção para ela',"
+        },
+        {
+          "number": 25,
+          "text": "sua carne se restaurará como carne de uma criança; ele retornará aos dias de força da juventude."
+        },
+        {
+          "number": 26,
+          "text": "Ele orará a Deus e Deus será generoso com ele, para que veja, com alegria, o rosto de Deus. Deus dará à pessoa sua vitória."
+        },
+        {
+          "number": 27,
+          "text": "Então, essa pessoa cantará em frente a outras e dirá: 'Eu pequei e perverti o que era justo, mas meu pecado não foi punido."
+        },
+        {
+          "number": 28,
+          "text": "Deus resgatou a minha alma de ir ao fundo do poço; minha vida continuará a ver a luz'."
+        },
+        {
+          "number": 29,
+          "text": "Eis que Deus fez todas estas coisas com uma pessoa, duas e três vezes para com o homem,"
+        },
+        {
+          "number": 30,
+          "text": "para trazer de volta sua alma do poço, para que ele seja iluminado com a luz da vida."
+        },
+        {
+          "number": 31,
+          "text": "Presta atenção, Jó, e ouve-me; fica em silêncio e eu falarei."
+        },
+        {
+          "number": 32,
+          "text": "Se tiveres qualquer coisa para dizer, responde-me; fala, porque eu desejo provar que estás correto."
+        },
+        {
+          "number": 33,
+          "text": "Se não tiver, então, escuta-me; permanece em silêncio e eu te ensinarei a sabedoria\"."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Além disso, Eliú continuou a falar:"
+        },
+        {
+          "number": 2,
+          "text": "\"Ouvi as minhas palavras, homens sábios; escutai-me, vós, que tendes conhecimento."
+        },
+        {
+          "number": 3,
+          "text": "Pois o ouvido distingue as palavras assim como o paladar saboreia a comida."
+        },
+        {
+          "number": 4,
+          "text": "Que escolhamos por nós mesmos o que é justo: que descubramos entre nós o que é bom."
+        },
+        {
+          "number": 5,
+          "text": "Pois Jó disse: 'Eu sou justo, mas Deus tirou meus direitos."
+        },
+        {
+          "number": 6,
+          "text": "Apesar dos meus direitos, eu sou considerado um mentiroso. Minhas feridas são incuráveis, embora sem pecado'."
+        },
+        {
+          "number": 7,
+          "text": "Que homem é como Jó, que bebe zombaria como água,"
+        },
+        {
+          "number": 8,
+          "text": "que anda na companhia daqueles que fazem o mal e dos homens perversos?"
+        },
+        {
+          "number": 9,
+          "text": "Pois ele disse: 'É inútil uma pessoa ter prazer fazendo o que Deus quer'."
+        },
+        {
+          "number": 10,
+          "text": "Escutai-me, vós, homens de entendimento: longe de Deus fazer maldade; longe do Todo Poderoso cometer pecado."
+        },
+        {
+          "number": 11,
+          "text": "Porque Ele paga o trabalho de uma pessoa; recompensa a todo homem nos seus próprios caminhos."
+        },
+        {
+          "number": 12,
+          "text": "Certamente, Deus não faz maldade, o Todo Poderoso nunca perverte a justiça."
+        },
+        {
+          "number": 13,
+          "text": "A quem Deus entregou autoridade para governar toda a Terra? Quem colocou todo mundo sob Sua autoridade?"
+        },
+        {
+          "number": 14,
+          "text": "Se as Suas intenções fossem definidas somente Nele, e, se Ele juntasse de volta para Si mesmo o Seu espírito e Seu sopro,"
+        },
+        {
+          "number": 15,
+          "text": "então, toda carne junta pereceria; a humanidade voltaria ao pó."
+        },
+        {
+          "number": 16,
+          "text": "Se agora tendes entendimento, escutai isto: escutai o som das minhas palavras."
+        },
+        {
+          "number": 17,
+          "text": "Pode alguém que odeia justiça governar? Condenarás a Deus, que é justo e poderoso?"
+        },
+        {
+          "number": 18,
+          "text": "Deus, que fala ao rei: 'Tu és vil', ou aos nobres: 'Vós sois maus'?"
+        },
+        {
+          "number": 19,
+          "text": "Deus, que não faz acepção entre pessoas e os líderes; não estima as pessoas ricas mais que as pobres, porque todos são obras de Suas mãos."
+        },
+        {
+          "number": 20,
+          "text": "Num momento, eles morrerão; à meia noite, pessoas serão agitadas e morrerão; pessoas poderosas morrerão, mas não por mãos humanas."
+        },
+        {
+          "number": 21,
+          "text": "Porque os olhos de Deus estão sobre os caminhos das pessoas; Ele vê todos os seus passos."
+        },
+        {
+          "number": 22,
+          "text": "Não há escuridão ou densas trevas onde os praticantes da iniquidade podem esconderem-se."
+        },
+        {
+          "number": 23,
+          "text": "Porque Deus não precisa examinar mais a pessoa; não há necessidade de comparecer diante Dele para o julgamento."
+        },
+        {
+          "number": 24,
+          "text": "Ele quebra homens poderosos em pedaços; seus caminhos não precisam de mais investigação; põe os outros em seus lugares."
+        },
+        {
+          "number": 25,
+          "text": "Dessa forma, Ele tem conhecimento dos seus feitos; Ele lança essas pessoas na escuridão, elas são destruídas."
+        },
+        {
+          "number": 26,
+          "text": "À vista dos outros, Ele os mata devido aos seus maus feitos como criminosos."
+        },
+        {
+          "number": 27,
+          "text": "Porque deixaram de segui-Lo e não quiseram reconhecer nenhum dos Seus caminhos."
+        },
+        {
+          "number": 28,
+          "text": "Assim, eles fazem o clamor do povo pobre chegar a Ele. Ele ouve o choro do povo aflito."
+        },
+        {
+          "number": 29,
+          "text": "Quando Ele fica em silêncio, quem pode Lhe condenar? Se Ele esconde a Sua face, quem O pode encontrar? Ele reina sobre as nações e todas as pessoas,"
+        },
+        {
+          "number": 30,
+          "text": "de modo que o homem corrupto não reine e não haja ninguém que engane o povo."
+        },
+        {
+          "number": 31,
+          "text": "Imagina que alguém diga a Deus: 'Certamente sou culpado, mas não irei pecar mais;"
+        },
+        {
+          "number": 32,
+          "text": "ensina-me o que eu não posso ver; eu cometi pecado, mas não farei mais'."
+        },
+        {
+          "number": 33,
+          "text": "Tu pensas que Deus irá punir o pecado dessa pessoa, ainda que tu não gostes do que Deus faz? Deve escolher, não eu. Assim, diz aquilo que tu sabes."
+        },
+        {
+          "number": 34,
+          "text": "Homens de entendimento me dirão — de fato, qualquer homem sábio que me ouvir dirá:"
+        },
+        {
+          "number": 35,
+          "text": "'Jó fala sem conhecimento, suas palavras são sem entendimento'."
+        },
+        {
+          "number": 36,
+          "text": "Se tão somente Jó colocado em julgamento, nos pequenos detalhes, devido à sua fala como dos homens maus."
+        },
+        {
+          "number": 37,
+          "text": "Ele adiciona rebelião ao seu pecado; aplaude, zombando no nosso meio; ele continuou falando palavras más contra Deus\"."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Posteriormente, Eliú continuou, dizendo:"
+        },
+        {
+          "number": 2,
+          "text": "\"Pensas que é justo dizer: 'Meu direito perante Deus'?"
+        },
+        {
+          "number": 3,
+          "text": "Pois perguntas: 'Qual utilidade isso tem para mim?' e 'Eu estaria melhor se tivesse pecado?'."
+        },
+        {
+          "number": 4,
+          "text": "Eu vos responderei, a ti e aos teus amigos."
+        },
+        {
+          "number": 5,
+          "text": "Olhai para os céus e vede; eis que as núvens estão muitos mais altas que vós."
+        },
+        {
+          "number": 6,
+          "text": "Se tu pecares, que mal tu fazes a Deus? Se as tuas transgressões se amontoam, que fazes a Ele?"
+        },
+        {
+          "number": 7,
+          "text": "Se és justo, que podes dar a Ele? Que receberá Ele da tua mão?"
+        },
+        {
+          "number": 8,
+          "text": "A tua maldade só pode ferir um homem, já que tu és homem; e a a tua justiça só pode favorecer a outro filho de um homem."
+        },
+        {
+          "number": 9,
+          "text": "Por causa de muitos atos de opressão, pessoas lamentam; elas clamam por socorro dos braços de homens poderosos."
+        },
+        {
+          "number": 10,
+          "text": "Mas ninguém diz: 'Onde está Deus, meu Criador, que nos dá canções à noite,"
+        },
+        {
+          "number": 11,
+          "text": "que nos ensina mais que às feras do campo e que nos faz mais sábios que os pássaros dos céus?'."
+        },
+        {
+          "number": 12,
+          "text": "Ali eles lamentam, mas Deus não responde por causa do orgulho do homem mau."
+        },
+        {
+          "number": 13,
+          "text": "Deus certamente não ouvirá um clamor insensato, o Todo Poderoso não prestará atenção a isso."
+        },
+        {
+          "number": 14,
+          "text": "Quanto menos Ele lhe responderá se disseres que não O vê, que o teu caso está diante Dele e que estás esperando por Ele!"
+        },
+        {
+          "number": 15,
+          "text": "Quanto menos Ele te responderá se disseres que Ele nunca pune a ninguém com ira e que Ele não está muito preocupado com o orgulho das pessoas."
+        },
+        {
+          "number": 16,
+          "text": "Então, Jó abre a sua boca apenas para falar tolice, ele amontoa palavras sem entendimento\"."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Eliú continuou e disse:"
+        },
+        {
+          "number": 2,
+          "text": "\"Permite-me que alongue o meu discurso e te mostrarei algumas coisas, pois tenho um pouco mais a dizer em defesa de Deus."
+        },
+        {
+          "number": 3,
+          "text": "Adquirirei o meu conhecimento lá de longe; reconhecerei que justiça pertence ao meu Criador."
+        },
+        {
+          "number": 4,
+          "text": "Por isso, minhas palavras não serão falsas; alguém que é maduro em conhecimento está contigo."
+        },
+        {
+          "number": 5,
+          "text": "Vê, Deus é grande e não despreza a ninguém; Ele é poderoso em entendimento."
+        },
+        {
+          "number": 6,
+          "text": "Ele não preserva a vida de pessoas pecadoras; pelo contrário, faz o que é reto para aqueles que sofrem."
+        },
+        {
+          "number": 7,
+          "text": "Ele não retira os Seus olhos das pessoas justas, mas assenta-os em tronos como reis para sempre; eles são exaltados."
+        },
+        {
+          "number": 8,
+          "text": "Se forem presos por correntes e amarrados em cordas de sofrimento,"
+        },
+        {
+          "number": 9,
+          "text": "então, Ele lhes revela o que fizeram, suas transgressões e seu orgulho."
+        },
+        {
+          "number": 10,
+          "text": "Ele também abre os ouvidos deles para as Suas instruções e os comanda para retornarem da iniquidade."
+        },
+        {
+          "number": 11,
+          "text": "Se eles O ouvirem e O adorarem, passarão os seus dias em prosperidade e os seus anos em contentamento."
+        },
+        {
+          "number": 12,
+          "text": "Porém, se eles não ouvirem, perecerão pela espada, morrerão porque não têm conhecimento."
+        },
+        {
+          "number": 13,
+          "text": "Aqueles que são corruptos guardam sua ira no coração; não clamam por ajuda mesmo quando Deus os amarra."
+        },
+        {
+          "number": 14,
+          "text": "Eles morrem em sua juventude; as suas vidas terminam entre os prostitutos de cultos."
+        },
+        {
+          "number": 15,
+          "text": "Deus resgata pessoas aflitas por meio de suas aflições; Ele abre os ouvidos delas por meio de suas opressões."
+        },
+        {
+          "number": 16,
+          "text": "Por isso, Ele deseja tirar-te do desespero para um lugar amplo, onde não exista tribulação e onde a sua mesa será preparada com comida cheia de gorduras."
+        },
+        {
+          "number": 17,
+          "text": "Mas tu estás cheio de julgamento acerca de pessoas más; julgamento e justiça estão diante de ti."
+        },
+        {
+          "number": 18,
+          "text": "Não permitas que a tua ira te seduza para a zombaria ou que a grandeza do resgate te atraia."
+        },
+        {
+          "number": 19,
+          "text": "Pode a tua riqueza te beneficiar, de maneira que não te aches em desgraça ou pode toda a força do teu empenho te ajudar?"
+        },
+        {
+          "number": 20,
+          "text": "Não anseies pela noite para cometer pecado contra outros, quando as pessoas são tiradas das suas casas."
+        },
+        {
+          "number": 21,
+          "text": "Sê cuidadoso para que não te voltes ao pecado, porque estás sendo testado através do sofrimento para que tu fiques distante do pecado."
+        },
+        {
+          "number": 22,
+          "text": "Vê, Deus é exaltado em Seu poder; quem é um mestre igual a Ele?"
+        },
+        {
+          "number": 23,
+          "text": "Quem alguma vez instruiu-Lhe acerca do Seu caminho? Quem pode dizer a Ele: 'Tu cometeste injustiça'?"
+        },
+        {
+          "number": 24,
+          "text": "Lembra-te de exaltar as obras Dele, sobre as quais as pessoas têm cantado."
+        },
+        {
+          "number": 25,
+          "text": "Todas as pessoas olharam para estas obras, mas vêm estas obras apenas de longe."
+        },
+        {
+          "number": 26,
+          "text": "Vê, Deus é grande, mas nós não O entendemos bem; o número dos Seus anos é incalculável."
+        },
+        {
+          "number": 27,
+          "text": "Ele faz subir as gotas de água que Ele destila como chuva do Seu vapor;"
+        },
+        {
+          "number": 28,
+          "text": "gotas que as nuvens descarregam e gotejam em abundância sobre a raça humana."
+        },
+        {
+          "number": 29,
+          "text": "De fato, poderá alguém entender a extensa propagação das nuvens e dos relâmpagos da Sua habitação?"
+        },
+        {
+          "number": 30,
+          "text": "Vê, Ele espalha o Seu relâmpago em volta Dele e cobre os fundamentos do oceano."
+        },
+        {
+          "number": 31,
+          "text": "Desta maneira, Ele julga as pessoas e dá comida em abundância."
+        },
+        {
+          "number": 32,
+          "text": "Ele segura em Suas mãos o relâmpago até que ordena a atingir os seus alvos."
+        },
+        {
+          "number": 33,
+          "text": "Seu trovão avisa sobre a tempestade e o gado também pode ouvir que ela se aproxima."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "verses": [
+        {
+          "number": 1,
+          "text": "De fato, nisto, meu coração treme; sai do seu lugar."
+        },
+        {
+          "number": 2,
+          "text": "Ouve, ó, ouve o barulho da Sua voz, o som que sai da Sua boca."
+        },
+        {
+          "number": 3,
+          "text": "Ele o envia abaixo do céu e envia Seu relâmpago para as fronteiras da Terra."
+        },
+        {
+          "number": 4,
+          "text": "Uma voz ruge depois; Ele troveja com a voz da Sua majestade; Ele não restringe Seu relâmpago quando Sua voz é ouvida."
+        },
+        {
+          "number": 5,
+          "text": "Deus troveja maravilhosamente com Sua voz. Ele faz grandes coisas que não podemos compreender."
+        },
+        {
+          "number": 6,
+          "text": "Pois Ele diz à neve: 'Cai sobre a terra!'; da mesma forma, Ele diz à chuva: 'Sê uma grande chuva!'."
+        },
+        {
+          "number": 7,
+          "text": "Ele pára a mão de cada homem no trabalho, para que todas as pessoas que Ele fez possam ver Seus atos."
+        },
+        {
+          "number": 8,
+          "text": "Então, os animais começam a se esconder em suas tocas."
+        },
+        {
+          "number": 9,
+          "text": "A tempestade vem de sua câmara do sul e o frio dos ventos que se espalham no norte."
+        },
+        {
+          "number": 10,
+          "text": "Pelo sopro de Deus, o gelo é formado; a expansão das águas é congelada como metal."
+        },
+        {
+          "number": 11,
+          "text": "De fato, Ele sobrecarrega a densa nuvem com umidade; Ele espalha Seus relâmpagos através das nuvens."
+        },
+        {
+          "number": 12,
+          "text": "Ele guia as nuvens ao redor por Sua orientação, para fazer o que Ele manda sobre a superfície de todo o mundo."
+        },
+        {
+          "number": 13,
+          "text": "Ele faz tudo isso acontecer; às vezes, para correção, às vezes, em favor de sua Terra e, às vezes, como ações de fidelidade à aliança."
+        },
+        {
+          "number": 14,
+          "text": "Ouve isto, Jó! Pára e pensa sobre as ações maravilhosas de Deus."
+        },
+        {
+          "number": 15,
+          "text": "Sabes como Deus força Sua vontade sobre as nuvens e faz os relâmpagos iluminá-las?"
+        },
+        {
+          "number": 16,
+          "text": "Tu compreendes o equilíbrio das nuvens, as maravilhosas ações de Deus, que é perfeito em conhecimento?"
+        },
+        {
+          "number": 17,
+          "text": "Tu compreendes como tuas vestes esquentam quando a terra se torna ainda calma por causa do vento que vem do sul?"
+        },
+        {
+          "number": 18,
+          "text": "Tu podes espalhar o céu, como Ele pode — o céu, que é forte como um espelho de metal fundido?"
+        },
+        {
+          "number": 19,
+          "text": "Ensina-nos o que devemos dizer a Ele, pois não podemos estabelecer argumentos por causa da escuridão das nossas mentes."
+        },
+        {
+          "number": 20,
+          "text": "Ele deveria ser informado de que desejo falar com Ele? Poderia uma pessoa desejar ser engolida?"
+        },
+        {
+          "number": 21,
+          "text": "Agora, pessoas não podem olhar para o sol quando está brilhando no céu, depois de o vento passar e limpá-lo de suas nuvens."
+        },
+        {
+          "number": 22,
+          "text": "Para fora do norte, vem esplendido ouro — acima de Deus, há espantosa majestade."
+        },
+        {
+          "number": 23,
+          "text": "No que diz respeito ao Todo Poderoso, não podemos encontrá-Lo; Ele é grande em poder e justiça. Ele não oprime as pessoas;"
+        },
+        {
+          "number": 24,
+          "text": "portanto, as pessoas O temem. Ele não presta qualquer atenção àqueles que são sábios em suas próprias mentes\"."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Yahweh chamou Jó para fora de uma tempestade violenta e disse:"
+        },
+        {
+          "number": 2,
+          "text": "\"Quem é este que traz escuridão aos Meus planos com palavras sem sentido?"
+        },
+        {
+          "number": 3,
+          "text": "Agora, cinge teus lombos como homem porque te farei perguntas e tu deverás Me responder."
+        },
+        {
+          "number": 4,
+          "text": "Onde estavas quando coloquei os fundamentos da Terra? Dize-Me, já que tens tanto entendimento!"
+        },
+        {
+          "number": 5,
+          "text": "Quem determinou suas dimensões? Dize-Me, se sabes! Quem esticou a linha de medida sobre ela?"
+        },
+        {
+          "number": 6,
+          "text": "Sobre o que foram colocados seus alicerces? Quem colocou a pedra angular"
+        },
+        {
+          "number": 7,
+          "text": "quando as estrelas da manhã cantaram juntas e todos os filhos de Deus gritaram de alegria?"
+        },
+        {
+          "number": 8,
+          "text": "Quem fechou o mar com portas quando ele se arrebentou, como se tivesse saído do ventre —"
+        },
+        {
+          "number": 9,
+          "text": "quando lhe revesti de nuvens e fiz da densa escuridão suas fraldas?"
+        },
+        {
+          "number": 10,
+          "text": "Isso foi quando marquei Meus limites para o mar e quando coloquei suas grades e portas;"
+        },
+        {
+          "number": 11,
+          "text": "quando lhe disse: 'Podes vir até aqui, mas não além! Aqui é onde colocarei um limite para o orgulho das tuas ondas'."
+        },
+        {
+          "number": 12,
+          "text": "Alguma vez, desde o inicio de teus dias, deste ordens à manhã para começar? E já fizeste com que o nascer do sol conhecesse seu devido lugar, no funcionamento das coisas,"
+        },
+        {
+          "number": 13,
+          "text": "para que segurasse os cantos da Terra, de forma que os corruptos pudessem ser sacudidos para fora dela?"
+        },
+        {
+          "number": 14,
+          "text": "A Terra muda sua aparência como o barro muda com a marca do carimbo; todas as coisas nela se levantam claramente como as dobras de um pedaço de roupa."
+        },
+        {
+          "number": 15,
+          "text": "A 'luz' dos corruptos é tirada; seu braço levantado é quebrado."
+        },
+        {
+          "number": 16,
+          "text": "Tu já foste pelas fontes das águas do mar? Já andaste pelas partes mais baixas das profundezas?"
+        },
+        {
+          "number": 17,
+          "text": "Os portões da morte já foram revelados a ti? Já viste os portões da sombra da morte?"
+        },
+        {
+          "number": 18,
+          "text": "Já percebeste a Terra em sua expansão? Dize-Me, já que sabes tudo isso!"
+        },
+        {
+          "number": 19,
+          "text": "Onde está o caminho para o lugar de descanso da luz? E, para as trevas, onde está seu lugar?"
+        },
+        {
+          "number": 20,
+          "text": "Tu podes levar a luz e as trevas para seus lugares de trabalho? Podes levá-las de volta para suas casas?"
+        },
+        {
+          "number": 21,
+          "text": "Sem dúvida, sabes porque já tinhas nascido; o número de teus dias é tão grande!"
+        },
+        {
+          "number": 22,
+          "text": "Já entraste nas reservas para a neve ou já viste as reservas para o granizo —"
+        },
+        {
+          "number": 23,
+          "text": "essas coisas que guardei para os tempos da aflição, para os tempos da batalha e de guerra?"
+        },
+        {
+          "number": 24,
+          "text": "Qual é o caminho pelo qual os relâmpagos são distribuídos? Ou por onde os ventos são espalhados do leste sobre a Terra?"
+        },
+        {
+          "number": 25,
+          "text": "Quem criou os canais para as inundações da chuva? Ou quem criou os caminhos para o relâmpagos do trovão,"
+        },
+        {
+          "number": 26,
+          "text": "para fazer com que chova nas terras onde não existem pessoas e nos desertos onde ninguém vive,"
+        },
+        {
+          "number": 27,
+          "text": "para suprir as necessidades das regiões inférteis e solitárias; para fazer crescer os renovos da erva?"
+        },
+        {
+          "number": 28,
+          "text": "Existe um pai da chuva? Que criou as gotas do orvalho?"
+        },
+        {
+          "number": 29,
+          "text": "De que ventre surgiu o gelo? Quem gerou a geada branca do céu?"
+        },
+        {
+          "number": 30,
+          "text": "As águas se escondem e se tornam como pedra; as superfícies das profundezas se congelam."
+        },
+        {
+          "number": 31,
+          "text": "Podes apertar as correntes do Sete Estrelos ou desfazer os cordéis do Órion?"
+        },
+        {
+          "number": 32,
+          "text": "Podes fazer com que as constelações apareçam no tempo certo? Podes guiar a Ursa com seus filhos?"
+        },
+        {
+          "number": 33,
+          "text": "Conheces as leis dos céus? Podes ordenar as normas do céu sobre a Terra?"
+        },
+        {
+          "number": 34,
+          "text": "Podes levantar tua voz até as nuvens, para que a abundância das águas da chuva te cubram?"
+        },
+        {
+          "number": 35,
+          "text": "Podes mandar relâmpagos para que saiam e te digam: 'Estamos aqui'?"
+        },
+        {
+          "number": 36,
+          "text": "Quem colocou sabedoria nas nuvens ou deu entendimento à névoa?"
+        },
+        {
+          "number": 37,
+          "text": "Quem pode contar as nuvens com sua habilidade? Quem pode derramar água dos odres celestiais"
+        },
+        {
+          "number": 38,
+          "text": "quando o pó se torna uma dura massa e os torrões da Terra se colam?"
+        },
+        {
+          "number": 39,
+          "text": "Podes caçar presa para as leoas ou satisfazer o apetite dos leõezinhos,"
+        },
+        {
+          "number": 40,
+          "text": "quando se inclinam nos seus covis e se juntam escondidos para se deitar e esperar?"
+        },
+        {
+          "number": 41,
+          "text": "Quem providencia presas para os corvos quando seus pequeninos clamam a Deus e cambaleiam por falta de comida?"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tu sabes a que horas cabras silvestres dão à luz na rocha? Podes observar as corças quando dão suas crias?"
+        },
+        {
+          "number": 2,
+          "text": "Podes tu contar os meses da sua gestação? Tu sabes a hora que dão à luz as suas crias?"
+        },
+        {
+          "number": 3,
+          "text": "Elas se encurvam, dão à liuz as suas crias e, depois, terminam as suas dores de parto."
+        },
+        {
+          "number": 4,
+          "text": "Os seu filhotes se tornam fortes e crescem num campo aberto; elas saem e não voltam."
+        },
+        {
+          "number": 5,
+          "text": "Quem deixa o jumento selvagem ir livremente? Quem soltou as cadeias do jumento bravo,"
+        },
+        {
+          "number": 6,
+          "text": "cujo lar Eu fiz no deserto e cuja casa fiz na terra salgada?"
+        },
+        {
+          "number": 7,
+          "text": "Ele ri com desprezo do ruído na cidade; ele não ouve o grito do condutor."
+        },
+        {
+          "number": 8,
+          "text": "Ele vagueia sobre as montanhas como seu pasto; lá, ele procura por toda planta verde para comer."
+        },
+        {
+          "number": 9,
+          "text": "Estará o búfalo feliz em te servir? Consentirá ele em estar no teu cural?"
+        },
+        {
+          "number": 10,
+          "text": "Com a corda, poderás controlar o búfalo para cultivar a terra? Irá ele arar os vales para ti?"
+        },
+        {
+          "number": 11,
+          "text": "Poderás confiar nele porque a força dele é grande? Poderás deixar o teu trabalho para ele fazer?"
+        },
+        {
+          "number": 12,
+          "text": "Poderás depender dele para trazer os teus grãos para casa, para juntar os grãos no teu celeiro?"
+        },
+        {
+          "number": 13,
+          "text": "As asas da avestruz batem orgulhosamente, mas as suas asas e penas são de amor?"
+        },
+        {
+          "number": 14,
+          "text": "Ela deixa os seus ovos na terra e ela os deixa aquecidos no pó."
+        },
+        {
+          "number": 15,
+          "text": "Ela se esquece de que um pé pode esmagá-los ou uma besta selvagem poderá pisoteá-los."
+        },
+        {
+          "number": 16,
+          "text": "Ela lida duramente com os seus filhos como se não fossem dela. Ela não teme que o seu trabalho seja em vão,"
+        },
+        {
+          "number": 17,
+          "text": "porque Deus a privou da sabedoria e não lhe deu nenhum entendimento."
+        },
+        {
+          "number": 18,
+          "text": "Quando ela corre rapidamente, ela ri com desprezo do cavalo em que monta."
+        },
+        {
+          "number": 19,
+          "text": "Tu deste ao cavalo a sua força? Vestiste o seu pescoço com as suas crinas?"
+        },
+        {
+          "number": 20,
+          "text": "Fizeste com que ele saltasse como gafanhoto? A majestade do seu respirar é temível."
+        },
+        {
+          "number": 21,
+          "text": "Pateando, escava o chão e se alegra com a sua força; ele corre ao encontro das armas."
+        },
+        {
+          "number": 22,
+          "text": "Ele zomba do medo e não se espanta; ele não recua diante da espada."
+        },
+        {
+          "number": 23,
+          "text": "Ao som da aljava soando contra o seu flanco, junto da lança e do dardo."
+        },
+        {
+          "number": 24,
+          "text": "Ele engole o chão com ferocidade e raiva; ao som da trombeta, ele não poderá ficar em pé num lugar."
+        },
+        {
+          "number": 25,
+          "text": "No entanto, sempre que a trombeta toca, ele diz: 'Ah!'. Ele cheira a guerra de longe — os gritos trovejantes dos comandantes e os gritos de guerra."
+        },
+        {
+          "number": 26,
+          "text": "É por tua sabedoria que o gavião voa para que estenda as suas asas para o sul?"
+        },
+        {
+          "number": 27,
+          "text": "É por tuas ordens que a águia voa alto e faz o seu ninho no alto?"
+        },
+        {
+          "number": 28,
+          "text": "Ela vive no penhasco e faz a sua casa no cume do penhasco, uma fortaleza."
+        },
+        {
+          "number": 29,
+          "text": "De lá, ela procura as suas vítimas; os seus olhos as vêm de muito longe."
+        },
+        {
+          "number": 30,
+          "text": "E seus filhos também bebem o sangue, onde estão pessoas mortas, ali está ela\"."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Yahweh continuou a falar para Jó; Ele disse:"
+        },
+        {
+          "number": 2,
+          "text": "\"Pode alguém que deseja criticar tentar corrigir ao Altíssimo? Aquele que argumenta com Deus, que ele responda\"."
+        },
+        {
+          "number": 3,
+          "text": "Então, Jó respondeu a Yahweh e disse:"
+        },
+        {
+          "number": 4,
+          "text": "\"Vê, eu sou insignificante; como posso responder a Ti? Eu ponho a minha mão sobre a minha boca."
+        },
+        {
+          "number": 5,
+          "text": "Falei uma vez e não responderei; aliás, duas vezes, mas não procederei adiante\"."
+        },
+        {
+          "number": 6,
+          "text": "Depois, Yahweh respondeu a Jó no meio de uma tempestade e disse:"
+        },
+        {
+          "number": 7,
+          "text": "\"Agora, cinge os teus lombos como homem, porque vou te fazer perguntas e tu deverás Me responder."
+        },
+        {
+          "number": 8,
+          "text": "Irás realmente dizer que sou injusto? Irás Me condenar para que tu declares que estás certo?"
+        },
+        {
+          "number": 9,
+          "text": "Tens tu um braço como Deus? Podes tu trovejar com uma voz como a Dele?"
+        },
+        {
+          "number": 10,
+          "text": "Agora, veste-te de glória e dignidade; cobre-te de honra e majestade."
+        },
+        {
+          "number": 11,
+          "text": "Derrama o excesso de tua ira; olha para todo aquele que é soberbo e humilha-o."
+        },
+        {
+          "number": 12,
+          "text": "Olha para todo aquele que é orgulhoso e humilha-o; pisa sobre as pessoas perversas onde elas ficam de pé."
+        },
+        {
+          "number": 13,
+          "text": "Enterra-os na terra juntos, aprisiona as suas faces em lugar escondido."
+        },
+        {
+          "number": 14,
+          "text": "Depois, irei também reconhecer a ti que a tua mão direita pode te salvar."
+        },
+        {
+          "number": 15,
+          "text": "Contempla agora o brutamonte que Eu fiz assim como te fiz; ele come capim tal como o boi."
+        },
+        {
+          "number": 16,
+          "text": "Vê, a sua força está nos seus lombos; o seu poder está nos músculos da sua barriga."
+        },
+        {
+          "number": 17,
+          "text": "Ele movimenta a sua cauda tal como um cedro; os tendões da sua coxa estão bem juntos."
+        },
+        {
+          "number": 18,
+          "text": "Os seus ossos são como tubos de bronze; as suas pernas são como barras de ferro."
+        },
+        {
+          "number": 19,
+          "text": "Ele é o chefe das criaturas de Deus. Apenas Deus, que o fez, pode vencê-lo."
+        },
+        {
+          "number": 20,
+          "text": "Os montes lhe provêm alimento; as bestas do campo brincam por perto."
+        },
+        {
+          "number": 21,
+          "text": "Ele se deita debaixo dos lotus no abrigo do mato, nos pântanos."
+        },
+        {
+          "number": 22,
+          "text": "As plantas de lotus cobrem-lhe com a sua sombra; os salgueiros do riacho estão a sua volta ."
+        },
+        {
+          "number": 23,
+          "text": "Se o rio inunda as suas margens, ele não estremece; ele é confiante, ainda que o rio Jordão venha a subir até a sua boca."
+        },
+        {
+          "number": 24,
+          "text": "Poderá alguém capturá-lo com um gancho ou perfurar o seu nariz com uma armadilha?"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tu podes tirar o leviatã com um anzol? Ou amarrar a sua mandíbula com uma corda?"
+        },
+        {
+          "number": 2,
+          "text": "Tu podes colocar uma corda em seu nariz ou furar a sua mandíbula com um gancho?"
+        },
+        {
+          "number": 3,
+          "text": "Será que ele vai fazer muitos pedidos para ti? Ele falará suaves palavras para ti?"
+        },
+        {
+          "number": 4,
+          "text": "Fará ele um acordo contigo, de maneira que irás levá-lo como servo para sempre?"
+        },
+        {
+          "number": 5,
+          "text": "Brincarás com ele como farias com um pássaro? Tu vais laçá-lo para suas servas?"
+        },
+        {
+          "number": 6,
+          "text": "Irão os grupos de pescadores negociar por ele? Irão eles dividi-lo no comércio entre os mercadores?"
+        },
+        {
+          "number": 7,
+          "text": "Poderás tu preencher seu couro com arpões ou sua cabeça com lanças de pescador?"
+        },
+        {
+          "number": 8,
+          "text": "Coloca tua mão sobre ele apenas uma vez e irás lembrar a batalha e não o farás mais."
+        },
+        {
+          "number": 9,
+          "text": "Vê, a esperança de qualquer um que faz isso é mentira; ou não seria alguém jogado jogado para baixo ao avistá-lo?"
+        },
+        {
+          "number": 10,
+          "text": "Nenhum é tão feroz que se atreva a agitar o leviatã; quem pois é ele que pode ficar de pé diante de Mim?"
+        },
+        {
+          "number": 11,
+          "text": "Quem primeiro Me deu qualquer coisa que Eu precisasse retribuir? Tudo que está abaixo dos céus é Meu."
+        },
+        {
+          "number": 12,
+          "text": "Eu não vou manter o silêncio em relação às pernas do leviatã, nem sobre a questão da força, nem sobre sua graciosa forma."
+        },
+        {
+          "number": 13,
+          "text": "Quem pode tirar seus revestimentos externos?"
+        },
+        {
+          "number": 14,
+          "text": "Quem pode penetrar sua dupla armadura? Quem pode abrir as portas do seu rosto — rodeado por seus dentes, que são um terror?"
+        },
+        {
+          "number": 15,
+          "text": "Suas costas são compostas de linhas de escudos, apertados como um estreito selo."
+        },
+        {
+          "number": 16,
+          "text": "Um está tão perto do outro que o ar não pode passar entre eles."
+        },
+        {
+          "number": 17,
+          "text": "Eles estão unidos; permanecem juntos, de modo que não podem ser separados."
+        },
+        {
+          "number": 18,
+          "text": "Seu forte espirro emite lampejo brilhante; seus olhos são como as pálpebras do amanhecer."
+        },
+        {
+          "number": 19,
+          "text": "De sua boca, saem tochas queimando, faísca de fogo saltam dela."
+        },
+        {
+          "number": 20,
+          "text": "De suas narinas, saem fumaça como uma panela em ebulição sobre um fogo abanado para ficar bem quente."
+        },
+        {
+          "number": 21,
+          "text": "Sua respiração acende carvão em chamas; o fogo sai da sua boca."
+        },
+        {
+          "number": 22,
+          "text": "Em seu pescoço, está a força e o terror dança em sua frente."
+        },
+        {
+          "number": 23,
+          "text": "As dobras da sua carne estão unidas; elas estão firmes nele; elas não podem ser movidas."
+        },
+        {
+          "number": 24,
+          "text": "Seu coração é tão duro como uma pedra — de fato, tão duro como uma pedra de moinho."
+        },
+        {
+          "number": 25,
+          "text": "Quando ele se levanta, até os deuses têm medo; por causa do medo, eles fogem."
+        },
+        {
+          "number": 26,
+          "text": "Se uma espada toca nele, não faz nada — nem a lança faz, nem a seta, ou qualquer outra arma apontada."
+        },
+        {
+          "number": 27,
+          "text": "Ele pensa no ferro como se fosse palha e, no bronze, como se fosse madeira podre."
+        },
+        {
+          "number": 28,
+          "text": "Uma flecha não pode fazê-lo fugir; para ele, pedras lançadas tornam-se restolhos ."
+        },
+        {
+          "number": 29,
+          "text": "Cacetes são considerados como palha; ele ri do zumbido do voo de uma lança."
+        },
+        {
+          "number": 30,
+          "text": "As suas partes inferiores são como pedaços pontiagudos de cerâmica quebrada; Ele deixa uma trilha de lama espalhada como se fosse um máquina de debulhar."
+        },
+        {
+          "number": 31,
+          "text": "Ele faz o profundo espumar como um pote de água fervente; ele torna o mar como caldera de ungento."
+        },
+        {
+          "number": 32,
+          "text": "Ele cria uma rastro de ondas brilhantes após si; alguém poderia pensar que a profundeza tinha cabelo acinzentado."
+        },
+        {
+          "number": 33,
+          "text": "Na Terra, não há igual a ele, que foi feito para viver sem medo."
+        },
+        {
+          "number": 34,
+          "text": "Ele vê tudo o que é orgulhoso; ele é rei sobre todos os filhos do orgulho\"."
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Então, Jó respondeu a Yahweh, dizendo:"
+        },
+        {
+          "number": 2,
+          "text": "\"Eu sei que Tu podes fazer todas as coisas, que nenhum propósito Teu pode ser impedido."
+        },
+        {
+          "number": 3,
+          "text": "Tu me perguntaste: 'Quem é este que, sem conhecimento, encobre planos?'. De fato, falei coisas que eu não entendia, coisas muito difíceis de compreender, sobre as quais eu nada sabia."
+        },
+        {
+          "number": 4,
+          "text": "Tu me disseste: 'Escuta, agora, e Eu falarei; perguntar-te-ei e tu me dirás'."
+        },
+        {
+          "number": 5,
+          "text": "Eu Te conhecia pelo escutar de meus ouvidos, mas agora meus olhos Te veem."
+        },
+        {
+          "number": 6,
+          "text": "Eu me desprezo; arrependo-me no pó e na cinza\"."
+        },
+        {
+          "number": 7,
+          "text": "Aconteceu que depois de ter dito estas palavras para Jó, Yahweh disse a Elifaz, o temanita: \"Minha ira inflamou-se contra ti e contra teus dois amigos por não terdes dito coisas certas acerca de Mim como fez meu servo Jó."
+        },
+        {
+          "number": 8,
+          "text": "Agora, então, levai para vós sete touros e sete carneiros, ide ao meu servo Jó e oferecei-os para vós em holocausto. Meu servo Jó intercederá por vós e Eu aceitarei a sua oração para que Eu não vos trate conforme a vossa insensatez. Pois não dissestes o que é certo a Meu respeito, como Meu servo Jó fez\"."
+        },
+        {
+          "number": 9,
+          "text": "Então, Elifaz, o temanita, Bildad, o suíta, e Zofar, o naamatita, foram e fizeram o que Yahweh havia lhes ordenado e Yahweh aceitou a intercessão de Jó."
+        },
+        {
+          "number": 10,
+          "text": "Quando Jó orou pelos seus amigos, Yahweh restaurou seus bens. Yahweh deu-lhe o dobro do que ele possuía antes."
+        },
+        {
+          "number": 11,
+          "text": "Então, todos os irmãos de Jó e todas as suas irmãs e todos os que antes o conheciam vieram e comeram com ele uma refeição em sua casa. Consolaram e confortaram-lhe sobre todas as desgraças que Yahweh lhe trouxera. Cada pessoa deu a Jó uma moeda de prata e um anel de ouro."
+        },
+        {
+          "number": 12,
+          "text": "Yahweh abençoou o final da vida de Jó mais que o começo; ele tinha catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas."
+        },
+        {
+          "number": 13,
+          "text": "Ele tinha também sete filhos e três filhas."
+        },
+        {
+          "number": 14,
+          "text": "A primeira filha chamou-lhe Jemima, a segunda, Quézia e a terceira, Quéren-Hapuque."
+        },
+        {
+          "number": 15,
+          "text": "Em toda a Terra, não foram achadas mulheres tão formosas como as filhas de Jó. Seu pai deu-lhes uma herança bem como aos seus irmãos."
+        },
+        {
+          "number": 16,
+          "text": "Depois disso, Jó viveu cento e quarenta anos; ele viu seus filhos e os filhos dos seus filhos até a quarta geração."
+        },
+        {
+          "number": 17,
+          "text": "Então, Jó morreu, sendo velho e cheio de dias."
+        }
+      ]
+    }
+  ]
+}

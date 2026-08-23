@@ -1,0 +1,635 @@
+{
+  "name": "Amós",
+  "abbrev": "am",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Palavras de Amós, um dos pastores em Tecoa, que recebeu em revelação, concernentes a Israel. Ele a recebeu nos dias de Uzias, rei de Judá, e também nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto."
+        },
+        {
+          "number": 2,
+          "text": "Ele disse: \"Yahweh ruge de Sião, Ele levanta Sua voz de Jerusalém. Os pastos dos pastores murcham, e o cume do Carmelo se seca\"."
+        },
+        {
+          "number": 3,
+          "text": "Assim diz Yahweh: \"Por três pecados de Damasco, mesmo por quatro, Eu não revogarei o castigo, porque eles esmagaram Gileade com instrumentos de ferro."
+        },
+        {
+          "number": 4,
+          "text": "Mandarei fogo na casa de Hazael que devorará a fortaleza de Ben Hadad."
+        },
+        {
+          "number": 5,
+          "text": "Quebrarei os ferrolhos de Damasco, exterminarei o habitante do vale de Áven e também o homem que segura o cetro de Bete-Éden. E o povo da Síria será levado em cativeiro para Quir\", diz o Senhor."
+        },
+        {
+          "number": 6,
+          "text": "Assim diz Yahweh: \"Por três pecados de Gaza, mesmo por quatro, não revogarei o castigo, porque levaram cativo o povo inteiro e o entregaram a Edom."
+        },
+        {
+          "number": 7,
+          "text": "Mandarei fogo nas muralhas de Gaza que devorará a sua fortaleza."
+        },
+        {
+          "number": 8,
+          "text": "Eu destruirei o homem que vive em Asdode e o homem que segura o cetro de Asquelon. Colocarei a Minha mão contra Ecron, e o restante dos filisteus perecerá'', diz o Senhor Yahweh."
+        },
+        {
+          "number": 9,
+          "text": "Assim diz Yahweh: \"Por três pecados de Tiro, mesmo por quatro, não revogarei o castigo, porque eles entregaram cativo o povo inteiro para Edom e quebraram sua aliança de irmandade."
+        },
+        {
+          "number": 10,
+          "text": "Mandarei fogo nas muralhas de Tiro, que devorará sua fortaleza.\"'"
+        },
+        {
+          "number": 11,
+          "text": "Assim diz Yahweh: \"Por três pecados de Edom, mesmo por quatro, não revogarei o castigo, porque perseguiu seu irmão com a espada e desamparou toda a miséricordia. Sua ira não cessou, e seu furor foi eterno."
+        },
+        {
+          "number": 12,
+          "text": "Mandarei fogo em Teman que devorará os palácios de Bozrah\"."
+        },
+        {
+          "number": 13,
+          "text": "Assim diz Yahweh: \"Por três pecados do povo de Amon, mesmo por quatro, não revogarei o castigo, porque eles abriram o ventre das mulheres grávidas de Gileade, para alargarem suas fronteiras."
+        },
+        {
+          "number": 14,
+          "text": "Atearei fogo nas muralhas de Rabá que devorará os palácios, com alarido no dia da batalha, com tempestade no dia do redemoinho."
+        },
+        {
+          "number": 15,
+          "text": "O seu rei irá ao cativeiro, ele e todos os seus oficiais juntos\", diz Yahweh."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Assim diz Yahweh: \"Por três pecados de Moabe, mesmo por quatro, Eu não retirarei o castigo, porque ele queimou os ossos do rei de Edom até as cinzas."
+        },
+        {
+          "number": 2,
+          "text": "Eu enviarei fogo em Moabe que devorará as fortalezas de Queriote. Moabe morrerá em alvoroço, com gritos e ao som de trombeta."
+        },
+        {
+          "number": 3,
+          "text": "Eu destruirei o seu juiz e matarei todos os príncipes juntamente com ele\", diz Yahweh."
+        },
+        {
+          "number": 4,
+          "text": "Assim diz Yahweh: \"Por três pecados de Judá, mesmo por quatro, não retirarei o castigo, porque eles rejeitaram a Lei de Yahweh e não obedeceram aos Seus estatutos. As suas mentiras fizeram com que se perdessem, do mesmo modo que seus pais."
+        },
+        {
+          "number": 5,
+          "text": "Enviarei fogo sobre Judá, que devorará as fortalezas de Jerusalém\"."
+        },
+        {
+          "number": 6,
+          "text": "Assim diz Yahweh: ''Por três pecados de Israel, mesmo por quatro, não revogarei o castigo, porque eles venderam os inocentes por prata e os necessitados por um par de sandálias."
+        },
+        {
+          "number": 7,
+          "text": "Eles esmagam as cabeças dos pobres como as pessoas pisam no pó do chão. Eles afastam os oprimidos para longe. Um homem e o seu pai deitam-se com a mesma jovem, e assim profanam o Meu Santo Nome."
+        },
+        {
+          "number": 8,
+          "text": "Eles deitam-se ao lado de cada altar sobre roupas penhoradas e na casa do seu Deus bebem o vinho dos que foram multados."
+        },
+        {
+          "number": 9,
+          "text": "No entanto, Eu destruí o amorreu diante deles, cuja altura era como a altura dos cedros; ele era forte como os carvalhos. Destruí o seu fruto por cima e suas raízes por baixo."
+        },
+        {
+          "number": 10,
+          "text": "Também vos fiz subir da terra do Egito e vos conduzi por quarenta anos no deserto, para que possuísseis a terra dos amoreus."
+        },
+        {
+          "number": 11,
+          "text": "Levantei profetas dentre vossos filhos e nazireus dentre vossos jovens. Não é assim, povo de Israel?\" Essa é a declaração de Yahweh."
+        },
+        {
+          "number": 12,
+          "text": "\"Mas vós persuadistes os nazireus a beberem vinho e ordenastes os profetas a não profetizarem."
+        },
+        {
+          "number": 13,
+          "text": "Vê! Eu vos esmagarei como um carro cheio de grãos pode esmagar alguém."
+        },
+        {
+          "number": 14,
+          "text": "A pessoa ágil não escapará, o forte não aumentará sua própria força nem o poderoso se salvará."
+        },
+        {
+          "number": 15,
+          "text": "O arqueiro não resistirá, o corredor não escapará nem o cavaleiro se salvará."
+        },
+        {
+          "number": 16,
+          "text": "Mesmo os guerreiros mais corajosos fugirão nus naquele dia!\" Assim diz Yahweh."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ouvi esta palavra que Yahweh falou contra vós, povo de Israel, contra toda a família que tirei da terra do Egito:"
+        },
+        {
+          "number": 2,
+          "text": "\"Eu escolhi somente a ti, dentre todas as famílias da terra. Portanto, Eu te punirei por todos teus pecados.\""
+        },
+        {
+          "number": 3,
+          "text": "Andarão dois juntos a não ser que estejam de acordo?"
+        },
+        {
+          "number": 4,
+          "text": "Rugirá o leão na floresta quando ele não tem presa? Poderá o filhote de leão rosnar do seu esconderijo sem ter apanhado nada?"
+        },
+        {
+          "number": 5,
+          "text": "Pode um pássaro cair numa armadilha na terra quando a isca não está nela? A armadilha se levantará do chão sem ter apanhado coisa nenhuma?"
+        },
+        {
+          "number": 6,
+          "text": "Soará a trombeta numa cidade sem que as pessoas se estremeçam? Poderá vir um desastre sobre uma cidade o qual Yahweh não tenha enviado?"
+        },
+        {
+          "number": 7,
+          "text": "Certamente, o Senhor Yahweh não fará nada, a menos que Ele revele Seu plano para Seus servos, os profetas."
+        },
+        {
+          "number": 8,
+          "text": "O leão rugiu — quem não temerá? O Senhor Yahweh falou — quem não profetizará?"
+        },
+        {
+          "number": 9,
+          "text": "Proclamai isto nas fortalezas de Asdode e nas fortalezas na terra do Egito. Dizei: \"Reuni-vos nos montes de Samaria, e vede que grande confusão e opressão estão em seu meio."
+        },
+        {
+          "number": 10,
+          "text": "Porque não sabem fazer o que é correto\". Assim diz Yahweh: \"Eles acumulam violência e destruição em suas fortalezas\"."
+        },
+        {
+          "number": 11,
+          "text": "Portanto, assim diz Yahweh: \"Um inimigo cercará a terra e derrubará suas cidadelas e pilhará suas fortalezas\"."
+        },
+        {
+          "number": 12,
+          "text": "Assim diz Yahweh: \"Como o pastor que retira da boca do leão apenas duas pernas ou um pedaço de uma orelha, assim o povo de Israel que vive em Samaria será resgatado, com apenas um canto de sofá ou somente um pedaço da cama\"."
+        },
+        {
+          "number": 13,
+          "text": "Ouve e testifica contra a casa de Jacó — esta é a declaração do Senhor Yahweh, o Deus dos Exércitos:"
+        },
+        {
+          "number": 14,
+          "text": "\"Nos dias em que Eu punir os pecados de Israel, punirei também os altares de Betel, e os chifres do altar serão cortados e cairão no chão."
+        },
+        {
+          "number": 15,
+          "text": "Eu destruirei a casa de inverno juntamente com a casa de verão. As casas de marfim perecerão e grandes casas desaparecerão\". Assim diz Yahweh."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ouvi esta palavra, vacas de Basã, vós que estais no monte de Samaria, que oprimis o pobre, que esmagais o necessitado, e dizeis a vossos maridos: \"Trazei-nos bebidas\"."
+        },
+        {
+          "number": 2,
+          "text": "O Senhor Yahweh jurou por Sua santidade: \"Vede, dias virão sobre vós, quando vos levarão com anzóis, os últimos de vós com arpões."
+        },
+        {
+          "number": 3,
+          "text": "Saireis pelas brechas dos muros, cada um de vós atravessareis e sereis lançados em direção do Harmon!\" Assim diz Yahweh."
+        },
+        {
+          "number": 4,
+          "text": "\"Vinde para Betel e pecai, ide para Gilgal e multiplicai os pecados. Trazei, todas as manhãs, os vossos sacrifícios; e os vossos dízimos, de três em três dias."
+        },
+        {
+          "number": 5,
+          "text": "Oferecei sacrifícios de ações de graça com pão; proclamai ofertas voluntárias, anunciai-as, pois isso te agrada, ó povo de Israel!\" Assim diz o Senhor Yahweh."
+        },
+        {
+          "number": 6,
+          "text": "\"Eu vos deixei de dentes limpos, em todas as vossas cidades, e deixei faltar pão em todos os vossos lugares. No entanto, vós não voltastes para Mim\", assim diz Yahweh."
+        },
+        {
+          "number": 7,
+          "text": "\"Eu também retive de vós a chuva quando ainda faltavam três meses para a colheita. Eu fiz chover sobre uma cidade, e não fiz chover sobre a outra. Houve chuva em uma parte da terra, mas a parte de terra em que não choveu, essa secou."
+        },
+        {
+          "number": 8,
+          "text": "Duas ou três cidades cambaleavam até outra cidade para beber água, mas as pessoas não se saciavam. No entanto, vós não voltastes para Mim!\" assim diz Yahweh."
+        },
+        {
+          "number": 9,
+          "text": "\"Eu vos afligi com ferrugem e mofo. A multidão de teus jardins, tuas vinhas, tuas figueiras e tuas oliveiras, o gafanhoto a devorou . No entanto, vós não voltastes para Mim\", assim diz Yahweh."
+        },
+        {
+          "number": 10,
+          "text": "\"Eu enviei a praga sobre vós, como no Egito. Eu matei vossos jovens com a espada, arrastei vossos cavalos e fiz o mau cheiro dos vossos campos chegar a vossas narinas. No entanto, não vos voltastes para Mim\", assim diz Yahweh."
+        },
+        {
+          "number": 11,
+          "text": "\"Eu derrubei cidades no meio de ti, assim como derrubei Sodoma e Gomorra. Vós éreis como um tição tirado do fogo; no entanto, não voltastes para Mim\", assim diz Yahweh."
+        },
+        {
+          "number": 12,
+          "text": "Portanto, Eu farei algo terrível contigo, Israel! E porque Eu farei algo terrível contigo, prepara-te para te encontrares com teu Deus, Israel!"
+        },
+        {
+          "number": 13,
+          "text": "Porque é Ele que forma as montanhas e também cria o vento, revela Seus pensamentos à humanidade, faz a escuridão da manhã e pisa sobre os lugares altos da Terra. Yahweh, Deus dos Exércitos, é Seu Nome."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ouvi estas palavras que Eu trago como um lamento sobre vós, casa de Israel."
+        },
+        {
+          "number": 2,
+          "text": "A virgem de Israel caiu; não se levantará mais; está esquecida em sua terra; não há quem a levante\"."
+        },
+        {
+          "number": 3,
+          "text": "Pois assim diz o Senhor Yahweh: \"À cidade que saiu com mil restarão cem, e à que saiu com cem restarão dez dos que pertencem à casa de Israel\"."
+        },
+        {
+          "number": 4,
+          "text": "Pois assim diz Yahweh à casa de Israel: \"Buscai-Me e vivei!"
+        },
+        {
+          "number": 5,
+          "text": "Não busqueis Betel; não entreis em Gilgal; nem passeis a Berseba. Porque Gilgal certamente será levada cativa, e Betel se tornará em nada."
+        },
+        {
+          "number": 6,
+          "text": "Buscai a Yahweh e vivei, ou Ele irromperá como fogo na casa de José. Ele devorará, e não haverá ninguém para apagá-lo em Betel."
+        },
+        {
+          "number": 7,
+          "text": "Essas pessoas transformam a justiça em coisa amarga e lançam por terra a retidão!\"."
+        },
+        {
+          "number": 8,
+          "text": "Deus fez as Plêiades e o Órion; Ele muda a escuridão em alvorada; Ele torna o dia em trevas com a noite e chama as águas do mar; Ele as derrama na face da terra. Yahweh é o Seu nome!"
+        },
+        {
+          "number": 9,
+          "text": "Ele traz súbita destruição sobre o forte, para que a destruição venha sobre a fortaleza."
+        },
+        {
+          "number": 10,
+          "text": "Eles odeiam todos aqueles que os corrigem às portas da cidade, e abominam todos os que falam a verdade."
+        },
+        {
+          "number": 11,
+          "text": "Porque vós pisais o pobre e dele tomais porções de trigo. Embora tenhais construído casas de pedras trabalhadas, não vivereis nelas. Tendes deliciosas videiras, mas não bebereis do seu vinho."
+        },
+        {
+          "number": 12,
+          "text": "Pois Eu sei quantas são as vossas ofensas e quão grandes são vossos pecados. Vós que afligis o justo, tomais o suborno e rejeitais o necessitado às portas da cidade."
+        },
+        {
+          "number": 13,
+          "text": "No entanto, neste momento, os prudentes estão em silêncio porque o tempo é mau."
+        },
+        {
+          "number": 14,
+          "text": "Procurai o bem, e não o mal, para que possais viver. Pois Yahweh, o Deus dos Exércitos, certamente estará convosco, como dizeis que Ele está."
+        },
+        {
+          "number": 15,
+          "text": "Odiai o mal, amai o bem; estabelecei a justiça às portas da cidade. Talvez Yahweh, o Deus dos Exércitos, seja gracioso com o remanescente de José."
+        },
+        {
+          "number": 16,
+          "text": "Portanto, assim diz Yahweh, o Deus dos Exércitos, o Senhor: \"Haverá lamento em todas as praças, e eles dirão em todas as estradas, 'Ai de nós!' Eles chamarão os fazendeiros para o luto e os enlutados para lamentar."
+        },
+        {
+          "number": 17,
+          "text": "Dentro de toda vinha haverá lamento, porque Eu passarei pelo meio de vós\", diz Yahweh."
+        },
+        {
+          "number": 18,
+          "text": "Ai de vós que desejais o dia de Yahweh! Por que desejais o dia de Yahweh? Será de trevas, e não de luz."
+        },
+        {
+          "number": 19,
+          "text": "Será como quando um homem foge de um leão, e um urso o encontra; ou ele entra numa casa, coloca sua mão na parede, e uma cobra o morde."
+        },
+        {
+          "number": 20,
+          "text": "Não será o dia de Yahweh um dia de trevas, e não de luz? De escuridão sem nenhuma claridade?"
+        },
+        {
+          "number": 21,
+          "text": "Odeio e detesto vossas festividades, não tenho prazer em vossas assembleias solenes."
+        },
+        {
+          "number": 22,
+          "text": "Apesar de me oferecerdes vossos holocaustos e ofertas de manjares, não os aceitarei, nem olharei para as ofertas pacíficas de vossos animais cevados."
+        },
+        {
+          "number": 23,
+          "text": "Tirai de Mim o ruído das vossas canções; não mais ouvirei o som de vossas harpas."
+        },
+        {
+          "number": 24,
+          "text": "Antes, deixai a retidão fluir como água; e a justiça, como um rio perene."
+        },
+        {
+          "number": 25,
+          "text": "Foi para mim que trouxestes sacrifícios e ofertas no deserto por quarenta anos, casa de Israel?"
+        },
+        {
+          "number": 26,
+          "text": "Erguestes Sicute como vosso rei, e Quium, vosso deus astral, ídolos que fizestes para vós mesmos."
+        },
+        {
+          "number": 27,
+          "text": "Por isso, Eu vos levarei para o exílio, além de Damasco\", diz Yahweh, cujo nome é o Deus dos Exércitos."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ai daqueles que estão tranquilos em Sião e daqueles que se sentem seguros no monte de Samaria, os homens notáveis das melhores nações, dos quais a casa de Israel busca auxílio."
+        },
+        {
+          "number": 2,
+          "text": "Vossos líderes dizem: \"Ide a Calné, e vede; depois ide a Hamate, a grande cidade; então, descei a Gate dos filisteus. São eles melhores do que vossos dois reinos? As fronteiras deles são mais extensas do que as vossas?\"."
+        },
+        {
+          "number": 3,
+          "text": "Ai daqueles que afastam o dia da desgraça e fazem com que o trono da violência se aproxime."
+        },
+        {
+          "number": 4,
+          "text": "Deitam-se nas camas de marfim e se estendem nos seus sofás. Comem cordeiros do rebanho e novilhos do curral."
+        },
+        {
+          "number": 5,
+          "text": "Eles inventam canções tolas ao som da harpa; improvisam instrumentos, como fez Davi."
+        },
+        {
+          "number": 6,
+          "text": "Bebem vinho dos barris e se ungem com o mais fino óleo, mas não lamentam a ruína de José."
+        },
+        {
+          "number": 7,
+          "text": "Portanto, eles serão exilados com os primeiros deportados; os banquetes dos preguiçosos cessarão."
+        },
+        {
+          "number": 8,
+          "text": "Eu, o Senhor Yahweh, jurei por Mim mesmo\". Esta é a declaração do Senhor Yahweh, o Deus dos exércitos: \"Eu detesto o orgulho de Jacó; Eu odeio suas fortalezas. Portanto, entregarei a cidade e tudo o que nela há\"."
+        },
+        {
+          "number": 9,
+          "text": "E acontecerá que, se dez homens restarem em uma casa, morrerão todos."
+        },
+        {
+          "number": 10,
+          "text": "Se o familiar de um homem vier buscar seus cadáveres — aquele que for cremá-los, depois de retirar os corpos da casa — se ele disser para a pessoa na casa: ''Está alguém contigo?\", e essa pessoa disser: \"Não\", então ele dirá: \"Cala-te, pois não devemos mencionar o nome de Yahweh!\"."
+        },
+        {
+          "number": 11,
+          "text": "Pois, vede, Yahweh dará uma ordem, e a grande casa cairá em ruínas; e a casa pequena, em pequenos pedaços."
+        },
+        {
+          "number": 12,
+          "text": "Por acaso, correm os cavalos sobre as rochas? Ou se pode arar ali com bois? Vós, porém, transformastes justiça em veneno e o fruto da retidão em amargura."
+        },
+        {
+          "number": 13,
+          "text": "Vós, que vos alegrais sobre Lo-Debar, dizendo: \"Não tomamos Carnaim por nossa própria força?''."
+        },
+        {
+          "number": 14,
+          "text": "\"Mas, vede, Eu levantarei contra vós uma nação, casa de Israel\", esta é a declaração do Senhor Yahweh, o Senhor dos Exércitos: ''Ela te afligirá desde Lebo-Hamate até a fonte de Arabá\"."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Isto é o que o Senhor Deus mostrou-me. Eis que Ele formou gafanhotos quando a erva começou a germinar. Eis que essa era a erva serôdia depois da colheita do rei."
+        },
+        {
+          "number": 2,
+          "text": "Quando eles terminaram de comer a vegetação do solo, então eu disse: \"Senhor Yahweh, perdoa, por favor! Jacó é muito pequeno, como sobreviverá?\"."
+        },
+        {
+          "number": 3,
+          "text": "Yahweh cedeu com relação a isso. \"Isso não acontecerá\", disse Ele."
+        },
+        {
+          "number": 4,
+          "text": "Isto é o que o Yahweh me mostrou: Eis que o Senhor Yahweh chamou o fogo para julgar. Secou as grandes e profundas águas embaixo da terra e poderia ter devorado o solo também;"
+        },
+        {
+          "number": 5,
+          "text": "mas eu disse: \"Senhor Yahweh, para, por favor! Jacó é muito pequeno. Como sobreviverá?\"."
+        },
+        {
+          "number": 6,
+          "text": "Yahweh cedeu acerca disso: \"Isso também não acontecerá\", disse o Senhor Yahweh."
+        },
+        {
+          "number": 7,
+          "text": "Isto é o que Ele me mostrou: Eis que o Senhor parou ao lado do muro, com um prumo nas Suas mãos."
+        },
+        {
+          "number": 8,
+          "text": "Yahweh me disse: \"Amós, o que vês?\". Eu disse: \"Um prumo\". Então, o Senhor disse: \"Olha, colocarei um prumo no meio do Meu povo Israel. Não vou mais poupá-lo."
+        },
+        {
+          "number": 9,
+          "text": "Os lugares altos de Isaque serão destruídos; os santuários de Israel serão arruinados, e Me levantarei contra a casa de Jeroboão com a espada\"."
+        },
+        {
+          "number": 10,
+          "text": "Então, Amazias, o sacerdote de Betel, enviou mensagem para Jeroboão, rei de Israel: \"Amós conspirou contra ti no meio da casa de Israel. A terra não pode suportar todas as suas palavras."
+        },
+        {
+          "number": 11,
+          "text": "Porque isto é o que Amós disse: 'Jeroboão morrerá pela espada, e Israel certamente será levado ao exílio longe da sua terra'\"."
+        },
+        {
+          "number": 12,
+          "text": "Amazias disse a Amós: \"Vidente, vai. Foge de volta para a terra de Judá, come pão lá e profetiza."
+        },
+        {
+          "number": 13,
+          "text": "Mas não profetizes mais aqui em Betel, porque é o Santuário do rei e a casa real\"."
+        },
+        {
+          "number": 14,
+          "text": "Então, Amós disse a Amazias: \"Eu não sou profeta, nem filho de profeta. Sou um vaqueiro e cultivador de sicômoros\"."
+        },
+        {
+          "number": 15,
+          "text": "Mas Yahweh me levou de onde eu estava pastoreando o rebanho e me disse: \"Vai, profetiza para o Meu povo Israel\"."
+        },
+        {
+          "number": 16,
+          "text": "Agora, ouve a palavra de Yahweh. Tu dizes: \"Não profetizes contra Israel e não fales contra a casa de Isaque\"."
+        },
+        {
+          "number": 17,
+          "text": "Portanto, isto é o que Yahweh diz: \"Tua esposa será prostituta na cidade; teus filhos e tuas filhas cairão pela espada; a tua terra será medida e dividida; tu morrerás numa terra impura e, sem dúvida, Israel irá para o exílio fora da sua terra\"."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Isto é o que o Senhor Yahweh me mostrou. Vê, um cesto de frutas de verão!"
+        },
+        {
+          "number": 2,
+          "text": "Ele disse: \"O que vês, Amós?\". Eu disse: \"Um cesto de frutas de verão\". Então, Yahweh me disse: \"O fim chegou para Meu povo, Israel; não terei mais misericórdia para com eles."
+        },
+        {
+          "number": 3,
+          "text": "Os cânticos do templo se tornarão em lamentos. Naquele dia\", assim diz o Senhor Yahweh, \"os cadáveres serão muitos; em todos os lugares, serão lançados para fora, em silêncio!\"."
+        },
+        {
+          "number": 4,
+          "text": "Ouvi isto, vós que atropelais os necessitados e destruís os pobres da terra."
+        },
+        {
+          "number": 5,
+          "text": "Eles dizem: \"Quando passará a lua nova, para que possamos vender grãos de novo? E o sábado, quando passará, para que possamos vender o trigo? Vamos fazer a medida pequena e aumentar o preço, para trapacear com balanças enganadoras."
+        },
+        {
+          "number": 6,
+          "text": "Isto é, que possamos vender trigo ruim, comprar o pobre por prata e o necessitado por um par de sandálias\"."
+        },
+        {
+          "number": 7,
+          "text": "Yahweh jurou pelo orgulho de Jacó: \"Certamente Eu jamais vou esquecer qualquer de tuas ações.\""
+        },
+        {
+          "number": 8,
+          "text": "Não tremerão por isso a terra e cada um que vive nela a chorar? Tudo isso encherá como o rio Nilo; subirá e baixará como o rio do Egito."
+        },
+        {
+          "number": 9,
+          "text": "\"Isso virá naquele dia\", diz o Senhor Yahweh, \"que Eu vou fazer o sol se pôr ao meio dia e vou escurecer a terra em plena luz do dia."
+        },
+        {
+          "number": 10,
+          "text": "Transformarei as vossas festas em velório, e todas as vossas canções em lamentações. Eu farei todos vós vestirdes roupas de saco e tereis as cabeças rapadas. Vou fazer isto como velório por um filho único, e o seu fim como um dia amargo."
+        },
+        {
+          "number": 11,
+          "text": "Vede, os dias estão vindo\", assim diz o Senhor Yahweh, \"quando Eu enviar a fome na terra — não fome de pão nem sede de água, mas de ouvir as palavras de Yahweh."
+        },
+        {
+          "number": 12,
+          "text": "Eles irão cambaleando de mar em mar; correrão do norte para o leste, para procurar a palavra de Yahweh, mas não a encontrarão."
+        },
+        {
+          "number": 13,
+          "text": "Naquele dia as belas virgens e os jovens vão desfalecer de sede."
+        },
+        {
+          "number": 14,
+          "text": "Aqueles que juram pelos pecados de Samaria, esses cairão e nunca se levantarão de novo\"."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Eu vi o Senhor em pé, junto ao altar, e Ele disse: \"Bate no topo dos pilares, assim as fundações tremerão, de modo que se quebrem em pedaços sobre as cabeças deles. Eu matarei o último deles com a espada. Nenhum deles conseguirá fugir, nenhum deles escapará."
+        },
+        {
+          "number": 2,
+          "text": "Ainda que cavem até o Sheol, lá, Minha mão os tomará. Ainda que subam ao céu, de lá os farei descer."
+        },
+        {
+          "number": 3,
+          "text": "Ainda que se escondam no topo do Carmelo, lá os procurarei e os tomarei. Ainda que se escondam da Minha vista no fundo do mar, lá Eu darei ordem à serpente, e serão picados."
+        },
+        {
+          "number": 4,
+          "text": "Ainda que vão para o cativeiro, conduzidos por seus inimigos diante deles, lá Eu darei ordens para a espada, e ela os matará. Eu manterei Meus olhos sobre eles, para lhes causar mal, e não o bem\"."
+        },
+        {
+          "number": 5,
+          "text": "O Senhor Yahweh dos Exércitos toca a terra, e ela se derrete; todos os que vivem nela pranteiam; tudo isso se levantará como rio e diminuirá novamente, como o rio do Egito."
+        },
+        {
+          "number": 6,
+          "text": "É Ele que constrói sua escada nos céus, e tem estabelecido Seu firmamento sobre a terra. Ele chama as águas do mar e as derrama sobre a face da terra. Yahweh é Seu Nome."
+        },
+        {
+          "number": 7,
+          "text": "Assim diz Yahweh: \"Povo de Israel, não sois para Mim como o povo da Etiópia? Não fiz Eu subir a Israel da terra do Egito; e os filisteus, do Caftor; e os sírios, de Quir?"
+        },
+        {
+          "number": 8,
+          "text": "Vede, os olhos do Senhor Yahweh estão sobre o reino pecaminoso, e Eu o destruirei da face da terra, mas não destruirei totalmente a casa de Jacó\". Esta é a declaração de Yahweh."
+        },
+        {
+          "number": 9,
+          "text": "\"Vede, Eu darei ordens e sacudirei a casa de Israel dentre as nações, como se agitam os grãos numa peneira, de modo que nem a menor pedra cairá no chão."
+        },
+        {
+          "number": 10,
+          "text": "Todos os pecadores do Meu povo morrerão pela espada, aqueles que dizem: 'Desastre não nos atingirá nem nos encontrará'."
+        },
+        {
+          "number": 11,
+          "text": "Naquele dia, levantarei a tenda de Davi, que caiu, e fecharei suas brechas. Levantarei suas ruínas e as reconstruirei como nos dias passados."
+        },
+        {
+          "number": 12,
+          "text": "Que eles possuam o remanescente de Edom e todas as nações que são chamadas pelo Meu Nome\". Esta é a declaração de Yahweh, que faz isso."
+        },
+        {
+          "number": 13,
+          "text": "\"Vede, os dias virão\", diz Yahweh, \"em que o lavrador alcançará o que ceifa, e o que pisa as uvas alcançará o que planta as sementes. Então, as montanhas destilarão vinho doce, e todas as colinas derramarão dele."
+        },
+        {
+          "number": 14,
+          "text": "Eu trarei de volta do cativeiro Meu povo Israel. Eles construirão as cidades arruinadas e habitarão nelas. Plantarão vinhas e beberão do seu vinho, farão jardins e comerão dos seus frutos."
+        },
+        {
+          "number": 15,
+          "text": "Eu os plantarei em suas terras, e eles nunca serão desarraigados da terra que lhes tenho dado\", diz Yahweh, teu Deus."
+        }
+      ]
+    }
+  ]
+}
