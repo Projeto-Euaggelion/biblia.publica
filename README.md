@@ -5,14 +5,18 @@ Repositório dedicado à organização de traduções bíblicas, em português b
 
 O objetivo principal deste repositório é organizar, de forma estruturada, todas as versões bíblicas disponíveis em lingua portuguesa sob licença de domínio público e/ou em licenças Creative Commons.
 
+## Fontes utilizadas
+
+A lista de versões, com licença, fonte e completude de cada uma, é gerada automaticamente a partir dos arquivos `versoes/{versao}/LICENSE.md` e fica disponível em [docs/fontes.md](docs/fontes.md).
+
+## Qualidade do texto
+
+O esforço inicial deste projeto tem se dedicado à indexação das versões bíblicas. Revisões e correções do texto não foram realizadas (exceto quando indicado) antes do texto ser adicionado ao projeto.
+
 ## Estrutura dos arquivos
 
 - Formato json: para mais detalhes sobre a estrutura utilizada nos arquivos `.json`, leia a documentação em [docs/estrutura-json.md](docs/estrutura-json.md);
 - Formato XML: leia a documentação em [docs/estrutura-xml.md](docs/estrutura-xml.md) para mais detalhes sobre a estrututra dos arquivos no formato `.xml`.
-
-## Fontes utilizadas
-
-A lista de versões, com licença, fonte e completude de cada uma, é gerada automaticamente a partir dos arquivos `versoes/{versao}/LICENSE.md` e fica disponível em [docs/fontes.md](docs/fontes.md).
 
 ## Contribuições
 
