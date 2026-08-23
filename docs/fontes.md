@@ -5,6 +5,7 @@
 | Versão | Licença | Fonte | Completude | PR | Contribuidor |
 |--------|---------|-------|------------|----|--------------|
 | `blivre` | CC BY 3.0 | [https://github.com/blivre/BibliaLivre/tree/master](https://github.com/blivre/BibliaLivre/tree/master) | Bíblia Protestante, 66 livros completos. | — | — |
+| `jfaal` | CC BY 3.0 | [https://github.com/BibliaJFAAL/JFAAL](https://github.com/BibliaJFAAL/JFAAL) | Bíblia Protestante, 66 livros completos. | — | — |
 | `nva` | CC BY-SA 4.0 | [https://git.door43.org/alexandre_brazil](https://git.door43.org/alexandre_brazil) | Bíblia Protestante, 66 livros completos. | — | — |
 | `otb` | CC BY-SA 4.0 | [https://github.com/OpenTranslationBible/open-bible](https://github.com/OpenTranslationBible/open-bible) | Bíblia protestante, versão completa (66 livros). | — | — |
 
