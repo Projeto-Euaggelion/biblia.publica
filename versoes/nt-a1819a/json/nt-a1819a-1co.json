@@ -1,0 +1,1834 @@
+{
+  "name": "1 Coríntios",
+  "abbrev": "1co",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "PAULO chamado Apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Sóstenes,"
+        },
+        {
+          "number": 2,
+          "text": "À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados santos, com todos os que em todo lugar invocam o nome do nosso Senhor Jesus Cristo, Senhor tanto deles quanto nosso;"
+        },
+        {
+          "number": 3,
+          "text": "Graça e paz haja a vós, de Deus nosso Pai e do Senhor Jesus Cristo."
+        },
+        {
+          "number": 4,
+          "text": "Sempre dou graças ao meu Deus a vosso respeito, pela graça de Deus que vos foi dada em Cristo Jesus,"
+        },
+        {
+          "number": 5,
+          "text": "Porque em todas as coisas fostes enriquecidos nele, em toda palavra e em todo conhecimento,"
+        },
+        {
+          "number": 6,
+          "text": "Assim como o testemunho de Cristo foi confirmado em vós,"
+        },
+        {
+          "number": 7,
+          "text": "De maneira a vós não estardes inferiores em nenhum dom, esperando a manifestação do nosso Senhor Jesus Cristo;"
+        },
+        {
+          "number": 8,
+          "text": "O qual também vos confirmará até o fim, para serdes irrepreensíveis no dia do nosso Senhor Jesus Cristo."
+        },
+        {
+          "number": 9,
+          "text": "Fiel é Deus, por quem fostes chamados a comunhão do seu Filho Jesus Cristo, o nosso Senhor."
+        },
+        {
+          "number": 10,
+          "text": "Rogo-vos porém, irmãos, pelo nome do nosso Senhor Jesus Cristo, que todos vós digais a mesma coisa, e não haja divisões entre vós; antes estejais perfeitamente unidos no mesmo pensamento e no mesmo parecer."
+        },
+        {
+          "number": 11,
+          "text": "Porque, meus irmãos, me foi notificado a respeito de vós, pelos da família de Cloé, que há contendas entre vós."
+        },
+        {
+          "number": 12,
+          "text": "E eu digo disto, que cada um de vós diz: Eu, na verdade, sou de Paulo, e eu de Apolo, e eu de Cefas, e eu de Cristo."
+        },
+        {
+          "number": 13,
+          "text": "Tem o Cristo sido dividido? Foi Paulo crucificado em vosso benefício? Ou fostes vós batizados para o nome de Paulo?"
+        },
+        {
+          "number": 14,
+          "text": "Eu dou graças a Deus, que a nenhum de vós batizei, exceto Crispo e Gaio,"
+        },
+        {
+          "number": 15,
+          "text": "Para que ninguém diga, que eu tenha batizado para o meu nome."
+        },
+        {
+          "number": 16,
+          "text": "E também batizei a família de Estéfanas; no demais não sei se batizei a algum outro."
+        },
+        {
+          "number": 17,
+          "text": "Porque Cristo não me enviou para batizar, mas para Evangelizar; não em sabedoria de palavras, para que a cruz de Cristo não se torne sem efeito."
+        },
+        {
+          "number": 18,
+          "text": "Porque a palavra da cruz é na verdade loucura para os que estão perecendo, mas para nós os que estamos sendo salvos, ela é poder de Deus."
+        },
+        {
+          "number": 19,
+          "text": "Porque está escrito: Eu destruirei a sabedoria dos sábios, e aniquilarei a inteligência dos entendidos."
+        },
+        {
+          "number": 20,
+          "text": "Onde está o Sábio? Onde está o escriba? Onde está o questionador deste mundo? Porventura não tornou Deus a sabedoria deste mundo uma loucura?"
+        },
+        {
+          "number": 21,
+          "text": "Porque, uma vez que na sabedoria de Deus, o mundo não conheceu a Deus através da sabedoria, agradou a Deus através da loucura da pregação, salvar aos que creem."
+        },
+        {
+          "number": 22,
+          "text": "Porque, tanto os judeus pedem sinal, como os gregos buscam sabedoria;"
+        },
+        {
+          "number": 23,
+          "text": "Mas nós pregamos Cristo crucificado, que é na verdade, escândalo para os judeus, e loucura para os gregos;"
+        },
+        {
+          "number": 24,
+          "text": "Mas para estes, os que são chamados, tanto judeus como gregos, lhes pregamos a Cristo, poder de Deus e sabedoria de Deus."
+        },
+        {
+          "number": 25,
+          "text": "Porque a loucura de Deus é mais sabia que os homens; e a fraqueza de Deus é mais forte que os homens."
+        },
+        {
+          "number": 26,
+          "text": "Porque bem vedes o vosso chamado irmãos, que não são muitos os sábios segundo a carne, nem muitos poderosos, nem muitos nobres de nascimento."
+        },
+        {
+          "number": 27,
+          "text": "Mas Deus escolheu as coisas loucas deste mundo, para envergonhar os sábios; e Deus escolheu as coisas fracas deste mundo, para envergonhar as coisas fortes;"
+        },
+        {
+          "number": 28,
+          "text": "E Deus escolheu as coisas vis deste mundo, e as desprezadas, e as que não são, para aniquilarem as que são;"
+        },
+        {
+          "number": 29,
+          "text": "Para que nenhuma carne se glorie perante ele."
+        },
+        {
+          "number": 30,
+          "text": "Mas vós sois dele em Cristo Jesus, o qual foi feito para nós sabedoria de Deus e justiça e santificação e redenção;"
+        },
+        {
+          "number": 31,
+          "text": "Para que, como está escrito: Aquele que está se gloriando, glorie-se no Senhor."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E eu irmãos, vindo a vós, não vim com excelência de palavras ou de sabedoria, anunciando-vos o testemunho de Deus."
+        },
+        {
+          "number": 2,
+          "text": "Porque não propus saber coisa alguma entre vós, senão a Jesus Cristo, e esse crucificado."
+        },
+        {
+          "number": 3,
+          "text": "E eu estive convosco em fraqueza e em temor e em grande tremor;"
+        },
+        {
+          "number": 4,
+          "text": "E a minha palavra e a minha pregação, não foi em palavras persuasivas de sabedoria humana, mas em demonstração do Espírito e de poder;"
+        },
+        {
+          "number": 5,
+          "text": "Para que a vossa fé não seja em sabedoria de homens, mas em poder de Deus."
+        },
+        {
+          "number": 6,
+          "text": "Mas falamos sabedoria entre os perfeitos; mas uma sabedoria não deste mundo, nem dos príncipes deste mundo, que estão sendo aniquilados;"
+        },
+        {
+          "number": 7,
+          "text": "Mas falamos a sabedoria de Deus em um mistério, a sabedoria oculta, que Deus predeterminou antes dos séculos para a nossa glória."
+        },
+        {
+          "number": 8,
+          "text": "A qual nenhum dos príncipes deste mundo conheceu, porque se a conhecessem, nunca crucificariam ao Senhor da glória,"
+        },
+        {
+          "number": 9,
+          "text": "Mas como está escrito: As coisas que olho não viu, e ouvido não ouviu, e não subiram ao coração do homem, são as que Deus preparou para os que o amam;"
+        },
+        {
+          "number": 10,
+          "text": "Porém Deus no-las revelou através do seu Espírito; porque o Espírito sonda todas as coisas, até mesmo as profundezas de Deus."
+        },
+        {
+          "number": 11,
+          "text": "Porque, qual dos homens sabe as coisas do homem, senão o espírito do homem, que está nele? Assim também ninguém sabe as coisas de Deus, senão o Espírito de Deus."
+        },
+        {
+          "number": 12,
+          "text": "Mas nós não recebemos o espírito do mundo, mas o Espírito que provém de Deus, para que saibamos as coisas concedidas gratuitamente a nós por Deus."
+        },
+        {
+          "number": 13,
+          "text": "As quais também falamos, não em palavras ensinadas de sabedoria humana, mas naquelas ensinadas pelo Espírito Santo, acomodando as coisas espirituais às espirituais."
+        },
+        {
+          "number": 14,
+          "text": "Mas o homem natural não compreende as coisas do Espírito de Deus, porque lhe são loucura; e não pode entendê-las, porque se discernem espiritualmente."
+        },
+        {
+          "number": 15,
+          "text": "Mas o espiritual, na verdade, discerne todas as coisas, mas ele mesmo por ninguém é discernido."
+        },
+        {
+          "number": 16,
+          "text": "Porque quem conheceu a mente do Senhor? Quem o instruirá? Mas nós temos a mente de Cristo."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E EU, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a meninos em Cristo."
+        },
+        {
+          "number": 2,
+          "text": "Eu vos dei leite para beber, e não alimento sólido; porque ainda não podíeis, nem tampouco ainda agora podeis."
+        },
+        {
+          "number": 3,
+          "text": "Porque ainda sois carnais. Porque onde há entre vós inveja e contendas e divisões, porventura não sois carnais, e ainda andais segundo os homens?"
+        },
+        {
+          "number": 4,
+          "text": "Porque, enquanto um diga: Eu, na verdade sou de Paulo, e outro: Eu de Apolo, porventura não sois carnais?"
+        },
+        {
+          "number": 5,
+          "text": "Quem pois é Paulo, e quem é Apolo, senão servidores através dos quais crestes, e isto conforme o Senhor concedeu a cada um?"
+        },
+        {
+          "number": 6,
+          "text": "Eu plantei, Apolo regou, mas Deus dava o crescimento."
+        },
+        {
+          "number": 7,
+          "text": "Por isso nem o que planta é alguma coisa, nem o que rega; mas Deus, aquele que dá o crescimento."
+        },
+        {
+          "number": 8,
+          "text": "E o que planta e o que rega são um; mas cada um receberá a sua recompensa conforme o seu próprio trabalho."
+        },
+        {
+          "number": 9,
+          "text": "Porque nós somos cooperadores de Deus; vós sois lavoura de Deus, e o edifício de Deus."
+        },
+        {
+          "number": 10,
+          "text": "Segundo a graça de Deus que me foi dada, como um sábio arquiteto eu tenho posto o fundamento, e outro edifica sobre ele; mas olhe cada um como edifica sobre ele."
+        },
+        {
+          "number": 11,
+          "text": "Porque ninguém pode pôr outro fundamento, além daquele que já está posto, o qual é Jesus, o Cristo."
+        },
+        {
+          "number": 12,
+          "text": "E se alguém sobre este fundamento edifica ouro, prata, pedras preciosas, madeira, feno, palha,"
+        },
+        {
+          "number": 13,
+          "text": "A obra de cada um se tornará manifesta; pois o dia a declarará, porque em fogo é revelada; e o fogo provará de que tipo é a obra de cada um."
+        },
+        {
+          "number": 14,
+          "text": "Se a obra de alguém, a qual ele edificou, permanecer; esse receberá galardão."
+        },
+        {
+          "number": 15,
+          "text": "Se a obra de alguém se queimar, sofrerá perda; mas ele mesmo será salvo, todavia, assim como através do fogo."
+        },
+        {
+          "number": 16,
+          "text": "Não sabeis vós, que sois templo de Deus, e que o Espírito de Deus habita em vós?"
+        },
+        {
+          "number": 17,
+          "text": "Se alguém corrompe o templo de Deus, Deus o destruirá; porque o templo de Deus, que sois vós, é santo."
+        },
+        {
+          "number": 18,
+          "text": "Ninguém engane a si mesmo: Se alguém entre vós pensa ser sábio neste mundo, faça-se louco, para que seja sábio."
+        },
+        {
+          "number": 19,
+          "text": "Porque a sabedoria deste mundo é loucura diante de Deus; porque está escrito: Ele apanha os sábios na própria astúcia deles."
+        },
+        {
+          "number": 20,
+          "text": "E outra vez: O Senhor conhece os pensamentos dos sábios, que são vãos."
+        },
+        {
+          "number": 21,
+          "text": "Portanto ninguém se glorie nos homens; porque tudo é vosso."
+        },
+        {
+          "number": 22,
+          "text": "Quer Paulo, ou Apolo, ou Cefas, ou o mundo, ou a vida, ou a morte, ou as coisas presentes, ou as coisas vindouras; tudo é vosso;"
+        },
+        {
+          "number": 23,
+          "text": "E vós de Cristo, e Cristo de Deus."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Assim nos considere o homem como ministros de Cristo e dispenseiros dos mistérios de Deus."
+        },
+        {
+          "number": 2,
+          "text": "E no demais, é requerido nos dispenseiros, que cada um seja achado fiel."
+        },
+        {
+          "number": 3,
+          "text": "Porém para mim, muito pouca coisa é que eu seja julgado por vós, ou por algum juízo humano; nem eu tampouco julgo a mim mesmo."
+        },
+        {
+          "number": 4,
+          "text": "Porque em nada me sinto culpado; mas nem por isso estou justificado, antes quem me julga é o Senhor."
+        },
+        {
+          "number": 5,
+          "text": "Portanto, não julgueis coisa alguma antes de tempo, até que o Senhor venha, o qual também trará à luz as coisas ocultas das trevas, e manifestará os conselhos dos corações; e então cada um terá o louvor de Deus."
+        },
+        {
+          "number": 6,
+          "text": "E estas coisas, irmãos, transformei em figura, a mim e a Apolo por amor de vós; para que em nós aprendais a não presumir mais do que está escrito, para que não sejais inchados um a favor de um, contra o outro."
+        },
+        {
+          "number": 7,
+          "text": "Porque quem te faz diferente? E que tens tu que não tenhas recebido? E se também recebeste, por que te glorias, como se não o havendo recebido?"
+        },
+        {
+          "number": 8,
+          "text": "Já estais satisfeitos, já enriquecestes, sem nós reinastes! E quisera que realmente reinásseis, para que também nós reinássemos convosco."
+        },
+        {
+          "number": 9,
+          "text": "Porque eu penso que Deus pôs a nós os apóstolos, por últimos, como já condenados à morte; pois fomos feitos espetáculo ao mundo, e aos anjos e aos homens."
+        },
+        {
+          "number": 10,
+          "text": "Nós somos loucos por amor de Cristo, mas vós sábios em Cristo; nós fracos, mas vós fortes; vós ilustres, mas nós vis."
+        },
+        {
+          "number": 11,
+          "text": "Até esta presente hora sofremos fome e sede, e estamos nus e somos esbofeteados e não temos pousada certa."
+        },
+        {
+          "number": 12,
+          "text": "E laboramos, trabalhando com as nossas próprias mãos; sendo injuriados, bendizemos; sendo perseguidos, suportamos;"
+        },
+        {
+          "number": 13,
+          "text": "Sendo blasfemados, rogamos; até o presente fomos tornados como o lixo deste mundo, a escória de todos."
+        },
+        {
+          "number": 14,
+          "text": "Não escrevo estas coisas vos envergonhando, mas vos admoesto como a meus filhos amados."
+        },
+        {
+          "number": 15,
+          "text": "Porque ainda que tenhais dez mil tutores em Cristo, contudo não tendes muitos pais; porque eu vos gerei em Cristo Jesus pelo Evangelho."
+        },
+        {
+          "number": 16,
+          "text": "Portanto vos admoesto: Sede meus imitadores."
+        },
+        {
+          "number": 17,
+          "text": "Por causa disto vos enviei Timóteo, que é meu filho amado e fiel no Senhor, o qual vos lembrará dos meus caminhos, que são em Cristo, exatamente como por todas as partes ensino em toda igreja."
+        },
+        {
+          "number": 18,
+          "text": "Mas alguns se ensoberbeceram, como se não estando eu indo a vós;"
+        },
+        {
+          "number": 19,
+          "text": "Mas depressa irei a vós, se o Senhor quiser, e então conhecerei, não a palavra, mas a virtude dos que se ensoberbeceram."
+        },
+        {
+          "number": 20,
+          "text": "Porque o Reino de Deus não consiste em palavra, mas em virtude."
+        },
+        {
+          "number": 21,
+          "text": "Que quereis? Irei a vós com vara, ou em amor e espírito de mansidão?"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Geralmente se ouve que há entre vós fornicação, e fornicação tal, que nem ainda entre os gentios é nomeada, de maneira a alguém possuir a mulher do seu pai."
+        },
+        {
+          "number": 2,
+          "text": "E vós estais ensoberbecidos, e nem vos entristecestes muito mais, para que seja tirado do vosso meio aquele que cometeu o tal ato?"
+        },
+        {
+          "number": 3,
+          "text": "Porque eu na verdade, como estando ausente no corpo, mas estando presente no espírito, já determinei como estando presente, ao que isto assim cometeu,"
+        },
+        {
+          "number": 4,
+          "text": "Havendo sido reunidos, vós e o meu espírito, no nome do nosso Senhor Jesus Cristo, com o poder do nosso Senhor Jesus Cristo,"
+        },
+        {
+          "number": 5,
+          "text": "De entregar o tal à Satanás, para destruição da carne, para que o espírito seja salvo, no dia do Senhor Jesus."
+        },
+        {
+          "number": 6,
+          "text": "Não é boa a vossa jactância. Não sabeis que um pouco de fermento faz levedar toda a massa?"
+        },
+        {
+          "number": 7,
+          "text": "Limpai pois o velho fermento, para que sejais uma nova massa, assim como estais sem fermento. Porque também Cristo, a nossa Pascoa, foi sacrificado em nosso favor."
+        },
+        {
+          "number": 8,
+          "text": "Por isso, celebremos a festa, não com fermento velho, nem com fermento de malícia e maldade, mas com pães asmos de sinceridade e de verdade."
+        },
+        {
+          "number": 9,
+          "text": "Na carta vos escrevi, não vos associardes com os fornicários;"
+        },
+        {
+          "number": 10,
+          "text": "Não porém de modo geral com todos os fornicários deste mundo, ou com os avarentos, ou roubadores, ou idólatras; de outra maneira então vos seria necessário sair do mundo."
+        },
+        {
+          "number": 11,
+          "text": "Mas agora vos escrevi, não vos associardes com ele, se algum sendo chamado irmão, for ou um fornicário, ou avarento, ou idólatra, ou maldizente, ou um beberrão, ou roubador, com o tal nem ainda comais."
+        },
+        {
+          "number": 12,
+          "text": "Porque, que tenho eu também que julgar os que estão de fora? Não julgais vós os que estão dentro?"
+        },
+        {
+          "number": 13,
+          "text": "Mas Deus julga os que estão de fora. Portanto, tirareis dentre vós este iníquo."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Algum de vós ousa, tendo algum negócio contra outro, ir a juízo perante os injustos, e não perante os santos?"
+        },
+        {
+          "number": 2,
+          "text": "Não sabeis vós que os santos julgarão o mundo? E se o mundo é julgado por vós, sois porventura indignos de julgamentos das coisas mínimas?"
+        },
+        {
+          "number": 3,
+          "text": "Não sabeis vós que julgaremos anjos? Quanto mais então as coisas pertencentes a esta vida!"
+        },
+        {
+          "number": 4,
+          "text": "Então, se na verdade tiverdes negócios de juízo pertencentes a esta vida, ponde na cadeira aos que são de menos estima na igreja."
+        },
+        {
+          "number": 5,
+          "text": "Para vos envergonhar eu digo. Não há pois um sábio entre vós, nem ainda um, que possa julgar entre os seus irmãos?"
+        },
+        {
+          "number": 6,
+          "text": "Mas irmão vai a juízo contra irmão, e isto perante infiéis."
+        },
+        {
+          "number": 7,
+          "text": "Portanto, na verdade, já é totalmente uma falta entre vós, que tendes demandas entre vós mesmos. Por que não sofreis antes a injustiça? Por que não sois antes defraudados?"
+        },
+        {
+          "number": 8,
+          "text": "Mas vós mesmos fazeis a injustiça e defraudais, e isto aos irmãos."
+        },
+        {
+          "number": 9,
+          "text": "Ou não sabeis que os injustos não herdarão o Reino de Deus?"
+        },
+        {
+          "number": 10,
+          "text": "Não sejais vós enganados: Nem os fornicários, nem os idólatras, nem os adúlteros, nem os afeminados, nem os sodomitas, nem os ladrões, nem os avarentos, nem os bêbados, nem os maldizentes, nem os roubadores, herdarão o Reino de Deus."
+        },
+        {
+          "number": 11,
+          "text": "E alguns de vós éreis estas coisas; mas fostes lavados, mas fostes santificados, mas fostes justificados, no nome do Senhor Jesus e no Espírito do nosso Deus."
+        },
+        {
+          "number": 12,
+          "text": "Todas as coisas me são lícitas, mas nem todas as coisas convém; todas as coisas me são lícitas, porém eu não me deixarei sujeitar ao poder de nenhuma."
+        },
+        {
+          "number": 13,
+          "text": "Os alimentos são para o ventre, e o ventre para os alimentos; mas Deus aniquilará, tanto esse como aqueles; mas o corpo não é para a fornicação, mas para o Senhor, e o Senhor para o corpo."
+        },
+        {
+          "number": 14,
+          "text": "Ora, Deus tanto ressuscitou o Senhor, como também nos ressuscitará através do seu poder."
+        },
+        {
+          "number": 15,
+          "text": "Não sabeis vós que os vossos corpos são membros de Cristo? Havendo tomado pois os membros de Cristo, farei deles membros de uma prostituta? Tal não haja!"
+        },
+        {
+          "number": 16,
+          "text": "Ou não sabeis, que o que se ajunta com a prostituta, é um corpo com ela? Porque serão, ele diz: Os dois por uma mesma carne."
+        },
+        {
+          "number": 17,
+          "text": "Mas aquele que é juntado ao Senhor é um Espírito."
+        },
+        {
+          "number": 18,
+          "text": "Fugi da fornicação: Todo pecado que o homem cometer, é fora do corpo; mas aquele que comete fornicação, peca contra o seu próprio corpo."
+        },
+        {
+          "number": 19,
+          "text": "Ou não sabeis que o vosso corpo é um templo do Espírito Santo em vós, o qual tendes de Deus, e que não sois de vós mesmos?"
+        },
+        {
+          "number": 20,
+          "text": "Porque fostes comprados por um bom preço; glorificai pois a Deus no vosso corpo e no vosso espírito, os quais são de Deus."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ORA, a respeito das coisas que me escrevestes: bom é a um homem não tocar numa mulher;"
+        },
+        {
+          "number": 2,
+          "text": "Mas por causa das fornicações, tenha cada um a sua própria esposa, e cada uma tenha o seu próprio marido."
+        },
+        {
+          "number": 3,
+          "text": "O marido pague à esposa a devida benevolência, e semelhantemente também a esposa ao marido."
+        },
+        {
+          "number": 4,
+          "text": "A esposa não tem autoridade sobre o seu próprio corpo, mas o marido a tem; e também da mesma maneira o marido não tem autoridade sobre o seu próprio corpo, mas a esposa."
+        },
+        {
+          "number": 5,
+          "text": "Não vos priveis um ao outro, senão por consentimento mútuo durante algum tempo, para que estejais livres para o jejum e para a oração, e outra vez vos ajunteis no mesmo lugar, para que Satanás não vos tente por causa da vossa incontinência."
+        },
+        {
+          "number": 6,
+          "text": "Isto porém eu digo por permissão, não por mandamento."
+        },
+        {
+          "number": 7,
+          "text": "Porque eu desejo serem todos os homens também como eu mesmo; mas cada um tem o seu próprio dom de Deus, um na verdade desta maneira, mas outro, de outra maneira."
+        },
+        {
+          "number": 8,
+          "text": "Digo porém aos solteiros e às viúvas, que é bom para eles, se permanecerem como eu mesmo;"
+        },
+        {
+          "number": 9,
+          "text": "Mas se não podem conter-se, casem-se; porque é melhor casar, do que abrasar-se."
+        },
+        {
+          "number": 10,
+          "text": "Porém aos casados mando, não eu, mas o Senhor, a esposa não apartar-se do marido;"
+        },
+        {
+          "number": 11,
+          "text": "E se também apartou-se, permaneça ela sem casar, ou se reconcilie com o marido; e o marido não deixar a sua esposa."
+        },
+        {
+          "number": 12,
+          "text": "Mas aos outros digo eu, não o Senhor: Se algum irmão tem esposa descrente, e ela consente em habitar com ele, não a deixe."
+        },
+        {
+          "number": 13,
+          "text": "E uma mulher que tem marido descrente, e ele consente em habitar com ela, não o deixe."
+        },
+        {
+          "number": 14,
+          "text": "Porque o marido descrente é santificado na esposa, e a esposa descrente é santificada no marido; pois de outra maneira os vossos filhos seriam imundos, mas agora são santos;"
+        },
+        {
+          "number": 15,
+          "text": "Mas se o descrente se apartar, aparte-se; nos tais casos, o irmão ou a irmã não está sujeito à servidão; mas Deus nos tem chamado para a paz."
+        },
+        {
+          "number": 16,
+          "text": "Porque, que sabes tu, ó esposa, se salvarás o teu marido? Ou, que sabes tu, ó marido, se salvarás a tua esposa?"
+        },
+        {
+          "number": 17,
+          "text": "Se não; do modo como Deus repartiu a cada um, do modo como o Senhor tem chamado a cada um; assim ande ele; e assim eu ordeno em todas as igrejas."
+        },
+        {
+          "number": 18,
+          "text": "Foi alguém chamado tendo sido circuncidado? Não se descircuncide; foi alguém chamado na incircuncisão? Não se circuncide."
+        },
+        {
+          "number": 19,
+          "text": "A circuncisão é nada, e a incircuncisão nada é, mas sim a observância dos mandamentos de Deus."
+        },
+        {
+          "number": 20,
+          "text": "Cada um no chamado em que foi chamado, neste permaneça."
+        },
+        {
+          "number": 21,
+          "text": "Foste chamado sendo servo? Isto não te dê cuidado; mas se também podes tornar-te livre, muito mais usa disto."
+        },
+        {
+          "number": 22,
+          "text": "Porque aquele que é chamado no Senhor, sendo um servo, é um liberto do Senhor; da mesma maneira também aquele que é livre, sendo chamado, é um servo de Cristo."
+        },
+        {
+          "number": 23,
+          "text": "Vós fostes comprados por preço, não vos façais servos dos homens."
+        },
+        {
+          "number": 24,
+          "text": "Cada um no estado em que foi chamado, irmãos, nele permaneça para com Deus."
+        },
+        {
+          "number": 25,
+          "text": "Ora, a respeito das virgens, eu não tenho mandamento do Senhor; dou porém meu parecer, como alguém tendo recebido misericórdia do Senhor para ser fiel."
+        },
+        {
+          "number": 26,
+          "text": "Portanto, penso isto ser bom, por causa da presente necessidade, que é bom ao homem o estar assim:"
+        },
+        {
+          "number": 27,
+          "text": "Estás ligado a uma esposa? Não busques separação. Estás liberto de uma esposa? Não busques uma esposa."
+        },
+        {
+          "number": 28,
+          "text": "Mas se também tu casares, não pecastes; e se a virgem casar, não pecou; Todavia os tais terão tribulação na carne; mas eu vos poupo."
+        },
+        {
+          "number": 29,
+          "text": "Isto porém eu digo, irmãos: Que o tempo está curto; o que resta é que também os que têm esposas, sejam como não as tendo;"
+        },
+        {
+          "number": 30,
+          "text": "E aqueles que estão chorando, como se não chorassem; e os que estão folgando, como se não folgassem; e aqueles que estão comprando, como se não possuíssem;"
+        },
+        {
+          "number": 31,
+          "text": "E os que estão usando deste mundo, como se dele não abusassem. Porque a aparência deste mundo passa."
+        },
+        {
+          "number": 32,
+          "text": "E eu quisera estardes vós sem cuidado. O não casado cuida das coisas do Senhor, em como agradará o Senhor:"
+        },
+        {
+          "number": 33,
+          "text": "Mas aquele que é casado cuida das coisas do mundo, em como agradará a esposa."
+        },
+        {
+          "number": 34,
+          "text": "A esposa e a virgem estão divididas: A não casada cuida das coisas do Senhor, para que seja santa, tanto no corpo como no espírito, mas a casada cuida das coisas do mundo, em como agradará o marido."
+        },
+        {
+          "number": 35,
+          "text": "Isto porém digo para o vosso próprio proveito; não para laçar um laço sobre vós, mas para vos instruir no que é decente, e para vossa devoção ao Senhor sem distração alguma."
+        },
+        {
+          "number": 36,
+          "text": "Mas se alguém julga conduzir-se indecentemente para com a sua virgindade, caso esteja além da flor de idade, e assim convém fazer; faça ele o que deseja, não peca, casem-se eles."
+        },
+        {
+          "number": 37,
+          "text": "Porém o que está firme no seu coração, não tendo necessidade, mas tem poder sobre a sua própria vontade, e tem determinado isto no seu coração, de guardar a sua virgindade, faz bem."
+        },
+        {
+          "number": 38,
+          "text": "Portanto, aquele que também a dá em casamento faz bem; mas o que a não dá em casamento, faz melhor."
+        },
+        {
+          "number": 39,
+          "text": "Uma esposa está ligada pela lei, por todo o tempo que o seu marido vive; mas se o seu marido falecer, está livre para se casar com quem ela quiser; contanto que seja no Senhor."
+        },
+        {
+          "number": 40,
+          "text": "Porém é mais bem-aventurada se permanecer assim, segundo o meu parecer. E eu cuido ter eu também o Espírito de Deus."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ORA, a respeito das coisas sacrificadas aos ídolos: Bem sabemos que todos nós temos conhecimento; o conhecimento ensoberbece, mas o amor edifica."
+        },
+        {
+          "number": 2,
+          "text": "E se alguém pensa ter conhecido alguma coisa, ainda nada tem conhecido como convém conhecer."
+        },
+        {
+          "number": 3,
+          "text": "Mas se alguém ama a Deus, o tal é conhecido dele."
+        },
+        {
+          "number": 4,
+          "text": "Assim que quanto ao comer das coisas sacrificadas a ídolos, nós sabemos que um ídolo nada é no mundo, e que nenhum outro Deus há, exceto um."
+        },
+        {
+          "number": 5,
+          "text": "E, porque ainda que há alguns que estão sendo chamados deuses, quer no céu ou na terra (como há muitos deuses e muitos senhores)."
+        },
+        {
+          "number": 6,
+          "text": "Todavia quanto a nós há um só Deus, o Pai, de quem são todas as coisas, e nós para ele; e um só Senhor Jesus Cristo, por quem são todas as coisas, e nós por ele."
+        },
+        {
+          "number": 7,
+          "text": "Mas não há esta ciência em todos; porém alguns até agora comem com consciência do ídolo, como de uma coisa sacrificada a um ídolo; e a consciência deles sendo fraca, é contaminada."
+        },
+        {
+          "number": 8,
+          "text": "Ora, o alimento não nos faz agradáveis a Deus; porque nem se comermos temos uma vantagem; nem se não comermos estamos piores."
+        },
+        {
+          "number": 9,
+          "text": "Mas vede que esta vossa liberdade não se torne, de alguma maneira, pedra de tropeço para aqueles estando fracos."
+        },
+        {
+          "number": 10,
+          "text": "Porque se alguém observar a ti, o qual tendo conhecimento, assentado à mesa em um templo de ídolo, não será a consciência daquele sendo fraco, induzida a comer das coisas sacrificadas a ídolos?"
+        },
+        {
+          "number": 11,
+          "text": "E pelo teu conhecimento, perecerá o irmão fraco, por quem Cristo morreu."
+        },
+        {
+          "number": 12,
+          "text": "E assim, pecando contra os irmãos e ferindo a fraca consciência deles, vós pecais contra Cristo."
+        },
+        {
+          "number": 13,
+          "text": "Por isso, se a comida causar tropeço ao meu irmão, que nunca eu coma carne para sempre, para que não cause tropeço ao meu irmão."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "NÃO sou eu porventura um apóstolo? Não sou livre? Não tenho eu visto Jesus Cristo, o nosso Senhor? Não sois vós a minha obra no Senhor?"
+        },
+        {
+          "number": 2,
+          "text": "Se não sou apóstolo para os outros, ainda ao menos para vós eu sou; porque vós sois o selo do meu apostolado no Senhor."
+        },
+        {
+          "number": 3,
+          "text": "Esta é a minha defesa para com os que me condenam."
+        },
+        {
+          "number": 4,
+          "text": "Não temos nós direito de comer e de beber?"
+        },
+        {
+          "number": 5,
+          "text": "Não temos nós direito de levar ao nosso lado uma irmã, uma esposa, como também os outros apóstolos e os irmãos do Senhor, e Cefas?"
+        },
+        {
+          "number": 6,
+          "text": "Ou somente eu e Barnabé não temos direito de não trabalhar?"
+        },
+        {
+          "number": 7,
+          "text": "Quem alguma vez milita às suas próprias custas? Quem planta uma vinha, e não come do seu fruto? Ou quem apascenta um rebanho, e não se alimenta do leite do rebanho?"
+        },
+        {
+          "number": 8,
+          "text": "Digo eu isto como um homem? Ou não diz a lei também estas mesmas coisas?"
+        },
+        {
+          "number": 9,
+          "text": "Porque na lei de Moisés está escrito: Não amordaçarás o boi trilhando o grão. Porventura cuida Deus nisto para os bois?"
+        },
+        {
+          "number": 10,
+          "text": "Ou totalmente diz ele isto em nosso favor? Certamente isto foi escrito em nosso favor: Que aquele que está lavrando, deve lavrar com esperança, e aquele que está debulhando, com esperança de participar da sua esperança."
+        },
+        {
+          "number": 11,
+          "text": "Se nós vos semeamos as coisas espirituais, é muito que nós colhamos as vossas coisas carnais?"
+        },
+        {
+          "number": 12,
+          "text": "Se outros participam desta autoridade sobre vós, por que não muito mais nós? Mas nós não usamos desta autoridade; antes suportamos tudo, para que não demos impedimento algum ao Evangelho de Cristo."
+        },
+        {
+          "number": 13,
+          "text": "Não sabeis vós, que aqueles que estão administrando as coisas santas, comem as coisas do templo? E aqueles que estão continuamente atendendo ao altar, são participantes com o altar?"
+        },
+        {
+          "number": 14,
+          "text": "Assim o Senhor também ordenou, aos que estão anunciando o Evangelho, viverem eles do Evangelho."
+        },
+        {
+          "number": 15,
+          "text": "Mas eu de nenhuma destas coisas usei; e nem escrevi isto para que assim seja feito comigo; porque muito melhor me fora morrer, do que alguém esvaecer esta minha glória."
+        },
+        {
+          "number": 16,
+          "text": "Porque se eu anuncio o Evangelho, não é gloria para mim, pois esta obrigação me é imposta; e ai de mim é, se não pregar o Evangelho."
+        },
+        {
+          "number": 17,
+          "text": "Porque se isto eu faço de boa mente, tenho prêmio; mas se de má vontade, apenas uma administração me é confiada."
+        },
+        {
+          "number": 18,
+          "text": "Qual é então o meu prêmio? Que, em anunciando o Evangelho, eu proponha o Evangelho de Cristo sem custo, para não abusar do meu direito no Evangelho."
+        },
+        {
+          "number": 19,
+          "text": "Porque eu, estando livre de todos, me fiz servo de todos, para ganhar o maior número;"
+        },
+        {
+          "number": 20,
+          "text": "E me fiz como judeu aos judeus, para ganhar os judeus; aos que estão debaixo da lei, como se estivesse debaixo da lei, para ganhar os que estão debaixo da lei;"
+        },
+        {
+          "number": 21,
+          "text": "Aos que estão sem lei, como se estivesse sem lei (não estando porém sem lei para com Deus; mas dentro da lei para com Cristo), para ganhar os que estão sem lei."
+        },
+        {
+          "number": 22,
+          "text": "Fiz-me como fraco aos fracos, para ganhar os fracos; tenho-me feito todas as coisas a todos, para por todos os meios salvar alguns."
+        },
+        {
+          "number": 23,
+          "text": "E eu faço isto, por causa do Evangelho, para ser também participante dele."
+        },
+        {
+          "number": 24,
+          "text": "Não sabeis vós que os que estão correndo num estádio, todos na verdade correm; mas um só recebe o prêmio? Correi de tal maneira que o alcanceis."
+        },
+        {
+          "number": 25,
+          "text": "E todo aquele que está lutando se abstém de tudo; eles pois, na verdade, o fazem para receberem uma coroa corruptível, mas nós, uma incorruptível."
+        },
+        {
+          "number": 26,
+          "text": "Eu pois assim corro, não como de modo incerto; assim eu combato, não como batendo no ar."
+        },
+        {
+          "number": 27,
+          "text": "Mas eu subjugo o meu corpo, e o trago em servidão, para que de algum modo, havendo pregado aos outros, eu mesmo não seja reprovado."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ORA irmãos, não quero vós ignorardes, que todos os nossos pais estavam debaixo da nuvem, e todos passaram através do mar,"
+        },
+        {
+          "number": 2,
+          "text": "E todos foram batizados em Moisés na nuvem e no mar,"
+        },
+        {
+          "number": 3,
+          "text": "E todos comeram da mesma comida espiritual,"
+        },
+        {
+          "number": 4,
+          "text": "E todos beberam da mesma bebida espiritual; porque eles bebiam da Rocha espiritual que os estava seguindo; e a Rocha era o Cristo."
+        },
+        {
+          "number": 5,
+          "text": "Mas Deus não se agradou da maior parte deles; por isso foram prostrados no deserto."
+        },
+        {
+          "number": 6,
+          "text": "E estas coisas foram feitas em exemplos para nós, para não sermos cobiçosos de coisas más, como eles também cobiçaram;"
+        },
+        {
+          "number": 7,
+          "text": "Nem sejais vós idólatras, como alguns deles, conforme está escrito: O povo assentou-se para comer e para beber, e levantou-se para brincar;"
+        },
+        {
+          "number": 8,
+          "text": "Nem forniquemos, como alguns deles fornicaram, e caíram em um dia vinte e três mil;"
+        },
+        {
+          "number": 9,
+          "text": "Nem tentemos a Cristo como também alguns deles tentaram, e pereceram pelas serpentes;"
+        },
+        {
+          "number": 10,
+          "text": "Nem murmureis, como também alguns deles murmuraram, e pereceram pelo destruidor."
+        },
+        {
+          "number": 11,
+          "text": "E todas estas coisas lhes sobrevinham como exemplos, e estão escritas para nossa admoestação, para quem já chegaram os fins dos séculos."
+        },
+        {
+          "number": 12,
+          "text": "Aquele pois supondo estar em pé, olhe ele para que não caia."
+        },
+        {
+          "number": 13,
+          "text": "Não vos tem tomado provação, senão humana; mas fiel é Deus, o qual não vos deixará ser tentados acima do que podeis, mas com a tentação também dará o escape, para o poderdes vós suportá-la."
+        },
+        {
+          "number": 14,
+          "text": "Portanto, meus amados, fugi da idolatria."
+        },
+        {
+          "number": 15,
+          "text": "Falo como a entendidos: Julgai vós mesmos o que eu digo:"
+        },
+        {
+          "number": 16,
+          "text": "O cálice da benção que abençoamos, não é porventura a comunhão do sangue de Cristo? O pão que partimos, não é porventura a comunhão do corpo de Cristo?"
+        },
+        {
+          "number": 17,
+          "text": "Porque nós, os quais sendo muitos, somos um só pão, e um só corpo; porque todos nós participamos daquele um só pão."
+        },
+        {
+          "number": 18,
+          "text": "Vede a Israel segundo a carne; porventura aqueles que estão comendo os sacrifícios, não são participantes do altar?"
+        },
+        {
+          "number": 19,
+          "text": "Que digo eu então? Que um ídolo é alguma coisa? Ou que, o que é sacrificado a ídolos alguma coisa é?"
+        },
+        {
+          "number": 20,
+          "text": "Antes digo, que as coisas que os gentios sacrificam, sacrificam aos demônios, e não a Deus. E não desejo vós serdes participantes com os demônios;"
+        },
+        {
+          "number": 21,
+          "text": "Não podeis beber o cálice do Senhor, e o cálice dos demônios; não podeis participar da mesa do Senhor, e da mesa dos demônios;"
+        },
+        {
+          "number": 22,
+          "text": "Ou provocamos ira no Senhor? Somos nós mais fortes que ele?"
+        },
+        {
+          "number": 23,
+          "text": "Todas as coisas me são lícitas, mas nem todas as coisas convém; todas as coisas me são lícitas, mas nem todas as coisas edificam."
+        },
+        {
+          "number": 24,
+          "text": "Ninguém busque o seu próprio proveito, antes cada um o que é para proveito do outro."
+        },
+        {
+          "number": 25,
+          "text": "Comei de tudo que é vendido no açougue, nada inquirindo por causa da consciência."
+        },
+        {
+          "number": 26,
+          "text": "Porque do Senhor é a terra e toda a sua plenitude."
+        },
+        {
+          "number": 27,
+          "text": "E se algum dos infiéis vos convida, e quereis ir, comei de tudo aquilo que está sendo posto diante de vós, nada inquirindo por causa da consciência."
+        },
+        {
+          "number": 28,
+          "text": "Mas se alguém vos disser: Isto é sacrificado a um ídolo, não comais, por causa daquele vos havendo advertido disto, e por causa da consciência; porque do Senhor é a terra e toda sua plenitude."
+        },
+        {
+          "number": 29,
+          "text": "Mas, consciência digo, não a tua própria, mas a do outro; Pois, por que a minha liberdade é julgada pela consciência de outro homem?"
+        },
+        {
+          "number": 30,
+          "text": "E se eu com graça participo da comida, por quê sou blasfemado por causa daquilo que eu dou graças?"
+        },
+        {
+          "number": 31,
+          "text": "Portanto, se comeis, ou bebeis, ou fazeis qualquer outra coisa, fazei tudo para glória de Deus."
+        },
+        {
+          "number": 32,
+          "text": "Sede vós sem escândalo, tanto para judeus como para gregos e para a igreja de Deus."
+        },
+        {
+          "number": 33,
+          "text": "Como também eu agrado a todos em tudo; não buscando o meu próprio proveito, mas o de muitos, para que possam ser salvos."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "SEDE meus imitadores, assim como também eu sou de Cristo."
+        },
+        {
+          "number": 2,
+          "text": "E louvo-vos irmãos, que em tudo tendes vos lembrado de mim, e retendes as ordenanças assim como eu vo-las entreguei."
+        },
+        {
+          "number": 3,
+          "text": "Mas desejo vós saberdes, que Cristo é a cabeça de todo varão; e o varão a cabeça da mulher; e Deus a cabeça de Cristo:"
+        },
+        {
+          "number": 4,
+          "text": "Todo varão que está orando ou profetizando, tendo alguma coisa sobre sua cabeça, desonra a sua própria cabeça;"
+        },
+        {
+          "number": 5,
+          "text": "Mas toda mulher que está orando ou profetizando, com a cabeça descoberta, desonra a sua própria cabeça; porque isto é uma só coisa e o mesmo com o tendo sido rapada."
+        },
+        {
+          "number": 6,
+          "text": "Porque se uma mulher não está coberta, tosquie-se também; mas se para uma mulher é coisa indecente tosquiar-se ou rapar-se, então esteja ela coberta."
+        },
+        {
+          "number": 7,
+          "text": "Porque, na verdade, o varão não deve ter a cabeça coberta, sendo a imagem e a glória de Deus; mas a mulher é a glória do varão;"
+        },
+        {
+          "number": 8,
+          "text": "Porque o varão não é proveniente da mulher, mas a mulher do varão."
+        },
+        {
+          "number": 9,
+          "text": "Porque também o varão não foi criado por causa da mulher, mas a mulher em benefício do varão;"
+        },
+        {
+          "number": 10,
+          "text": "Por causa disto, a mulher deve ter sobre a cabeça sinal de estar sob poderio, por causa dos anjos."
+        },
+        {
+          "number": 11,
+          "text": "Todavia nem o varão é sem a mulher, nem a mulher sem o varão, no Senhor."
+        },
+        {
+          "number": 12,
+          "text": "Porque, como a mulher é proveniente do varão, assim também o varão é através da mulher; mas tudo é proveniente de Deus."
+        },
+        {
+          "number": 13,
+          "text": "Julgai entre vós mesmos: É decente para uma mulher orar a Deus descoberta?"
+        },
+        {
+          "number": 14,
+          "text": "Ou não vos ensina a própria natureza, que um varão, na verdade, caso tenha cabelo crescido, é uma desonra para ele?"
+        },
+        {
+          "number": 15,
+          "text": "Mas uma mulher, se tenha cabelo crescido, é honra para ela, porque o cabelo lhe é dado em lugar da cobertura?"
+        },
+        {
+          "number": 16,
+          "text": "Porém se alguém parece ser contencioso, nós não temos tal costume, nem as igrejas de Deus."
+        },
+        {
+          "number": 17,
+          "text": "Mas isto ordenando-vos não vos louvo, que vos ajuntais não para o melhor, senão para o pior."
+        },
+        {
+          "number": 18,
+          "text": "Porque primeiro, na verdade, ouço que vos ajuntando na igreja, há dissenções entre vós; e em parte o creio."
+        },
+        {
+          "number": 19,
+          "text": "Porque até é necessário haver heresias entre vós, para que os que são aprovados, sejam manifestos entre vós."
+        },
+        {
+          "number": 20,
+          "text": "Assim que, vos ajuntando em um mesmo lugar, isto não é para comerdes a Ceia do Senhor."
+        },
+        {
+          "number": 21,
+          "text": "Porque cada um, ao comer, toma antecipadamente a sua própria ceia; e na verdade, um tem fome e outro embriaga-se."
+        },
+        {
+          "number": 22,
+          "text": "Por quê? Não tendes casas para o comer e beber? Ou desprezais a igreja de Deus e envergonhais aos que não estão tendo? Que vos dizer? Louvar-vos nisto? Não vos louvo."
+        },
+        {
+          "number": 23,
+          "text": "Porque eu recebi do Senhor, o que também vos entreguei, que o Senhor Jesus na noite em que foi traído tomou o pão,"
+        },
+        {
+          "number": 24,
+          "text": "E havendo dado graças o partiu, e disse: Tomai, comei; isto é o meu corpo, o qual está sendo partido para vosso benefício; fazei isto em memória de mim."
+        },
+        {
+          "number": 25,
+          "text": "Semelhantemente também, depois de cear, tomou o cálice, dizendo: Este cálice é o novo Testamento no meu sangue; fazei isto todas as vezes que o bebais em memória de mim."
+        },
+        {
+          "number": 26,
+          "text": "Porque, todas as vezes que comais este pão e bebais este cálice, anunciais a morte do Senhor, até que ele venha."
+        },
+        {
+          "number": 27,
+          "text": "Portanto, quem quer que coma este pão, ou beba o cálice do Senhor indignamente, será culpado do corpo e sangue do Senhor."
+        },
+        {
+          "number": 28,
+          "text": "Portanto examine-se o homem a si mesmo, e assim coma do pão, e beba do cálice."
+        },
+        {
+          "number": 29,
+          "text": "Porque aquele que come e bebe indignamente, come e bebe juízo para si mesmo, não discernindo o corpo do Senhor;"
+        },
+        {
+          "number": 30,
+          "text": "Por causa disto há muitos fracos e enfermos entre vós, e muitos são adormecidos."
+        },
+        {
+          "number": 31,
+          "text": "Porque se nos julgássemos a nós mesmos, não seríamos julgados."
+        },
+        {
+          "number": 32,
+          "text": "Mas sendo julgados, somos repreendidos pelo Senho, para que não sejamos condenados com o mundo."
+        },
+        {
+          "number": 33,
+          "text": "Portanto meus irmãos, vos ajuntando para comer, esperai uns pelos outros."
+        },
+        {
+          "number": 34,
+          "text": "Mas se alguém tem fome, coma em casa, para que não vos ajunteis para condenação. Quanto as demais coisas, as porei em ordem quando eu for."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E concernente aos dons espirituais, não quero irmãos, vós serdes ignorantes."
+        },
+        {
+          "number": 2,
+          "text": "Bem sabeis vós que éreis gentios, sendo levados aos ídolos mudos, conforme éreis guiados."
+        },
+        {
+          "number": 3,
+          "text": "Por isso vos faço saber, que ninguém falando no Espírito de Deus, diz: Jesus é anátema; e ninguém pode dizer: Jesus é o Senhor, senão no Espírito Santo."
+        },
+        {
+          "number": 4,
+          "text": "Ora, há diversidades de dons; mas é o mesmo Espírito;"
+        },
+        {
+          "number": 5,
+          "text": "Mas há variedades de serviços, e o mesmo Senhor;"
+        },
+        {
+          "number": 6,
+          "text": "E há variedade de operações; porém é o mesmo Deus, quem está efetivamente operando tudo em todos."
+        },
+        {
+          "number": 7,
+          "text": "Mas a manifestação do Espírito é dada a cada um, para aquilo que está sendo proveitoso."
+        },
+        {
+          "number": 8,
+          "text": "Porque, na verdade, pelo Espírito, a um é dada palavra de sabedoria, e a outro, segundo o mesmo Espírito, palavra de conhecimento;"
+        },
+        {
+          "number": 9,
+          "text": "E a um outro fé, pelo mesmo Espírito; e a outro dons de curas, pelo mesmo Espírito:"
+        },
+        {
+          "number": 10,
+          "text": "E a outro operações de maravilhas; e a outro profecia; e a outro discernimento de espíritos; e a um outro variedade de línguas; e a outro interpretação de línguas."
+        },
+        {
+          "number": 11,
+          "text": "Mas todas estas coisas opera efetivamente um só e o mesmo Espírito, repartindo particularmente a cada um como ele quer."
+        },
+        {
+          "number": 12,
+          "text": "Porque assim como o corpo é um, e tem muitos membros, e todos os membros deste um corpo, sendo muitos, todavia são um só corpo, assim é também o Cristo."
+        },
+        {
+          "number": 13,
+          "text": "Porque também todos nós fomos batizados em um só Espírito, para um só corpo, quer judeus ou gregos, quer servos ou livres; e todos fomos feitos beber de um só Espírito."
+        },
+        {
+          "number": 14,
+          "text": "Porque também o corpo não é um só membro, mas muitos."
+        },
+        {
+          "number": 15,
+          "text": "Se o pé disser: Porque não sou mão, não sou do corpo; Por causa disso não é do corpo?"
+        },
+        {
+          "number": 16,
+          "text": "E se o ouvido disser: Porque não sou olho, não sou do corpo; Por causa disso não é do corpo?"
+        },
+        {
+          "number": 17,
+          "text": "Se todo o corpo fosse olho, onde estaria a audição? Se todo fosse ouvido, onde estaria o olfato?"
+        },
+        {
+          "number": 18,
+          "text": "Mas agora Deus pôs os membros no corpo, a cada um deles assim como ele quis."
+        },
+        {
+          "number": 19,
+          "text": "Mas se todos fossem um só membro, onde estaria o corpo?"
+        },
+        {
+          "number": 20,
+          "text": "Mas agora, na verdade há muitos membros, mas somente um corpo."
+        },
+        {
+          "number": 21,
+          "text": "E não pode um olho dizer à mão: Não tenho necessidade de ti; nem de novo a cabeça aos pés: Não tenho necessidade de vós;"
+        },
+        {
+          "number": 22,
+          "text": "Mas os membros do corpo parecendo ser os mais fracos, são muito mais necessários."
+        },
+        {
+          "number": 23,
+          "text": "E os que pensamos serem os menos honrados do corpo, ao redor desses pomos muito mais honra; e as nossas partes indecorosas tem mais abundante decoro."
+        },
+        {
+          "number": 24,
+          "text": "Porém os nossos membros mais formosos não têm necessidade disso; mas assim Deus mesclou conjuntamente o corpo, havendo dado mais abundante honra àquele sendo faltoso dela."
+        },
+        {
+          "number": 25,
+          "text": "Para que não haja divisão no corpo, mas que os membros tenham o mesmo cuidado uns pelos outros."
+        },
+        {
+          "number": 26,
+          "text": "E se um membro padece, todos os membros padecem juntamente; se um membro é honrado, todos os membros se regozijam juntamente."
+        },
+        {
+          "number": 27,
+          "text": "E vós sois o corpo de Cristo, e membros em particular."
+        },
+        {
+          "number": 28,
+          "text": "E na verdade, Deus pôs a uns na igreja: primeiramente apóstolos, em segundo profetas, em terceiro instrutores, depois milagres, depois dons de curas, socorros, governos, variedades de línguas."
+        },
+        {
+          "number": 29,
+          "text": "Porventura são todos apóstolos? São todos profetas? São todos instrutores? São todos operadores de milagres?"
+        },
+        {
+          "number": 30,
+          "text": "Têm todos dons de curas? Falam todos em línguas? Interpretam todos?"
+        },
+        {
+          "number": 31,
+          "text": "Portanto desejai com zelo os melhores dons; mas eu vos mostro um caminho ainda mais excelente."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "AINDA que eu fale as línguas dos homens e dos anjos, mas não tenha amor, tenho me tornado como o metal soando, ou como um sino tinindo."
+        },
+        {
+          "number": 2,
+          "text": "E ainda que eu tenha o dom de profecia, e saiba todos os mistérios e todo o conhecimento, e ainda que tenha toda a fé, de maneira tal a transportar os montes, mas não tenha amor, nada eu sou."
+        },
+        {
+          "number": 3,
+          "text": "E se distribuísse todos os meus bens para sustento dos pobres, e se entregasse o meu corpo para ser queimado, e não tenha amor, em nada sou útil."
+        },
+        {
+          "number": 4,
+          "text": "O amor é longânimo, é benigno; o amor não é invejoso; o amor não se vangloria, não se ensoberbece,"
+        },
+        {
+          "number": 5,
+          "text": "Não se porta indecentemente, não busca os seus próprios interesses, não se irrita facilmente, não suspeita o mal,"
+        },
+        {
+          "number": 6,
+          "text": "Não folga sobre a injustiça, mas se alegra com a verdade;"
+        },
+        {
+          "number": 7,
+          "text": "Tudo encobre, tudo crê, tudo espera, tudo suporta."
+        },
+        {
+          "number": 8,
+          "text": "O amor nunca perece; mas se há profecias, serão aniquiladas; se há línguas, cessarão; se conhecimento, será aniquilado."
+        },
+        {
+          "number": 9,
+          "text": "Porque em parte conhecemos, e em parte profetizamos;"
+        },
+        {
+          "number": 10,
+          "text": "Mas quando vier aquilo que é perfeito, então o que é em parte será aniquilado."
+        },
+        {
+          "number": 11,
+          "text": "Quando eu era menino, falava como um menino, entendia como um menino, raciocinava como um menino; mas quando me tornei um varão, eu aboli as coisas do menino."
+        },
+        {
+          "number": 12,
+          "text": "Porque agora vemos através de um espelho, obscuramente, mas então veremos face a face; Agora eu conheço em parte, mas então conhecerei assim como também fui conhecido."
+        },
+        {
+          "number": 13,
+          "text": "E agora permanecem a fé, a esperança, e o amor; estes três, mas o maior destes é o amor."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "PERSEGUI o amor, e desejai com zelo os dons espirituais, mas muito mais que profetizeis."
+        },
+        {
+          "number": 2,
+          "text": "Porque aquele que está falando em uma língua estranha, não fala aos homens, senão a Deus; porque ninguém o entende, mas fala mistérios em Espírito."
+        },
+        {
+          "number": 3,
+          "text": "Mas aquele que está profetizando, fala aos homens para edificação e exortação e consolação."
+        },
+        {
+          "number": 4,
+          "text": "Aquele que está falando língua estranha, edifica a si mesmo; mas o que está profetizando, edifica a igreja."
+        },
+        {
+          "number": 5,
+          "text": "E eu desejo todos vós falardes em línguas estranhas, mas muito mais que profetizeis; porque aquele que está profetizando é maior que aquele que está falando em línguas estranhas, se não que também interprete, para que a igreja receba edificação."
+        },
+        {
+          "number": 6,
+          "text": "E agora, irmãos, se eu viesse a vós falando línguas estranhas, que vos aproveitaria, se não vos falasse quer em revelação, ou em ciência, ou em profecia, ou em doutrina?"
+        },
+        {
+          "number": 7,
+          "text": "E mesmo as coisas inanimadas, dando um som, quer flauta ou harpa, se não derem distinção aos sons, como será conhecido o que está sendo tocado com a flauta, ou sendo tocado com a harpa?"
+        },
+        {
+          "number": 8,
+          "text": "Porque também se uma trombeta der som incerto, quem se preparará para a guerra?"
+        },
+        {
+          "number": 9,
+          "text": "Assim também vós, se através da língua não pronunciardes palavras bem inteligíveis, como se entenderá aquilo que está sendo dito? Porque estareis como falando para o ar."
+        },
+        {
+          "number": 10,
+          "text": "Seja que há tantos gêneros de vozes no mundo, e nenhuma delas é sem som distinguível."
+        },
+        {
+          "number": 11,
+          "text": "Se portanto, eu não souber o sentido da voz, serei um bárbaro para aquele que está falando; e o que está falando, será bárbaro para mim."
+        },
+        {
+          "number": 12,
+          "text": "Assim também vós, uma vez que sois zelosos dos dons espirituais, procurai que abundeis para a edificação da igreja."
+        },
+        {
+          "number": 13,
+          "text": "Por isso aquele que está falando em língua estranha, ore para que a interprete."
+        },
+        {
+          "number": 14,
+          "text": "Porque, caso eu ore em uma língua estranha, o meu espírito ora, mas o meu entendimento fica sem fruto."
+        },
+        {
+          "number": 15,
+          "text": "Então que é isto? Eu orarei com o espírito, mas também orarei com o entendimento; eu cantarei louvores com o espírito, mas também cantarei com o entendimento."
+        },
+        {
+          "number": 16,
+          "text": "De outra maneira, se tu bendisseres com o espírito; como aquele que está ocupando o lugar do desinstruído dirá o amém sobre a tua benção? Uma vez que não tem entendido o que tu dizes."
+        },
+        {
+          "number": 17,
+          "text": "Porque na verdade, tu bem dás graças, mas o outro não é edificado."
+        },
+        {
+          "number": 18,
+          "text": "Eu dou graças ao meu Deus, falando em línguas estranhas muito mais que todos vós;"
+        },
+        {
+          "number": 19,
+          "text": "Mas na igreja desejo mais falar cinco palavras com o meu entendimento, para que também eu possa instruir a outros, do que dez mil palavras em uma língua estranha."
+        },
+        {
+          "number": 20,
+          "text": "Irmãos, não sejais meninos no entendimento, mas sede meninos na malícia, e adultos nos vossos entendimentos."
+        },
+        {
+          "number": 21,
+          "text": "Na lei está escrito: Por gente de outras línguas, e por outros lábios, eu falarei a este povo; e ainda assim não me ouvirão, diz o Senhor."
+        },
+        {
+          "number": 22,
+          "text": "Assim então as línguas estranhas são para sinal, não para os que estão crendo, senão para os descrentes; e a profecia, não para os descrentes, mas para aqueles que estão crendo."
+        },
+        {
+          "number": 23,
+          "text": "Portanto, se toda a igreja se ajuntar no mesmo lugar, e todos falarem em línguas estranhas, e entrarem alguns desinstruídos ou descrentes, porventura não dirão que estais loucos?"
+        },
+        {
+          "number": 24,
+          "text": "Mas caso todos profetizem, e entrar algum descrente ou desinstruído, ele é convencido por todos, ele é julgado por todos,"
+        },
+        {
+          "number": 25,
+          "text": "E assim os segredos do seu coração tornam-se manifestos, e assim lançando-se sobre o seu rosto, adorará a Deus, declarando publicamente que verdadeiramente Deus está entre vós."
+        },
+        {
+          "number": 26,
+          "text": "Que pois, é isto irmãos? Quando vos ajunteis, cada um de vós tem um salmo, tem uma doutrina, tem uma língua estranha, tem uma revelação, tem uma interpretação. Faça-se tudo para edificação:"
+        },
+        {
+          "number": 27,
+          "text": "E se alguém falar uma língua estranha, faça-se isso por dois, ou no mais por três, e a seu turno, e um interprete;"
+        },
+        {
+          "number": 28,
+          "text": "Mas caso não haja intérprete, esteja calado na igreja, e fale consigo mesmo e com Deus."
+        },
+        {
+          "number": 29,
+          "text": "E falem dois ou três profetas, e os outros julguem."
+        },
+        {
+          "number": 30,
+          "text": "Mas se a outro estando assentado, for revelado alguma coisa, esteja calado o primeiro."
+        },
+        {
+          "number": 31,
+          "text": "Porque todos podeis profetizar um por um, para que todos aprendam, e todos sejam consolados."
+        },
+        {
+          "number": 32,
+          "text": "E os espíritos dos profetas estão sujeitos aos profetas."
+        },
+        {
+          "number": 33,
+          "text": "Porque Deus não é de confusão, senão de paz, como em todas as igrejas dos santos."
+        },
+        {
+          "number": 34,
+          "text": "As vossas mulheres estejam caladas nas igrejas; porque não lhes é permitido falar, mas estarem sujeitas, como também diz a lei;"
+        },
+        {
+          "number": 35,
+          "text": "E se querem aprender alguma coisa, perguntem aos seus próprios maridos em casa; porque é vergonhoso para as mulheres falarem na igreja;"
+        },
+        {
+          "number": 36,
+          "text": "Porventura a palavra de Deus saiu de vós? Ou somente ela chegou para vós?"
+        },
+        {
+          "number": 37,
+          "text": "Se alguém supõe ser um profeta ou espiritual, reconheça que as coisas que vos escrevo, são mandamento do Senhor."
+        },
+        {
+          "number": 38,
+          "text": "Porém se alguém ignora, ignore."
+        },
+        {
+          "number": 39,
+          "text": "Portanto irmãos, zelai para o profetizar, e não impeçais o falar línguas estranhas."
+        },
+        {
+          "number": 40,
+          "text": "Faça-se tudo decentemente e com ordem."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "TAMBÉM vos notifico irmãos, o Evangelho que vos anunciei, o qual também recebestes, e no qual estais estabelecidos."
+        },
+        {
+          "number": 2,
+          "text": "Através do qual também sois salvos, se retendes a palavra tal como vos preguei o evangelho, exceto se crestes em vão."
+        },
+        {
+          "number": 3,
+          "text": "Porque, em primeiro lugar, vos entreguei o que também recebi, que Cristo morreu pelos nossos pecados, segundo as Escrituras;"
+        },
+        {
+          "number": 4,
+          "text": "E que foi sepultado, e que foi ressuscitado ao terceiro dia, segundo as Escrituras;"
+        },
+        {
+          "number": 5,
+          "text": "E que foi visto por Cefas, depois pelos doze."
+        },
+        {
+          "number": 6,
+          "text": "Depois foi visto uma vez por mais de quinhentos irmãos, dos quais a maior parte permanece viva até agora, mas também alguns já foram adormecidos."
+        },
+        {
+          "number": 7,
+          "text": "Depois foi visto por Tiago, depois por todos os apóstolos;"
+        },
+        {
+          "number": 8,
+          "text": "E por último de todos, foi visto também por mim, como um nascido fora do devido tempo."
+        },
+        {
+          "number": 9,
+          "text": "Porque eu sou o menor dos apóstolos, que não sou digno de ser chamado apóstolo, porquanto eu persegui a igreja de Deus."
+        },
+        {
+          "number": 10,
+          "text": "Mas pela graça de Deus sou o que sou, e a sua graça, aquela para comigo não foi em vão, antes trabalhei exaustivamente muito mais que todos eles; todavia não eu, senão a graça de Deus que está comigo."
+        },
+        {
+          "number": 11,
+          "text": "Portanto, quer seja eu ou sejam eles, assim nós pregamos e assim vós crestes."
+        },
+        {
+          "number": 12,
+          "text": "Ora, se é pregado que Cristo ressuscitou dentre os mortos, como dizem alguns dentre vós, que não há ressurreição dos mortos?"
+        },
+        {
+          "number": 13,
+          "text": "E se não há ressurreição dos mortos, também Cristo não está ressuscitado;"
+        },
+        {
+          "number": 14,
+          "text": "E se Cristo não está ressuscitado, então a nossa pregação é vã, e também é vã a vossa fé;"
+        },
+        {
+          "number": 15,
+          "text": "E assim somos também achados falsas testemunhas de Deus; pois testificamos concernente a Deus que ele ressuscitou o Cristo, o qual porém não ressuscitou, se na verdade então os mortos não são ressuscitados."
+        },
+        {
+          "number": 16,
+          "text": "Porque se os mortos não são ressuscitados, também Cristo não está ressuscitado;"
+        },
+        {
+          "number": 17,
+          "text": "E se Cristo não está ressuscitado, a vossa fé é vã, e ainda estais nos vossos pecados."
+        },
+        {
+          "number": 18,
+          "text": "Então também pereceram os que dormiram em Cristo."
+        },
+        {
+          "number": 19,
+          "text": "Se estamos tendo esperança em Cristo somente nesta vida; somos os mais miseráveis de todos os homens."
+        },
+        {
+          "number": 20,
+          "text": "Mas agora Cristo já está ressuscitado dentre os mortos, e foi feito as primícias daqueles que dormem."
+        },
+        {
+          "number": 21,
+          "text": "Porque, visto que a morte veio através de um homem, também através de um homem veio a ressurreição dos mortos."
+        },
+        {
+          "number": 22,
+          "text": "Porque assim como em Adão todos morrem, assim também no Cristo todos serão vivificados."
+        },
+        {
+          "number": 23,
+          "text": "Mas cada um na sua própria ordem: Cristo as primícias, depois os que são de Cristo, na sua vinda."
+        },
+        {
+          "number": 24,
+          "text": "Depois será o fim, quando ele entregar o Reino àquele que é Deus e Pai; e quando aniquilar todo império e toda potestade e força."
+        },
+        {
+          "number": 25,
+          "text": "Porque convém ele reinar, até que haja posto todos os inimigos debaixo dos seus pés."
+        },
+        {
+          "number": 26,
+          "text": "O último inimigo que será aniquilado é a morte."
+        },
+        {
+          "number": 27,
+          "text": "Porque todas as coisas sujeitou debaixo dos pés dele. Mas quando é dito que todas as coisas lhe estão sujeitas, claro que é exceto aquele que lhe sujeitou todas as coisas."
+        },
+        {
+          "number": 28,
+          "text": "Mas quando todas as coisas lhe forem sujeitas, então também o mesmo Filho se sujeitará àquele que todas as coisas lhe sujeitou, para que Deus seja tudo em todos."
+        },
+        {
+          "number": 29,
+          "text": "De outra maneira, que farão aqueles que estão sendo batizados pelos mortos, se absolutamente os mortos não são ressuscitados? Por que então são eles batizados pelos mortos?"
+        },
+        {
+          "number": 30,
+          "text": "Por que também estamos nós em perigo a toda hora?"
+        },
+        {
+          "number": 31,
+          "text": "Eu morro todo dia, sim, pela gloria a respeito de vós, que tenho em Cristo Jesus, o nosso Senhor."
+        },
+        {
+          "number": 32,
+          "text": "Se como homem combati contra as feras em Éfeso, que proveito é isto para mim, se os mortos não são ressuscitados? Comamos e bebamos, porque amanhã morremos!"
+        },
+        {
+          "number": 33,
+          "text": "Não sejais enganados: As más conversações corrompem os bons costumes."
+        },
+        {
+          "number": 34,
+          "text": "Despertai justamente, e não pequeis; porque alguns ainda têm o não conhecimento de Deus. Para vergonha vossa eu digo."
+        },
+        {
+          "number": 35,
+          "text": "Mas dirá alguém: Como são ressuscitados os mortos? E com que corpo vêm?"
+        },
+        {
+          "number": 36,
+          "text": "Insensato! O que tu semeias, não é vivificado, se primeiro não morrer."
+        },
+        {
+          "number": 37,
+          "text": "E o que tu semeias, não semeias o corpo que há de surgir, senão um grão nu, que possa ser de trigo ou de algum dos outros grãos."
+        },
+        {
+          "number": 38,
+          "text": "Mas Deus lhe dá o corpo conforme ele quis, e a cada uma das sementes o próprio corpo dela."
+        },
+        {
+          "number": 39,
+          "text": "Nem toda carne é a mesma carne, mas na verdade, uma é a carne dos homens, e outra a carne dos animais, e outra a dos peixes, e outra das aves."
+        },
+        {
+          "number": 40,
+          "text": "E há corpos celestes, e corpos terrestres; mas, na verdade, uma é a glória dos celestes, e outra a dos terrestres;"
+        },
+        {
+          "number": 41,
+          "text": "Uma é a glória do sol, e outra a glória da lua, e outra a glória das estrelas; porque uma estrela difere em glória de outra estrela."
+        },
+        {
+          "number": 42,
+          "text": "Assim também é a ressurreição dos mortos. É semeado o corpo em corrupção, é ressuscitado em incorruptibilidade."
+        },
+        {
+          "number": 43,
+          "text": "É semeado em desonra, é ressuscitado em glória. É semeado em fraqueza, é ressuscitado em força."
+        },
+        {
+          "number": 44,
+          "text": "É semeado corpo natural, é ressuscitado corpo espiritual. Há um corpo natural, e há um corpo espiritual."
+        },
+        {
+          "number": 45,
+          "text": "Assim também está escrito: O primeiro homem, Adão, foi feito alma vivente; o último Adão, espírito vivificante."
+        },
+        {
+          "number": 46,
+          "text": "Mas não foi primeiro o espiritual, mas o natural, depois o espiritual."
+        },
+        {
+          "number": 47,
+          "text": "O primeiro homem da terra, é feito de terra; o segundo homem, que é o Senhor, é do céu."
+        },
+        {
+          "number": 48,
+          "text": "Qual é o feito de terra, tais são também aqueles feitos de terra; e qual o celestial, tais também os celestiais."
+        },
+        {
+          "number": 49,
+          "text": "E como trouxemos a imagem daquele feito de terra, assim também traremos a imagem do celestial."
+        },
+        {
+          "number": 50,
+          "text": "Mas isto eu digo, irmãos, que a carne e o sangue não podem herdar o Reino de Deus, nem a corrupção herda a incorruptibilidade."
+        },
+        {
+          "number": 51,
+          "text": "Eis que eu vos digo um mistério: Nem todos na verdade dormiremos; mas todos seremos transformados."
+        },
+        {
+          "number": 52,
+          "text": "Num instante, em um abrir e fechar de olhos, na última trombeta; Porque soará uma trombeta, e os mortos serão ressuscitados incorruptíveis, e nós seremos transformados."
+        },
+        {
+          "number": 53,
+          "text": "Porque é necessário isto que é corruptível se revestir da incorruptibilidade, e isto que é mortal, se revestir da imortalidade."
+        },
+        {
+          "number": 54,
+          "text": "E quando isto que é corruptível se revestir da incorruptibilidade, e isto que é mortal se revestir da imortalidade, então se cumprirá a palavra que está escrita: Foi tragada a morte em vitória."
+        },
+        {
+          "number": 55,
+          "text": "Onde está, ó morte, o teu aguilhão? Onde está, ó inferno, a tua vitória?"
+        },
+        {
+          "number": 56,
+          "text": "Ora, o aguilhão da morte é o pecado, e a força do pecado é a lei."
+        },
+        {
+          "number": 57,
+          "text": "Mas graças a Deus, que nos dá a vitória através do nosso Senhor Jesus Cristo."
+        },
+        {
+          "number": 58,
+          "text": "Portanto meus amados irmãos, sede firmes, inabaláveis, sempre abundando na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ORA, quanto à coleta, a que é para os santos, fazei vós também o mesmo como ordenei às igrejas da Galácia."
+        },
+        {
+          "number": 2,
+          "text": "Cada primeiro dia da semana, cada um de vós ponha por ele à parte, ajuntando conforme o que tenha prosperado, para que quando eu chegar, então não sejam feitas coletas."
+        },
+        {
+          "number": 3,
+          "text": "E quando eu tiver chegado, aos que aprovardes por cartas, a estes eu enviarei para levar a vossa dádiva a Jerusalém."
+        },
+        {
+          "number": 4,
+          "text": "E caso me seja conveniente eu mesmo também ir, irão comigo."
+        },
+        {
+          "number": 5,
+          "text": "Irei porém a vós, quando tiver passado pela Macedônia; (porque passo pela Macedônia.)"
+        },
+        {
+          "number": 6,
+          "text": "E bem pode ser que convosco eu ficarei, ou também passarei o inverno, para que vós me encaminheis para onde quer que eu vá."
+        },
+        {
+          "number": 7,
+          "text": "Porque não quero vos ver agora de passagem; mas espero ficar convosco algum tempo, caso o senhor o permita."
+        },
+        {
+          "number": 8,
+          "text": "Porém permanecerei em Éfeso até o Pentecostes."
+        },
+        {
+          "number": 9,
+          "text": "Porque uma porta grande e eficaz tem sido aberta para mim, e há muitos adversários."
+        },
+        {
+          "number": 10,
+          "text": "E se Timóteo for, vede que esteja sem temor convosco; porque trabalha na obra do Senhor como também eu."
+        },
+        {
+          "number": 11,
+          "text": "Portanto ninguém o despreze; mas encaminhai-o em paz, para que venha a mim; porque o espero com os irmãos."
+        },
+        {
+          "number": 12,
+          "text": "E a respeito do irmão Apolo, muito lhe roguei que fosse a vós com os irmãos; mas absolutamente não era sua vontade que fosse agora; mas irá quando tiver oportunidade."
+        },
+        {
+          "number": 13,
+          "text": "Vigiai, permanecei firmes na fé, portai-vos varonilmente, sede fortes."
+        },
+        {
+          "number": 14,
+          "text": "Todas as vossas coisas sejam feitas em amor."
+        },
+        {
+          "number": 15,
+          "text": "Mas rogo-vos, irmãos, pois sabeis que a casa de Estefanas é as primícias da Acaia, e que dedicaram a si mesmos para o serviço aos santos;"
+        },
+        {
+          "number": 16,
+          "text": "Que também vós estejais sujeitos aos tais, e a todo aquele que está cooperando juntamente conosco e laborando."
+        },
+        {
+          "number": 17,
+          "text": "Mas regozijo pela vinda de Estefanas e Fortunato e Acaico; porque estes supriram a vossa deficiência."
+        },
+        {
+          "number": 18,
+          "text": "Porque eles recrearam o meu espírito e também o vosso. Reconhecei pois aos tais."
+        },
+        {
+          "number": 19,
+          "text": "As igrejas da Ásia vos saúdam. Aquila e Priscila muito vos saúdam no Senhor, com a igreja que está em sua casa."
+        },
+        {
+          "number": 20,
+          "text": "Todos os irmãos vos saúdam. Saudai-vos uns aos outros em um ósculo santo."
+        },
+        {
+          "number": 21,
+          "text": "A saudação da minha própria mão, de Paulo."
+        },
+        {
+          "number": 22,
+          "text": "Se alguém não ama ao Senhor Jesus Cristo, seja anátema! O nosso Senhor vem!"
+        },
+        {
+          "number": 23,
+          "text": "A graça do Senhor Jesus Cristo seja convosco."
+        },
+        {
+          "number": 24,
+          "text": "O meu amor seja com todos vós em Cristo Jesus. Amém. (A primeira Epístola aos Coríntios, foi escrita de Filipos, e enviada por Estefanas, Fortunato, Acaico, e Timóteo.)"
+        }
+      ]
+    }
+  ]
+}
