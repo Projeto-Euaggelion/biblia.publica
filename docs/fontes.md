@@ -4,6 +4,7 @@
 
 | Versão | Licença | Fonte | Completude | PR | Contribuidor |
 |--------|---------|-------|------------|----|--------------|
+| `blivre` | CC BY 3.0 | [https://github.com/blivre/BibliaLivre/tree/master](https://github.com/blivre/BibliaLivre/tree/master) | apenas o Novo Testamento disponível. | — | — |
 | `otb` | CC BY-SA 4.0 | [https://github.com/OpenTranslationBible/open-bible](https://github.com/OpenTranslationBible/open-bible) | Bíblia protestante, versão completa (66 livros). | — | — |
 
 Para detalhes completos de cada versão (fonte, licença, restrições de modificação e completude), veja o `LICENSE.md` da respectiva pasta em `versoes/`. Para os critérios de licenciamento exigidos de novas versões, veja [CONTRIBUTING.md](../CONTRIBUTING.md).
