@@ -8,13 +8,13 @@ O objetivo principal deste repositório é organizar, de forma estruturada, toda
 ## Estrutura dos arquivos
 
 - Formato json: para mais detalhes sobre a estrutura utilizada nos arquivos `.json`, leia a documentação em [docs/estrutura-json.md](docs/estrutura-json.md);
-- Formato XML: leia a documentação em [docs/estrutura-xml.md](docs/estrutura-xml.md) para mais detalhes sobre a esturutra dos arquivos no formato `.xml`.
+- Formato XML: leia a documentação em [docs/estrutura-xml.md](docs/estrutura-xml.md) para mais detalhes sobre a estrututra dos arquivos no formato `.xml`.
 
 ## Fontes utilizadas
 
 A lista de versões, com licença, fonte e completude de cada uma, é gerada automaticamente a partir dos arquivos `versoes/{versao}/LICENSE.md` e fica disponível em [docs/fontes.md](docs/fontes.md).
 
-## Contrubuições
+## Contribuições
 
 Deseja adicionar uma nova versão bíblica ou corrigir algo? Antes de abrir um Pull Request, leia os requisitos de contribuição em [CONTRIBUTING.md](CONTRIBUTING.md). Especialmente os critérios de licenciamento (domínio público ou Creative Commons), obrigatórios para qualquer versão adicionada ao projeto.
 
