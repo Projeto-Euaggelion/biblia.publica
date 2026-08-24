@@ -1,0 +1,19 @@
+{
+  "name": "Almeida 1911",
+  "abbrev": "alm1911",
+  "year": null,
+  "language": "pt-BR",
+  "textualBasis": null,
+  "completeness": {
+    "status": "complete",
+    "missingBooks": []
+  },
+  "counts": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31101
+  },
+  "knownAnomalies": [],
+  "licenseCheckedAt": "2026-08-24",
+  "filesHash": "sha256:b7f7144056f96e0d236b42b3ff05ade2218c6bfcedd456fb75ab80076fdb0afd"
+}
