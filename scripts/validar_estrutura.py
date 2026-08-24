@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
-"""Valida a estrutura dos arquivos versoes/{versao}/json/*.json.
+"""Valida a estrutura dos arquivos versoes/{versao}/json/*.json e/ou
+compara o conteudo convertido entre xml/ e json/ de cada versao.
 
-Para cada versao verifica: contagem de livros/capitulos/versiculos e
+Modo "estrutura" verifica: contagem de livros/capitulos/versiculos e
 completude declaradas em meta.json batem com os arquivos json/ atuais;
 ausencia de versiculos vazios ou duplicados; ordem crescente de
 capitulos e versiculos; codificacao UTF-8 valida sem caracteres de
 controle indevidos.
 
+Modo "diff" verifica, por livro, se xml/ e json/ representam
+exatamente o mesmo texto (mesmos capitulos, mesmos versiculos, mesmo
+texto por versiculo).
+
 Reaproveita o calculo de contagens/completude/hash de
-scripts/gerar_meta.py para comparar com o que esta declarado no
-meta.json de cada versao (ver docs/estrutura-arquivos/estrutura-meta.md).
+scripts/gerar_meta.py e o parser de XML de scripts/xml_to_json.py (ver
+docs/estrutura-arquivos/estrutura-meta.md e estrutura-xml.md).
 
 Retorna exit code 1 se algum problema for encontrado, 0 caso contrario.
 """
@@ -20,6 +25,7 @@ import argparse
 import json
 import re
 import sys
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -27,6 +33,7 @@ VERSOES_DIR = REPO_ROOT / "versoes"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from gerar_meta import compute_completeness, compute_counts_and_hash  # noqa: E402
+from xml_to_json import parse_book  # noqa: E402
 
 CONTROL_CHARS = re.compile(r"[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]")
 
@@ -120,12 +127,81 @@ def validate_version(version_dir: Path) -> list[str]:
     return issues
 
 
+def compare_book(xml_path: Path, json_path: Path) -> list[str]:
+    if not xml_path.is_file():
+        return [f"{json_path.name}: xml correspondente nao encontrado ({xml_path.name})"]
+    if not json_path.is_file():
+        return [f"{xml_path.name}: json correspondente nao encontrado ({json_path.name})"]
+
+    try:
+        xml_book = parse_book(xml_path)
+    except ET.ParseError as exc:
+        return [f"{xml_path.name}: XML invalido ({exc})"]
+
+    try:
+        json_book = json.loads(json_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        return [f"{json_path.name}: JSON invalido ({exc})"]
+
+    label = xml_path.stem
+    issues = []
+
+    xml_chapters = {c["number"]: c for c in xml_book["chapters"]}
+    json_chapters = {c["number"]: c for c in json_book["chapters"]}
+
+    for cnum in sorted(xml_chapters.keys() - json_chapters.keys()):
+        issues.append(f"{label}: capitulo {cnum} presente no xml mas ausente no json")
+    for cnum in sorted(json_chapters.keys() - xml_chapters.keys()):
+        issues.append(f"{label}: capitulo {cnum} presente no json mas ausente no xml")
+
+    for cnum in sorted(xml_chapters.keys() & json_chapters.keys()):
+        xml_verses = {v["number"]: v["text"] for v in xml_chapters[cnum]["verses"]}
+        json_verses = {v["number"]: v["text"] for v in json_chapters[cnum]["verses"]}
+
+        for vnum in sorted(xml_verses.keys() - json_verses.keys()):
+            issues.append(f"{label}: capitulo {cnum}, versiculo {vnum} presente no xml mas ausente no json")
+        for vnum in sorted(json_verses.keys() - xml_verses.keys()):
+            issues.append(f"{label}: capitulo {cnum}, versiculo {vnum} presente no json mas ausente no xml")
+
+        for vnum in sorted(xml_verses.keys() & json_verses.keys()):
+            if xml_verses[vnum] != json_verses[vnum]:
+                issues.append(f"{label}: capitulo {cnum}, versiculo {vnum} texto diverge entre xml e json")
+
+    return issues
+
+
+def compare_version(version_dir: Path) -> list[str]:
+    xml_dir = version_dir / "xml"
+    json_dir = version_dir / "json"
+    if not xml_dir.is_dir():
+        return ["pasta xml/ nao encontrada"]
+    if not json_dir.is_dir():
+        return ["pasta json/ nao encontrada"]
+
+    stems = {p.stem for p in xml_dir.glob("*.xml")} | {p.stem for p in json_dir.glob("*.json")}
+
+    issues = []
+    for stem in sorted(stems):
+        issues.extend(compare_book(xml_dir / f"{stem}.xml", json_dir / f"{stem}.json"))
+    return issues
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--version",
         dest="version",
         help="Sigla da versao a validar (ex: otb). Se omitido, valida todas as versoes em versoes/.",
+    )
+    parser.add_argument(
+        "--check",
+        dest="check",
+        choices=["estrutura", "diff", "tudo"],
+        default="tudo",
+        help=(
+            "'estrutura' valida apenas os arquivos json/ e o meta.json; 'diff' apenas compara "
+            "xml/ com json/; 'tudo' (padrao) executa os dois."
+        ),
     )
     args = parser.parse_args()
 
@@ -142,12 +218,17 @@ def main() -> int:
     versions_with_issues = 0
     for version_dir in version_dirs:
         print(f"=== {version_dir.name} ===")
-        issues = validate_version(version_dir)
+        issues: list[tuple[str, str]] = []
+        if args.check in ("estrutura", "tudo"):
+            issues.extend(("estrutura", issue) for issue in validate_version(version_dir))
+        if args.check in ("diff", "tudo"):
+            issues.extend(("diff", issue) for issue in compare_version(version_dir))
+
         if issues:
             versions_with_issues += 1
             total_issues += len(issues)
-            for issue in issues:
-                print(f"  ERRO: {issue}")
+            for check, issue in issues:
+                print(f"  ERRO [{check}]: {issue}")
         else:
             print("  OK: nenhum problema encontrado.")
 
