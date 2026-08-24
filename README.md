@@ -1,4 +1,14 @@
 # biblia.publica
+
+[![Licença](https://img.shields.io/github/license/Projeto-Euaggelion/biblia.publica)](https://github.com/Projeto-Euaggelion/biblia.publica/blob/main/LICENSE)
+[![Último commit](https://img.shields.io/github/last-commit/Projeto-Euaggelion/biblia.publica)](https://github.com/Projeto-Euaggelion/biblia.publica/commits/main)
+[![Issues abertas](https://img.shields.io/github/issues/Projeto-Euaggelion/biblia.publica)](https://github.com/Projeto-Euaggelion/biblia.publica/issues)
+[![Pull requests abertos](https://img.shields.io/github/issues-pr/Projeto-Euaggelion/biblia.publica)](https://github.com/Projeto-Euaggelion/biblia.publica/pulls)
+
+[![Fase 1](https://img.shields.io/github/milestones/progress/Projeto-Euaggelion/biblia.publica/1)](https://github.com/Projeto-Euaggelion/biblia.publica/milestone/1)
+[![Fase 2](https://img.shields.io/github/milestones/progress/Projeto-Euaggelion/biblia.publica/2)](https://github.com/Projeto-Euaggelion/biblia.publica/milestone/2)
+[![Fase 3](https://img.shields.io/github/milestones/progress/Projeto-Euaggelion/biblia.publica/3)](https://github.com/Projeto-Euaggelion/biblia.publica/milestone/3)
+
 Repositório dedicado à organização de traduções bíblicas, em português brasileiro, disponíveis em domínio público e em licenças Creative Commons.
 
 ## Objetivo
@@ -35,4 +45,4 @@ O projeto biblia.publica, entretanto, com seus scripts, ferramentas e recursos e
 
 ## Contribuidores
 
-[![Contribuidores](https://img.shields.io/github/contributors/Projeto-Euaggelion/biblia.publica)](https://github.com/Projeto-Euaggelion/biblia.publica/graphs/contributors)
+![Contribuidores](https://contrib.rocks/image?repo=Projeto-Euaggelion/biblia.publica)
