@@ -24,8 +24,8 @@ versoes/
 
 Os campos se dividem em dois grupos:
 
-- **Calculados:** derivados diretamente dos arquivos `json/` da versão (contagens, hash). Gerados/atualizados automaticamente pelo script `scripts/gerar_meta.py` ([#5](https://github.com/Projeto-Euaggelion/biblia.publica/issues/5)).
-- **Manuais:** exigem julgamento e interferência humana (base textual, idioma/dialeto, anomalias, ano). Preenchidos uma vez e preservados pelo script em atualizações futuras. O script `gerar_meta.py` nunca sobrescreve um campo manual já preenchido.
+- **Calculados:** derivados diretamente dos arquivos `json/` e do `LICENSE.md` da versão (sigla, contagens, completude, anomalias, hash). Recalculados a cada execução do script [scripts/gerar_meta.py](../../scripts/gerar_meta.py) ([#5](https://github.com/Projeto-Euaggelion/biblia.publica/issues/5), uso documentado em [docs/scripts/gerar-meta.md](../scripts/gerar-meta.md)), sobrescrevendo o valor anterior.
+- **Manuais:** exigem julgamento e interferência humana (nome oficial, base textual, idioma/dialeto, ano, data de verificação de licença). Preenchidos uma vez, diretamente no `meta.json`, e preservados pelo script em atualizações futuras — `gerar_meta.py` nunca sobrescreve um campo manual já preenchido.
 
 A coluna **Origem** na tabela abaixo indica a qual grupo cada campo pertence.
 
@@ -58,28 +58,26 @@ A coluna **Origem** na tabela abaixo indica a qual grupo cada campo pertence.
 | Campo              | Tipo             | Origem     | Descrição                                                                                     | Exemplo                          |
 |---------------------|------------------|------------|-------------------------------------------------------------------------------------------------|-----------------------------------|
 | `name`              | string           | manual     | Nome oficial completo da versão                                                                | `"Open Translation Bible - pt-br"` |
-| `abbrev`            | string           | manual     | Sigla da versão, igual ao nome da pasta em `versoes/` e ao prefixo `{versao}-` dos arquivos      | `"otb"`                           |
+| `abbrev`            | string           | calculado  | Sigla da versão, igual ao nome da pasta em `versoes/` e ao prefixo `{versao}-` dos arquivos      | `"otb"`                           |
 | `year`              | int ou string    | manual     | Ano (ou intervalo, como `"1990-2010"`) de publicação/revisão do texto-base; `null` se desconhecido | `2020`                          |
 | `language`          | string           | manual     | Idioma/dialeto do texto, como tag [BCP 47](https://www.rfc-editor.org/rfc/rfc5646)              | `"pt-BR"`                         |
 | `textualBasis`      | string ou `null` | manual     | Base textual usada na tradução (Textus Receptus, Texto Crítico, Septuaginta, etc.); `null` se não documentada pela fonte | `"Texto Crítico (Nestle-Aland / UBS)"` |
-| `completeness`      | object           | —          | Ver [Objeto `completeness`](#objeto-completeness) abaixo                                        | —                                 |
+| `completeness`      | object           | calculado  | Ver [Objeto `completeness`](#objeto-completeness) abaixo                                        | —                                 |
 | `counts`            | object           | calculado  | Ver [Objeto `counts`](#objeto-counts) abaixo                                                    | —                                 |
-| `knownAnomalies`    | array de string  | manual     | Lista de peculiaridades conhecidas do texto/arquivos desta versão (ver equivalente em [estrutura-json.md](estrutura-json.md#observações-e-inconsistências-conhecidas)); lista vazia (`[]`) se não há nenhuma | ver exemplo acima |
+| `knownAnomalies`    | array de string  | calculado  | Lista de peculiaridades conhecidas do texto/arquivos desta versão, copiada do campo **Anomalias** de `LICENSE.md` ([formato](../../CONTRIBUTING.md#documentação-da-licença-por-versão); ver equivalente em [estrutura-json.md](estrutura-json.md#observações-e-inconsistências-conhecidas)); lista vazia (`[]`) se `LICENSE.md` não declarar nenhuma | ver exemplo acima |
 | `licenseCheckedAt`  | string (data)    | manual     | Data (`AAAA-MM-DD`) da última verificação de que a licença declarada em `LICENSE.md` continua válida na fonte original | `"2026-08-01"`                   |
 | `filesHash`         | string           | calculado  | Hash SHA-256 do conjunto de arquivos `json/` da versão, prefixado com `sha256:` (ver [cálculo do hash](#cálculo-do-filesHash)) | `"sha256:9e7a46bf..."`           |
 
 ### Objeto `completeness`
 
-Representa, em formato estruturado, a mesma informação do campo **Completude** de `LICENSE.md`.
+Representa, em formato estruturado, a mesma informação do campo **Completude** de `LICENSE.md`. É calculado automaticamente comparando os arquivos presentes em `json/` com a lista canônica dos 66 livros do cânon protestante ([tabela de livros](estrutura-xml.md#tabela-de-livros)) — não é editado manualmente.
 
 | Campo           | Tipo             | Origem    | Descrição                                                                 | Exemplo    |
 |------------------|------------------|-----------|------------------------------------------------------------------------------|------------|
-| `status`         | string (enum)    | manual    | `"complete"` (66 livros protestantes) ou `"incomplete"`                      | `"complete"` |
-| `missingBooks`   | array de string  | manual    | Siglas ([tabela de livros](estrutura-xml.md#tabela-de-livros)) dos livros ausentes; `[]` quando `status` é `"complete"` | `["ap"]` |
+| `status`         | string (enum)    | calculado | `"complete"` (todos os 66 livros protestantes presentes) ou `"incomplete"`   | `"complete"` |
+| `missingBooks`   | array de string  | calculado | Siglas ([tabela de livros](estrutura-xml.md#tabela-de-livros)) dos livros da lista canônica ausentes em `json/`; `[]` quando `status` é `"complete"` | `["ap"]` |
 
-**Importante:** versões com livros deuterocanônicos, ou cânon diferente do protestante (66 livros), são tratadas por `status`/`missingBooks` apenas quanto à completude do que a versão se propõe a conter. Ou seja, uma versão católica que possua 66 livros será considerada não completa mesmo contendo a mesma quantidade de livros de uma versão protestante.
-
-A comparação formal entre cânones fica a cargo de `docs/canonicidade.md` ([1.8](../plano-desenvolvimento.md), [#10](https://github.com/Projeto-Euaggelion/biblia.publica/issues/10)).
+**Importante:** por só comparar contra o cânon protestante de 66 livros, `status`/`missingBooks` ainda não distinguem "faltam livros" de "cânon diferente" — uma versão católica com todos os deuterocanônicos, mas sem repetir o mesmo agrupamento dos 66 protestantes, pode aparecer como `"incomplete"`. Essa limitação é conhecida e será resolvida quando `docs/canonicidade.md` ([1.8](../plano-desenvolvimento.md), [#10](https://github.com/Projeto-Euaggelion/biblia.publica/issues/10)) definir o cânon de cada versão; até lá, as 5 versões atuais do repositório seguem o cânon protestante, então o cálculo é correto para todas elas.
 
 ### Objeto `counts`
 
@@ -115,5 +113,5 @@ Qualquer alteração de conteúdo, adição ou remoção de livro muda o `filesH
 ## Observações e inconsistências conhecidas
 
 - `year`, `textualBasis` e `language` podem ser `null` quando a fonte original não documenta essa informação. Não é permitido inventar um valor para preencher o campo.
-- `knownAnomalies` registra peculiaridades dos **arquivos desta versão** (ex.: capítulo `0` vazio); não deve ser usado para registrar divergências de tradução entre versões, isso é escopo de `docs/comparacao-versiculos.md` ([1.9](../plano-desenvolvimento.md)).
+- `knownAnomalies` registra peculiaridades dos **arquivos desta versão** (ex.: capítulo `0` vazio); não deve ser usado para registrar divergências de tradução entre versões, isso é escopo de `docs/comparacao-versiculos.md` ([1.9](../plano-desenvolvimento.md)). Para corrigir esse campo, edite o **Anomalias** do `LICENSE.md` da versão e rode `gerar_meta.py` novamente — editar `meta.json` diretamente é sobrescrito na próxima execução.
 - `licenseCheckedAt` reflete apenas a data da última checagem manual; não expira automaticamente nem é recalculado por `gerar_meta.py`.
