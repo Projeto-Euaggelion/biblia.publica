@@ -2,15 +2,16 @@
 
 Este documento descreve o uso do script responsável por validar a estrutura dos arquivos `versoes/{versao}/json/*.json`, sua coerência com `meta.json`, e a fidelidade da conversão entre `xml/` e `json/` de cada versão.
 
-- [scripts/validar_estrutura.py](../../scripts/validar_estrutura.py) roda três modos de verificação, individualmente ou em conjunto:
+- [scripts/validar_estrutura.py](../../scripts/validar_estrutura.py) roda quatro modos de verificação, individualmente ou em conjunto:
   - **`estrutura`** — os arquivos `.json` de uma versão estão bem formados e `meta.json` reflete corretamente o conteúdo atual desses arquivos.
   - **`diff`** — `xml/` e `json/` de uma versão representam exatamente o mesmo texto.
   - **`schema`** — os arquivos `.json` de uma versão validam contra [docs/schema/biblia.schema.json](../schema/biblia.schema.json) (JSON Schema Draft 2020-12).
+  - **`xsd`** — os arquivos `.xml` de uma versão validam contra [docs/schema/biblia.xsd](../schema/biblia.xsd) (XML Schema).
 
 ## Requisitos
 
 - Python 3.9 ou superior.
-- Os modos `estrutura` e `diff` não precisam de dependência externa, apenas a biblioteca padrão. O modo `schema` (incluído em `tudo`) requer o pacote [`jsonschema`](https://pypi.org/project/jsonschema/), listado em [scripts/requirements.txt](../../scripts/requirements.txt):
+- Os modos `estrutura` e `diff` não precisam de dependência externa, apenas a biblioteca padrão. Os modos `schema` e `xsd` (incluídos em `tudo`) requerem, respectivamente, os pacotes [`jsonschema`](https://pypi.org/project/jsonschema/) e [`lxml`](https://pypi.org/project/lxml/), listados em [scripts/requirements.txt](../../scripts/requirements.txt):
 
   ```bash
   pip install -r scripts/requirements.txt
@@ -19,13 +20,13 @@ Este documento descreve o uso do script responsável por validar a estrutura dos
 ## Uso
 
 ```bash
-python scripts/validar_estrutura.py [--version <versao>] [--check {estrutura,diff,schema,tudo}]
+python scripts/validar_estrutura.py [--version <versao>] [--check {estrutura,diff,schema,xsd,tudo}]
 ```
 
 | Parâmetro   | Obrigatório | Descrição                                                                                       |
 |-------------|-------------|---------------------------------------------------------------------------------------------------|
 | `--version` | Não         | Sigla da versão a validar (ex.: `blivre`). Se for omitido, valida todas as versões em `versoes/`.    |
-| `--check`   | Não         | `estrutura` roda só a validação de `json/`/`meta.json`; `diff` roda só a comparação `xml/` × `json/`; `schema` roda só a validação contra o JSON Schema; `tudo` (padrão) roda os três. |
+| `--check`   | Não         | `estrutura` roda só a validação de `json/`/`meta.json`; `diff` roda só a comparação `xml/` × `json/`; `schema` roda só a validação contra o JSON Schema; `xsd` roda só a validação contra o XSD; `tudo` (padrão) roda os quatro. |
 
 ### Exemplos
 
@@ -79,9 +80,13 @@ Para cada versão, o script casa os arquivos de `xml/` e `json/` pelo nome (`{ve
 
 Para cada versão, cada arquivo `versoes/{versao}/json/*.json` é validado contra [docs/schema/biblia.schema.json](../schema/biblia.schema.json) usando o pacote `jsonschema`: tipos dos campos (`name`/`abbrev` string, `number` inteiro, `text` string não vazia), campos obrigatórios (`name`, `abbrev`, `chapters`, `number`, `verses`, `text`), ausência de campos extras, e formato da sigla (`abbrev`, ver [tabela de livros](../estrutura-arquivos/estrutura-xml.md#tabela-de-livros)). Esse modo cobre a forma dos dados; ordem crescente, duplicatas e caracteres de controle continuam sendo verificados pelo modo `estrutura`.
 
+### Modo `xsd`
+
+Para cada versão, cada arquivo `versoes/{versao}/xml/*.xml` é validado contra [docs/schema/biblia.xsd](../schema/biblia.xsd) usando o pacote `lxml`: elemento raiz `<book>` com atributos `name`/`abbrev`/`chapters`, um ou mais `<chapter>` com atributo `number`, cada um com um ou mais `<verse>` de texto não vazio e atributo `number`, e formato da sigla (`abbrev`). Equivalente XML do modo `schema`.
+
 ## Relatório e exit code
 
-O script imprime, por versão, `OK` quando nada é encontrado ou uma lista de linhas `ERRO [estrutura]:`/`ERRO [diff]:`/`ERRO [schema]:` com o problema e sua localização (arquivo, capítulo, versículo, ou caminho dentro do JSON). Ao final, imprime um resumo com o total de versões verificadas, versões com problema e problemas encontrados, somando os modos executados quando `--check tudo` é usado.
+O script imprime, por versão, `OK` quando nada é encontrado ou uma lista de linhas `ERRO [estrutura]:`/`ERRO [diff]:`/`ERRO [schema]:`/`ERRO [xsd]:` com o problema e sua localização (arquivo, capítulo, versículo, caminho dentro do JSON, ou linha do XML). Ao final, imprime um resumo com o total de versões verificadas, versões com problema e problemas encontrados, somando os modos executados quando `--check tudo` é usado.
 
 Retorna exit code `0` se nenhum problema for encontrado em nenhuma versão, ou `1` caso contrário — pensado para uso em CI (ver [1.7](../projeto/plano-desenvolvimento.md#17-integrar-validação-ao-ci-9)).
 

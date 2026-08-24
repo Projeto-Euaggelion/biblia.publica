@@ -32,6 +32,8 @@ versoes/
 
 Onde `{versao}` é a sigla da versão (`blivre`, `nva`) e `{abbrev}` é a sigla do livro (ver tabela abaixo). Exemplo: `blivre-1co.xml` é o livro de 1 Coríntios na versão Bíblia Livre.
 
+O formato descrito neste documento tem uma definição formal em [docs/schema/biblia.xsd](../schema/biblia.xsd) (XML Schema). Todos os arquivos `versoes/{versao}/xml/*.xml` devem validar contra esse XSD — verificação feita pelo modo `xsd` de [scripts/validar_estrutura.py](../../scripts/validar_estrutura.py) (ver [validar-estrutura.md](../scripts/validar-estrutura.md)).
+
 ## Codificação
 
 Todos os arquivos começam com a declaração:

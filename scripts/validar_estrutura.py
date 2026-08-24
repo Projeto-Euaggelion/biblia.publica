@@ -16,6 +16,10 @@ Modo "schema" verifica, por livro, se o .json valida contra
 docs/schema/biblia.schema.json (JSON Schema Draft 2020-12), e requer o
 pacote jsonschema (ver scripts/requirements.txt).
 
+Modo "xsd" verifica, por livro, se o .xml valida contra
+docs/schema/biblia.xsd, e requer o pacote lxml (ver
+scripts/requirements.txt).
+
 Reaproveita o calculo de contagens/completude/hash de
 scripts/gerar_meta.py e o parser de XML de scripts/xml_to_json.py (ver
 docs/estrutura-arquivos/estrutura-meta.md e estrutura-xml.md).
@@ -35,6 +39,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 VERSOES_DIR = REPO_ROOT / "versoes"
 SCHEMA_PATH = REPO_ROOT / "docs" / "schema" / "biblia.schema.json"
+XSD_PATH = REPO_ROOT / "docs" / "schema" / "biblia.xsd"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from gerar_meta import compute_completeness, compute_counts_and_hash  # noqa: E402
@@ -171,6 +176,42 @@ def validate_version_schema(version_dir: Path, validator) -> list[str]:
     return issues
 
 
+def load_xsd_validator():
+    try:
+        from lxml import etree
+    except ImportError as exc:
+        raise SystemExit(
+            "erro: o modo 'xsd' requer o pacote lxml "
+            "(pip install -r scripts/requirements.txt)"
+        ) from exc
+
+    return etree.XMLSchema(etree.parse(str(XSD_PATH)))
+
+
+def validate_book_xsd(path: Path, validator) -> list[str]:
+    from lxml import etree
+
+    try:
+        doc = etree.parse(str(path))
+    except etree.XMLSyntaxError as exc:
+        return [f"{path.name}: XML invalido ({exc})"]
+
+    if validator.validate(doc):
+        return []
+    return [f"{path.name}: {error.message} (linha {error.line})" for error in validator.error_log]
+
+
+def validate_version_xsd(version_dir: Path, validator) -> list[str]:
+    xml_dir = version_dir / "xml"
+    if not xml_dir.is_dir():
+        return ["pasta xml/ nao encontrada"]
+
+    issues = []
+    for path in sorted(xml_dir.glob("*.xml")):
+        issues.extend(validate_book_xsd(path, validator))
+    return issues
+
+
 def compare_book(xml_path: Path, json_path: Path) -> list[str]:
     if not xml_path.is_file():
         return [f"{json_path.name}: xml correspondente nao encontrado ({xml_path.name})"]
@@ -240,12 +281,12 @@ def main() -> int:
     parser.add_argument(
         "--check",
         dest="check",
-        choices=["estrutura", "diff", "schema", "tudo"],
+        choices=["estrutura", "diff", "schema", "xsd", "tudo"],
         default="tudo",
         help=(
             "'estrutura' valida apenas os arquivos json/ e o meta.json; 'diff' apenas compara "
             "xml/ com json/; 'schema' valida json/ contra docs/schema/biblia.schema.json; "
-            "'tudo' (padrao) executa os tres."
+            "'xsd' valida xml/ contra docs/schema/biblia.xsd; 'tudo' (padrao) executa os quatro."
         ),
     )
     args = parser.parse_args()
@@ -260,6 +301,7 @@ def main() -> int:
         version_dirs = sorted(d for d in VERSOES_DIR.iterdir() if d.is_dir())
 
     schema_validator = load_schema_validator() if args.check in ("schema", "tudo") else None
+    xsd_validator = load_xsd_validator() if args.check in ("xsd", "tudo") else None
 
     total_issues = 0
     versions_with_issues = 0
@@ -272,6 +314,8 @@ def main() -> int:
             issues.extend(("diff", issue) for issue in compare_version(version_dir))
         if args.check in ("schema", "tudo"):
             issues.extend(("schema", issue) for issue in validate_version_schema(version_dir, schema_validator))
+        if args.check in ("xsd", "tudo"):
+            issues.extend(("xsd", issue) for issue in validate_version_xsd(version_dir, xsd_validator))
 
         if issues:
             versions_with_issues += 1

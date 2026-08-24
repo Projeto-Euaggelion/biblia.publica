@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+  <xs:annotation>
+    <xs:documentation xml:lang="pt">
+      Formato dos arquivos versoes/{versao}/xml/{versao}-{abbrev}.xml, descrito em
+      docs/estrutura-arquivos/estrutura-xml.md. Cada arquivo representa um unico livro:
+      elemento raiz &lt;book&gt; com nome, sigla e numero total de capitulos, contendo
+      um ou mais &lt;chapter&gt;, cada um com um ou mais &lt;verse&gt;.
+    </xs:documentation>
+  </xs:annotation>
+
+  <xs:element name="book">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="chapter" type="chapterType" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="name" type="xs:string" use="required"/>
+      <xs:attribute name="abbrev" type="abbrevType" use="required"/>
+      <xs:attribute name="chapters" type="xs:positiveInteger" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:complexType name="chapterType">
+    <xs:sequence>
+      <xs:element name="verse" type="verseType" minOccurs="1" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="number" type="xs:positiveInteger" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="verseType">
+    <xs:simpleContent>
+      <xs:extension base="nonEmptyString">
+        <xs:attribute name="number" type="xs:positiveInteger" use="required"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+  <xs:simpleType name="nonEmptyString">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="1"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="abbrevType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[1-3]?[a-z]{2,3}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>
