@@ -32,3 +32,7 @@ Ferramentas de IA são usadas no desenvolvimento de scripts, automações e docu
 Cada tradução bíblica indexada neste projeto possuí sua própria licença de uso. Detalhes como: tipo de licença, fonte do conteúdo, página pública para conferência da licença, modificações permitidas e detalhes de completude da versão estão disponíveis em `versoes/{versao}/LICENSE.md`.
 
 O projeto biblia.publica, entretanto, com seus scripts, ferramentas e recursos está licenciado sob uma licença `Creative Commons Attribution-ShareAlike 4.0 International`.
+
+## Contribuidores
+
+[![Contribuidores](https://img.shields.io/github/contributors/Projeto-Euaggelion/biblia.publica)](https://github.com/Projeto-Euaggelion/biblia.publica/graphs/contributors)
