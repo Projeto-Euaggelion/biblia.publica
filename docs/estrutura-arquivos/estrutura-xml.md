@@ -17,16 +17,11 @@ versoes/
 │   └── xml/
 │       ├── jfaal-gn.xml
 │       └── ...
-├── otb/
-│   └── xml/
-│       ├── otb-gn.xml
-│       └── ...
 └── etc...
 ```
 
 - `blivre` — Bíblia Livre
 - `jfaal` — João Ferreira de Almeida Atualizada Livre
-- `otb` — Open Translate Bible
 - etc...
 
 ### Convenção de nomes de arquivo
@@ -35,7 +30,7 @@ versoes/
 {versao}-{abbrev}.xml
 ```
 
-Onde `{versao}` é a sigla da versão (`blivre`, `jfaal`, `otb`) e `{abbrev}` é a sigla do livro (ver tabela abaixo). Exemplo: `jfaal-1co.xml` é o livro de 1 Coríntios na versão João Ferreira de Almeida Atualizada Livre.
+Onde `{versao}` é a sigla da versão (`blivre`, `jfaal`) e `{abbrev}` é a sigla do livro (ver tabela abaixo). Exemplo: `jfaal-1co.xml` é o livro de 1 Coríntios na versão João Ferreira de Almeida Atualizada Livre.
 
 ## Codificação
 
@@ -45,7 +40,7 @@ Todos os arquivos começam com a declaração:
 <?xml version="1.0" encoding="UTF-8"?>
 ```
 
-Aspas retas (`"`) dentro do texto dos versículos aparecem, em alguns arquivos, como entidade `&quot;`; em outros (principalmente na versão `otb`) o texto usa aspas tipográficas (`“ ” ‘ ’`) e travessão (`—`) diretamente como caracteres Unicode. O sinal `>` também pode aparecer escapado como `&gt;`.
+Aspas retas (`"`) dentro do texto dos versículos aparecem, em alguns arquivos, como entidade `&quot;`; em outros o texto usa aspas tipográficas (`“ ” ‘ ’`) e travessão (`—`) diretamente como caracteres Unicode. O sinal `>` também pode aparecer escapado como `&gt;`.
 
 ## Hierarquia dos elementos
 
@@ -92,7 +87,6 @@ Um versículo do capítulo. O texto do versículo é o conteúdo textual do elem
 
 ## Observações e inconsistências conhecidas
 
-- O arquivo `versoes/otb/xml/otb-1rs.xml` possui um `<chapter number="0">` vazio (sem versículos) antes do capítulo `1`. Trata-se de uma particularidade herdada da fonte original, não um padrão do formato.
 - O estilo de aspas e pontuação (retas vs. tipográficas, uso de travessão) varia entre versões, refletindo o texto original de cada tradução, não há normalização entre elas.
 - Não há marcação de formatação (itálico, notas de rodapé, referências cruzadas, poesia, etc.), cada `<verse>` contém apenas texto plano.
 

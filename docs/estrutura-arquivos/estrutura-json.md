@@ -23,18 +23,11 @@ versoes/
 │   │   └── ...
 │   └── xml/
 │       └── ...
-├── otb/
-│   ├── json/
-│   │   ├── otb-gn.json
-│   │   └── ...
-│   └── xml/
-│       └── ...
 └── etc...
 ```
 
 - `blivre` — Bíblia Livre
 - `jfaal` — João Ferreira de Almeida Atualizada Livre
-- `otb` — Open Translate Bible
 - etc...
 
 ### Convenção de nomes de arquivo
@@ -43,7 +36,7 @@ versoes/
 {versao}-{abbrev}.json
 ```
 
-Onde `{versao}` é a sigla da versão (`blivre`, `jfaal`,`otb`) e `{abbrev}` é a sigla do livro (ver tabela em [estrutura-xml.md](estrutura-xml.md#tabela-de-livros)). Exemplo: `otb-1co.json` é o livro de 1 Coríntios na versão Open Translate Bible.
+Onde `{versao}` é a sigla da versão (`blivre`, `jfaal`) e `{abbrev}` é a sigla do livro (ver tabela em [estrutura-xml.md](estrutura-xml.md#tabela-de-livros)). Exemplo: `jfaal-1co.json` é o livro de 1 Coríntios na versão João Ferreira de Almeida Atualizada Livre.
 
 ## Codificação
 
@@ -99,7 +92,6 @@ Diferente do XML, o objeto raiz não repete o número total de capítulos (`chap
 
 ## Observações e inconsistências conhecidas
 
-- O arquivo `versoes/otb/json/otb-1rs.json` possui um capítulo `{ "number": 0, "verses": [] }` antes do capítulo `1`, herdado diretamente do XML de origem (ver observação equivalente em [estrutura-xml.md](estrutura-xml.md)).
 - O estilo de aspas e pontuação (retas vs. tipográficas, uso de travessão) varia entre versões, refletindo o texto original de cada tradução — a conversão para JSON não normaliza esse texto.
 - Não há marcação de formatação (itálico, notas de rodapé, referências cruzadas, poesia, etc.) — cada versículo é apenas uma string de texto plano no campo `text`.
 - Os arquivos JSON são gerados automaticamente a partir dos XML; qualquer correção de conteúdo deve ser feita no `.xml` correspondente e o script `scripts/xml_to_json.py` deve ser executado novamente para regenerar o `.json`.

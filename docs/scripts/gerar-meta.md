@@ -18,7 +18,7 @@ python scripts/gerar_meta.py [--version <versao>]
 
 | Parâmetro   | Obrigatório | Descrição                                                                                  |
 |-------------|-------------|----------------------------------------------------------------------------------------------|
-| `--version` | Não         | Sigla da versão a ser gerada/atualizada (ex.: `otb`). Se for omitido, atualiza todas as versões em `versoes/` que possuam uma pasta `json/`. |
+| `--version` | Não         | Sigla da versão a ser gerada/atualizada (ex.: `blivre`). Se for omitido, atualiza todas as versões em `versoes/` que possuam uma pasta `json/`. |
 
 ### Exemplos
 

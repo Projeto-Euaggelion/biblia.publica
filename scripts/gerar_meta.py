@@ -149,7 +149,7 @@ def main() -> int:
     parser.add_argument(
         "--version",
         dest="version",
-        help="Sigla da versao a atualizar (ex: otb). Se omitido, atualiza todas as versoes com pasta json/.",
+        help="Sigla da versao a atualizar (ex: blivre). Se omitido, atualiza todas as versoes com pasta json/.",
     )
     args = parser.parse_args()
 

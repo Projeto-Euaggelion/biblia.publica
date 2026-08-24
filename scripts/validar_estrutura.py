@@ -191,7 +191,7 @@ def main() -> int:
     parser.add_argument(
         "--version",
         dest="version",
-        help="Sigla da versao a validar (ex: otb). Se omitido, valida todas as versoes em versoes/.",
+        help="Sigla da versao a validar (ex: blivre). Se omitido, valida todas as versoes em versoes/.",
     )
     parser.add_argument(
         "--check",

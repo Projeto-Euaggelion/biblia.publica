@@ -8,6 +8,5 @@
 | `jfaal` | CC BY 3.0 | [https://github.com/BibliaJFAAL/JFAAL](https://github.com/BibliaJFAAL/JFAAL) | Bíblia Protestante, 66 livros completos. | — | — |
 | `nt-a1819a` | CC BY-NC-ND 3.0 | [https://sites.google.com/site/ntalmeida1819a/](https://sites.google.com/site/ntalmeida1819a/) | apenas o Novo Testamento disponível. | — | — |
 | `nva` | CC BY-SA 4.0 | [https://git.door43.org/alexandre_brazil](https://git.door43.org/alexandre_brazil) | Bíblia Protestante, 66 livros completos. | — | — |
-| `otb` | CC BY-SA 4.0 | [https://github.com/OpenTranslationBible/open-bible](https://github.com/OpenTranslationBible/open-bible) | Bíblia protestante, versão completa (66 livros). | — | — |
 
 Para detalhes completos de cada versão (fonte, licença, restrições de modificação e completude), veja o `LICENSE.md` da respectiva pasta em `versoes/`. Para os critérios de licenciamento exigidos de novas versões, veja [CONTRIBUTING.md](../CONTRIBUTING.md).

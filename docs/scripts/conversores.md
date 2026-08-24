@@ -22,7 +22,7 @@ python scripts/json_to_xml.py --version [versao] --book [abreviacao|all]
 
 | Parâmetro   | Obrigatório | Descrição                                                                 |
 |-------------|-------------|-----------------------------------------------------------------------------|
-| `--version` | Sim         | Sigla da versão a converter (`blivre`, `otb`, `tb`).                        |
+| `--version` | Sim         | Sigla da versão a converter (`blivre`, `tb`).                        |
 | `--book`    | Sim         | Sigla do livro a converter (ex.: `gn`, `mt`) ou `all` para converter todos os livros da versão. |
 
 A sigla do livro (`--book`) segue a mesma convenção usada no nome dos arquivos (`{versao}-{abbrev}.xml` / `.json`) — ver [Tabela de livros](../estrutura-arquivos/estrutura-xml.md#tabela-de-livros).
@@ -41,10 +41,10 @@ Converter todos os livros da Tradução Brasileira, de XML para JSON:
 python scripts/xml_to_json.py --version tb --book all
 ```
 
-Regenerar o XML de Mateus da versão Open Translate Bible a partir do JSON:
+Regenerar o XML de Mateus da versão Bíblia Livre a partir do JSON:
 
 ```bash
-python scripts/json_to_xml.py --version otb --book mt
+python scripts/json_to_xml.py --version blivre --book mt
 ```
 
 Regenerar todos os arquivos XML da versão Bíblia Livre a partir dos JSON:

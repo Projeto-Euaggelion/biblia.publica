@@ -52,7 +52,7 @@ def main() -> int:
         "--version",
         required=True,
         dest="version",
-        help="Nome da versao a converter (ex: blivre, otb, tb).",
+        help="Nome da versao a converter (ex: blivre, tb).",
     )
     parser.add_argument(
         "--book",

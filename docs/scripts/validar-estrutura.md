@@ -18,7 +18,7 @@ python scripts/validar_estrutura.py [--version <versao>] [--check {estrutura,dif
 
 | Parâmetro   | Obrigatório | Descrição                                                                                       |
 |-------------|-------------|---------------------------------------------------------------------------------------------------|
-| `--version` | Não         | Sigla da versão a validar (ex.: `otb`). Se for omitido, valida todas as versões em `versoes/`.    |
+| `--version` | Não         | Sigla da versão a validar (ex.: `jfaal`). Se for omitido, valida todas as versões em `versoes/`.    |
 | `--check`   | Não         | `estrutura` roda só a validação de `json/`/`meta.json`; `diff` roda só a comparação `xml/` × `json/`; `tudo` (padrão) roda os dois. |
 
 ### Exemplos
@@ -29,10 +29,10 @@ Rodar as duas verificações sobre todas as versões (padrão):
 python scripts/validar_estrutura.py
 ```
 
-Validar apenas a estrutura da versão Open Translation Bible:
+Validar apenas a estrutura da versão João Ferreira de Almeida Atualizada Livre:
 
 ```bash
-python scripts/validar_estrutura.py --version otb --check estrutura
+python scripts/validar_estrutura.py --version jfaal --check estrutura
 ```
 
 Comparar apenas xml/ e json/ de todas as versões:
