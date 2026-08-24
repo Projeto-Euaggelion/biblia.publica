@@ -78,7 +78,7 @@ Os arquivos devem seguir a estrutura já documentada em [docs/estrutura-xml.md](
 
 **Você pode enviar o PR apenas em XML ou apenas em JSON**, não é obrigatório trazer os dois formatos prontos. O repositório disponibiliza scripts de conversão em `scripts/` (`xml_to_json.py` e o equivalente `json_to_xml.py`) para gerar o formato que faltar antes do merge.
 
-Antes de abrir o PR, verifique se os arquivos enviados são bem formados e passam pelo script de conversão sem erros.
+Antes de abrir o PR, verifique se os arquivos enviados são bem formados e passam pelo script de conversão sem erros. Todo PR que altere arquivos em `versoes/**` roda automaticamente o [`scripts/validar_estrutura.py`](scripts/validar_estrutura.py) via o workflow [`validar.yml`](.github/workflows/validar.yml), verificando estrutura, ordem de capítulos/versículos, versículos vazios/duplicados e consistência entre `xml/` e `json/`. O PR não pode ser mesclado se essa checagem falhar. Você pode rodar o mesmo script localmente antes de abrir o PR: `python scripts/validar_estrutura.py --version {sigla}`.
 
 ## O que não é aceito
 
@@ -96,3 +96,4 @@ Antes de abrir o PR, verifique se os arquivos enviados são bem formados e passa
 - [ ] Se a licença for `ND`, nenhuma alteração de texto foi feita além da conversão de formato
 - [ ] Se a versão for incompleta, os livros faltantes estão listados no `LICENSE.md`
 - [ ] Se o PR altera arquivos de texto bíblico (`versoes/{versao}/xml/**` ou `json/**`), confirmo que nenhuma IA foi usada para gerar, corrigir ou revisar esse conteúdo (ver [POLITICA_IA.md](POLITICA_IA.md))
+- [ ] `python scripts/validar_estrutura.py` roda sem erros para a versão alterada
