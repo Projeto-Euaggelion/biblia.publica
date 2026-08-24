@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Gera docs/fontes.md a partir dos arquivos versoes/*/LICENSE.md.
+"""Gera docs/texto-biblico/fontes.md a partir dos arquivos versoes/*/LICENSE.md.
 
 Para cada versao com um LICENSE.md, extrai licenca/fonte/completude e
 descobre o PR e o autor do ultimo commit que alterou aquele arquivo
-(via `git log` + `gh api`), montando uma tabela-indice em docs/fontes.md.
+(via `git log` + `gh api`), montando uma tabela-indice em docs/texto-biblico/fontes.md.
 
 Este script e pensado para rodar no workflow
 .github/workflows/atualizar-fontes.yml apos um push na branch principal,
@@ -22,7 +22,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 VERSOES_DIR = REPO_ROOT / "versoes"
-OUTPUT_PATH = REPO_ROOT / "docs" / "fontes.md"
+OUTPUT_PATH = REPO_ROOT / "docs" / "texto-biblico" / "fontes.md"
 
 FIELD_PATTERN = re.compile(r"^(?:-\s+)?\*\*(.+?):\*\*\s*(.+)$")
 
@@ -143,7 +143,7 @@ def main() -> int:
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(content, encoding="utf-8")
-    print(f"docs/fontes.md atualizado com {len(rows)} versao(oes).")
+    print(f"docs/texto-biblico/fontes.md atualizado com {len(rows)} versao(oes).")
     return 0
 
 

@@ -75,7 +75,7 @@ Representa, em formato estruturado, a mesma informação do campo **Completude**
 | `status`         | string (enum)    | calculado | `"complete"` (todos os 66 livros protestantes presentes) ou `"incomplete"`   | `"complete"` |
 | `missingBooks`   | array de string  | calculado | Siglas ([tabela de livros](estrutura-xml.md#tabela-de-livros)) dos livros da lista canônica ausentes em `json/`; `[]` quando `status` é `"complete"` | `["ap"]` |
 
-**Importante:** por só comparar contra o cânon protestante de 66 livros, `status`/`missingBooks` ainda não distinguem "faltam livros" de "cânon diferente" — uma versão católica com todos os deuterocanônicos, mas sem repetir o mesmo agrupamento dos 66 protestantes, pode aparecer como `"incomplete"`. O cânon de cada versão está documentado em [docs/canonicidade.md](../canonicidade.md); como todas as versões atuais do repositório seguem o cânon protestante, o cálculo é correto para todas elas por ora, mas ainda não considera essa informação automaticamente — isso fica para quando uma versão de outro cânon for adicionada.
+**Importante:** por só comparar contra o cânon protestante de 66 livros, `status`/`missingBooks` ainda não distinguem "faltam livros" de "cânon diferente" — uma versão católica com todos os deuterocanônicos, mas sem repetir o mesmo agrupamento dos 66 protestantes, pode aparecer como `"incomplete"`. O cânon de cada versão está documentado em [docs/texto-biblico/canonicidade.md](../texto-biblico/canonicidade.md); como todas as versões atuais do repositório seguem o cânon protestante, o cálculo é correto para todas elas por ora, mas ainda não considera essa informação automaticamente — isso fica para quando uma versão de outro cânon for adicionada.
 
 ### Objeto `counts`
 
@@ -106,10 +106,10 @@ for f in files:
 files_hash = f"sha256:{h.hexdigest()}"
 ```
 
-Qualquer alteração de conteúdo, adição ou remoção de livro muda o `filesHash`, é o mesmo valor que `scripts/validar_estrutura.py` ([1.5](../plano-desenvolvimento.md)) poderá usar para detectar divergência entre o `meta.json` declarado e os arquivos reais.
+Qualquer alteração de conteúdo, adição ou remoção de livro muda o `filesHash`, é o mesmo valor que `scripts/validar_estrutura.py` ([1.5](../projeto/plano-desenvolvimento.md)) poderá usar para detectar divergência entre o `meta.json` declarado e os arquivos reais.
 
 ## Observações e inconsistências conhecidas
 
 - `year`, `textualBasis` e `language` podem ser `null` quando a fonte original não documenta essa informação. Não é permitido inventar um valor para preencher o campo.
-- `knownAnomalies` registra peculiaridades dos **arquivos desta versão** (ex.: capítulo `0` vazio); não deve ser usado para registrar divergências de tradução entre versões, isso é escopo de `docs/comparacao-versiculos.md` ([1.9](../plano-desenvolvimento.md)). Para corrigir esse campo, edite o **Anomalias** do `LICENSE.md` da versão e rode `gerar_meta.py` novamente — editar `meta.json` diretamente é sobrescrito na próxima execução.
+- `knownAnomalies` registra peculiaridades dos **arquivos desta versão** (ex.: capítulo `0` vazio); não deve ser usado para registrar divergências de tradução entre versões, isso é escopo de `docs/texto-biblico/comparacao-versiculos.md` ([1.9](../projeto/plano-desenvolvimento.md)). Para corrigir esse campo, edite o **Anomalias** do `LICENSE.md` da versão e rode `gerar_meta.py` novamente — editar `meta.json` diretamente é sobrescrito na próxima execução.
 - `licenseCheckedAt` reflete apenas a data da última checagem manual; não expira automaticamente nem é recalculado por `gerar_meta.py`.

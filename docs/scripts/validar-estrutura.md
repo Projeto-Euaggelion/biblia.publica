@@ -73,7 +73,7 @@ Para cada versão, o script casa os arquivos de `xml/` e `json/` pelo nome (`{ve
 
 O script imprime, por versão, `OK` quando nada é encontrado ou uma lista de linhas `ERRO [estrutura]:`/`ERRO [diff]:` com o problema e sua localização (arquivo, capítulo, versículo). Ao final, imprime um resumo com o total de versões verificadas, versões com problema e problemas encontrados, somando os dois modos quando `--check tudo` é usado.
 
-Retorna exit code `0` se nenhum problema for encontrado em nenhuma versão, ou `1` caso contrário — pensado para uso em CI (ver [1.7](../plano-desenvolvimento.md#17-integrar-validação-ao-ci-9)).
+Retorna exit code `0` se nenhum problema for encontrado em nenhuma versão, ou `1` caso contrário — pensado para uso em CI (ver [1.7](../projeto/plano-desenvolvimento.md#17-integrar-validação-ao-ci-9)).
 
 ## Quando rodar
 

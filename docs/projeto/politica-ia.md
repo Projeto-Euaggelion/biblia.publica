@@ -14,7 +14,7 @@ Introduzir IA nesse processo quebra essa cadeia de responsabilidade, mesmo quand
 
 - **Scripts, ferramentas e automações:** conversores de formato (`xml_to_json.py`, `json_to_sqlite.py` etc.), scripts de validação de estrutura, geração de metadados (`meta.json`), workflows de CI, scripts de importação de novas fontes.
 - **Documentação técnica do projeto:** descrição de formatos (`docs/estrutura-arquivos/`), guias de uso para desenvolvedores, README, CONTRIBUTING, este próprio documento.
-- **Extração mecânica de trechos do texto para documentação:** por exemplo, o script que gera `docs/comparacao-versiculos.md` pode copiar automaticamente um versículo já existente nos arquivos da versão, exibindo-o tal como está. Isso é tratado como parte da ferramenta (script), não como manuseio do texto.
+- **Extração mecânica de trechos do texto para documentação:** por exemplo, o script que gera `docs/texto-biblico/comparacao-versiculos.md` pode copiar automaticamente um versículo já existente nos arquivos da versão, exibindo-o tal como está. Isso é tratado como parte da ferramenta (script), não como manuseio do texto.
 - **Apontar possíveis problemas para revisão humana:** um script (ainda que com apoio de IA em seu desenvolvimento) pode *sinalizar* um versículo suspeito (vazio, duplicado, fora de ordem, ruído de OCR). A decisão sobre o que fazer com esse apontamento, entretanto, deve sempre humana.
 
 ## Onde IA não é permitida
@@ -33,13 +33,13 @@ A regra de bolso: **se a IA está decidindo o que o texto bíblico diz ou signif
 | Escrever o script que converte XML → JSON preservando o texto exatamente | Sim |
 | Escrever o script que detecta um versículo vazio | Sim |
 | Decidir qual texto preencher nesse versículo vazio | Não |
-| Gerar `docs/comparacao-versiculos.md` copiando versículos já existentes | Sim |
+| Gerar `docs/texto-biblico/comparacao-versiculos.md` copiando versículos já existentes | Sim |
 | Escrever a análise de estilo de uma tradução para a seção "Por que esta versão?" | Não |
 | Revisar a redação/gramática de uma análise já escrita por um humano | Sim |
 | Limpar ruído de OCR na digitalização de uma nova versão | Não |
 
 ## Declaração obrigatória em Pull Requests
 
-Todo PR que altere arquivos de texto bíblico (`versoes/{versao}/xml/**`, `versoes/{versao}/json/**`, ou qualquer outro formato de texto adicionado no futuro) deve declarar explicitamente, via checkbox no template de PR, que nenhuma ferramenta de IA foi usada para gerar, corrigir ou revisar o conteúdo do texto. Ver [CONTRIBUTING.md](CONTRIBUTING.md) e o [template de PR](.github/PULL_REQUEST_TEMPLATE.md).
+Todo PR que altere arquivos de texto bíblico (`versoes/{versao}/xml/**`, `versoes/{versao}/json/**`, ou qualquer outro formato de texto adicionado no futuro) deve declarar explicitamente, via checkbox no template de PR, que nenhuma ferramenta de IA foi usada para gerar, corrigir ou revisar o conteúdo do texto. Ver [CONTRIBUTING.md](../../CONTRIBUTING.md) e o [template de PR](../../.github/PULL_REQUEST_TEMPLATE.md).
 
 PRs que alterem apenas scripts, documentação técnica ou metadados não precisam dessa declaração, o uso de IA nesses casos é normal e incentivado.

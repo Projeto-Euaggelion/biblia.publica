@@ -57,13 +57,13 @@ Objetivo: toda versão passa a ter metadados estruturados e é validada automati
 
 ### 1.8 Tabela de canonicidade ([#10](https://github.com/Projeto-Euaggelion/biblia.publica/issues/10))
 - **Tamanho:** P
-- **Descrição:** `docs/canonicidade.md` documentando, por versão, se segue o cânon protestante (66 livros), católico (73) ou outro, e se há deuterocanônicos presentes.
+- **Descrição:** `docs/texto-biblico/canonicidade.md` documentando, por versão, se segue o cânon protestante (66 livros), católico (73) ou outro, e se há deuterocanônicos presentes.
 - **Critérios de aceite:** tabela cobre as 3 versões atuais e é referenciada no README.
 - **Depende de:** —
 
 ### 1.9 Página de comparação de versículos-chave ([#11](https://github.com/Projeto-Euaggelion/biblia.publica/issues/11))
 - **Tamanho:** M
-- **Descrição:** `docs/comparacao-versiculos.md` (gerado por script a partir dos JSON, para não ficar desatualizado) com uma tabela mostrando João 3:16, Gênesis 1:1 e Salmo 23:1 lado a lado entre todas as versões.
+- **Descrição:** `docs/texto-biblico/comparacao-versiculos.md` (gerado por script a partir dos JSON, para não ficar desatualizado) com uma tabela mostrando João 3:16, Gênesis 1:1 e Salmo 23:1 lado a lado entre todas as versões.
 - **Critérios de aceite:** documento gerado automaticamente por `scripts/gerar_comparacao.py`, cobrindo as 3 versões; referenciado no README.
 - **Depende de:** —
 

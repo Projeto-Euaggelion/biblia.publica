@@ -6,7 +6,7 @@ Este é um repositório público de traduções bíblicas em português, e por i
 
 ## Critério obrigatório: uso de IA no texto bíblico
 
-Ferramentas de IA podem ser usadas livremente no desenvolvimento de scripts, ferramentas e documentação técnica do projeto, mas **não podem, em nenhuma hipótese, ser usadas para escrever, corrigir ou revisar o texto bíblico**, incluindo digitação inicial de fontes digitalizadas (OCR), ajustes ortográficos, "melhorias" de tradução ou decisões entre variantes de um versículo. Todo manuseio do texto bíblico é feito exclusivamente por colaboradores humanos. Critérios completos e exemplos em [POLITICA_IA.md](POLITICA_IA.md).
+Ferramentas de IA podem ser usadas livremente no desenvolvimento de scripts, ferramentas e documentação técnica do projeto, mas **não podem, em nenhuma hipótese, ser usadas para escrever, corrigir ou revisar o texto bíblico**, incluindo digitação inicial de fontes digitalizadas (OCR), ajustes ortográficos, "melhorias" de tradução ou decisões entre variantes de um versículo. Todo manuseio do texto bíblico é feito exclusivamente por colaboradores humanos. Critérios completos e exemplos em [docs/projeto/politica-ia.md](docs/projeto/politica-ia.md).
 
 Todo PR que altere arquivos de texto bíblico (`versoes/{versao}/xml/**`, `versoes/{versao}/json/**`) precisa confirmar, no template de PR, que nenhuma IA foi usada no conteúdo do texto.
 
@@ -57,9 +57,9 @@ O campo **Anomalias** é uma lista simples (um item por linha, prefixado com `-`
 
 O script [`scripts/gerar_meta.py`](scripts/gerar_meta.py) lê essa lista automaticamente e a copia para `knownAnomalies` no `meta.json` da versão (ver [estrutura-meta.md](docs/estrutura-arquivos/estrutura-meta.md)).
 
-Depois que o PR é mesclado na `main`, o workflow [`atualizar-fontes.yml`](.github/workflows/atualizar-fontes.yml) lê automaticamente todos os `versoes/{versao}/LICENSE.md` e regenera [`docs/fontes.md`](docs/fontes.md), incluindo o número do PR e o autor da contribuição.
+Depois que o PR é mesclado na `main`, o workflow [`atualizar-fontes.yml`](.github/workflows/atualizar-fontes.yml) lê automaticamente todos os `versoes/{versao}/LICENSE.md` e regenera [`docs/texto-biblico/fontes.md`](docs/texto-biblico/fontes.md), incluindo o número do PR e o autor da contribuição.
 
-**Não é necessário (e nem deve ser feito) editar `docs/fontes.md` manualmente**: qualquer PR que altere esse arquivo à mão terá a alteração descartada no próximo push na `main`.
+**Não é necessário (e nem deve ser feito) editar `docs/texto-biblico/fontes.md` manualmente**: qualquer PR que altere esse arquivo à mão terá a alteração descartada no próximo push na `main`.
 
 ## Completude da versão
 
@@ -70,11 +70,11 @@ PRs com versões **incompletas** (por exemplo, apenas o Novo Testamento, ou falt
 
 ## Formato dos arquivos
 
-Os arquivos devem seguir a estrutura já documentada em [docs/estrutura-xml.md](docs/estrutura-xml.md) e [docs/estrutura-json.md](docs/estrutura-json.md), incluindo:
+Os arquivos devem seguir a estrutura já documentada em [docs/estrutura-arquivos/estrutura-xml.md](docs/estrutura-arquivos/estrutura-xml.md) e [docs/estrutura-arquivos/estrutura-json.md](docs/estrutura-arquivos/estrutura-json.md), incluindo:
 
 - Convenção de nomes `{versao}-{abbrev}.xml` / `{versao}-{abbrev}.json`;
 - Hierarquia `book`/`chapter`/`verse` (XML) ou `chapters`/`verses` (JSON), com os atributos/campos `name`, `abbrev`, `number` e o texto do versículo;
-- Uso das siglas de livro padronizadas na [tabela de livros](docs/estrutura-xml.md#tabela-de-livros).
+- Uso das siglas de livro padronizadas na [tabela de livros](docs/estrutura-arquivos/estrutura-xml.md#tabela-de-livros).
 
 **Você pode enviar o PR apenas em XML ou apenas em JSON**, não é obrigatório trazer os dois formatos prontos. O repositório disponibiliza scripts de conversão em `scripts/` (`xml_to_json.py` e o equivalente `json_to_xml.py`) para gerar o formato que faltar antes do merge.
 
@@ -85,15 +85,15 @@ Antes de abrir o PR, verifique se os arquivos enviados são bem formados e passa
 - Textos sob licença proprietária, "todos os direitos reservados", ou sem licença/fonte identificável;
 - Declaração de domínio público ou CC sem link de comprovação;
 - Modificação do texto de uma tradução sob licença `ND` além da transformação técnica de formato;
-- Arquivos fora da convenção de nomes ou da estrutura documentada em `docs/`.
+- Arquivos fora da convenção de nomes ou da estrutura documentada em `docs/estrutura-arquivos/`.
 
 ## Checklist antes de abrir o PR
 
 - [ ] Fonte original linkada
 - [ ] Licença explícita linkada/identificada
 - [ ] `versoes/{versao}/LICENSE.md` criado com licença, fonte, modificações permitidas e completude
-- [ ] Arquivos seguem a convenção de nomes e a estrutura em `docs/estrutura-xml.md` ou `docs/estrutura-json.md`
+- [ ] Arquivos seguem a convenção de nomes e a estrutura em `docs/estrutura-arquivos/estrutura-xml.md` ou `docs/estrutura-arquivos/estrutura-json.md`
 - [ ] Se a licença for `ND`, nenhuma alteração de texto foi feita além da conversão de formato
 - [ ] Se a versão for incompleta, os livros faltantes estão listados no `LICENSE.md`
-- [ ] Se o PR altera arquivos de texto bíblico (`versoes/{versao}/xml/**` ou `json/**`), confirmo que nenhuma IA foi usada para gerar, corrigir ou revisar esse conteúdo (ver [POLITICA_IA.md](POLITICA_IA.md))
+- [ ] Se o PR altera arquivos de texto bíblico (`versoes/{versao}/xml/**` ou `json/**`), confirmo que nenhuma IA foi usada para gerar, corrigir ou revisar esse conteúdo (ver [docs/projeto/politica-ia.md](docs/projeto/politica-ia.md))
 - [ ] `python scripts/validar_estrutura.py` roda sem erros para a versão alterada

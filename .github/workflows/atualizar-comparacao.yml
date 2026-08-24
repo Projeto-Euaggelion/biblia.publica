@@ -1,4 +1,4 @@
-name: Atualizar docs/comparacao-versiculos.md
+name: Atualizar docs/texto-biblico/comparacao-versiculos.md
 
 on:
   push:
@@ -25,19 +25,19 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Gerar docs/comparacao-versiculos.md
+      - name: Gerar docs/texto-biblico/comparacao-versiculos.md
         run: python scripts/gerar_comparacao.py
 
       - name: Commit e push, se houver mudanças
         run: |
-          if git diff --quiet -- docs/comparacao-versiculos.md; then
-            echo "Nenhuma mudança em docs/comparacao-versiculos.md."
+          if git diff --quiet -- docs/texto-biblico/comparacao-versiculos.md; then
+            echo "Nenhuma mudança em docs/texto-biblico/comparacao-versiculos.md."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/comparacao-versiculos.md
-          git commit -m "chore: atualiza docs/comparacao-versiculos.md automaticamente"
+          git add docs/texto-biblico/comparacao-versiculos.md
+          git commit -m "chore: atualiza docs/texto-biblico/comparacao-versiculos.md automaticamente"
           for tentativa in 1 2 3 4 5; do
             if git push; then
               exit 0

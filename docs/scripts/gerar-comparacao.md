@@ -1,14 +1,14 @@
 # Script de comparação de versículos-chave
 
-Este documento descreve o uso do script responsável por gerar `docs/comparacao-versiculos.md`.
+Este documento descreve o uso do script responsável por gerar `docs/texto-biblico/comparacao-versiculos.md`.
 
 - [scripts/gerar_comparacao.py](../../scripts/gerar_comparacao.py) lê os arquivos `.json` de todas as versões em `versoes/` e monta uma tabela, por versículo-chave, comparando o texto entre elas.
 
-Para o resultado, veja [docs/comparacao-versiculos.md](../comparacao-versiculos.md).
+Para o resultado, veja [docs/texto-biblico/comparacao-versiculos.md](../texto-biblico/comparacao-versiculos.md).
 
 ## Automação
 
-`docs/comparacao-versiculos.md` é atualizado automaticamente pelo workflow [`atualizar-comparacao.yml`](../../.github/workflows/atualizar-comparacao.yml), que roda `gerar_comparacao.py` e faz commit do resultado a cada push na `main` que altere `versoes/**/json/**` ou `versoes/**/meta.json` — ou seja, sempre que um PR que mude o texto ou a lista de versões é mesclado. **Não é necessário (e nem deve ser feito) rodar o script manualmente antes de abrir o PR** nem editar `docs/comparacao-versiculos.md` à mão; qualquer alteração manual desse arquivo é sobrescrita no próximo push relevante na `main`.
+`docs/texto-biblico/comparacao-versiculos.md` é atualizado automaticamente pelo workflow [`atualizar-comparacao.yml`](../../.github/workflows/atualizar-comparacao.yml), que roda `gerar_comparacao.py` e faz commit do resultado a cada push na `main` que altere `versoes/**/json/**` ou `versoes/**/meta.json` — ou seja, sempre que um PR que mude o texto ou a lista de versões é mesclado. **Não é necessário (e nem deve ser feito) rodar o script manualmente antes de abrir o PR** nem editar `docs/texto-biblico/comparacao-versiculos.md` à mão; qualquer alteração manual desse arquivo é sobrescrita no próximo push relevante na `main`.
 
 O workflow também pode ser disparado manualmente via `workflow_dispatch` (aba Actions do GitHub), útil se o arquivo precisar ser regenerado sem um push novo em `versoes/**`.
 
@@ -20,7 +20,7 @@ Rodar localmente é útil apenas para conferir o resultado antes de abrir um PR:
 python scripts/gerar_comparacao.py
 ```
 
-O script não recebe parâmetros: sempre processa todas as pastas em `versoes/` que possuam uma subpasta `json/` e sobrescreve `docs/comparacao-versiculos.md` por completo. Descarte a mudança local (`git checkout -- docs/comparacao-versiculos.md`) antes de commitar — o CI regenera o arquivo depois do merge.
+O script não recebe parâmetros: sempre processa todas as pastas em `versoes/` que possuam uma subpasta `json/` e sobrescreve `docs/texto-biblico/comparacao-versiculos.md` por completo. Descarte a mudança local (`git checkout -- docs/texto-biblico/comparacao-versiculos.md`) antes de commitar — o CI regenera o arquivo depois do merge.
 
 ## Comportamento
 

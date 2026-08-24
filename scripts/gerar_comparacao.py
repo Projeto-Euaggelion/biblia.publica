@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera docs/comparacao-versiculos.md a partir de versoes/{versao}/json/*.json,
+"""Gera docs/texto-biblico/comparacao-versiculos.md a partir de versoes/{versao}/json/*.json,
 comparando o texto de versiculos-chave (Joao 3:16, Genesis 1:1, Salmo 23:1)
 lado a lado entre todas as versoes do repositorio.
 
@@ -17,7 +17,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 VERSOES_DIR = REPO_ROOT / "versoes"
-OUTPUT_PATH = REPO_ROOT / "docs" / "comparacao-versiculos.md"
+OUTPUT_PATH = REPO_ROOT / "docs" / "texto-biblico" / "comparacao-versiculos.md"
 
 # (rotulo de exibicao, sigla do livro, capitulo, versiculo). Siglas conforme a
 # tabela de livros em docs/estrutura-arquivos/estrutura-xml.md.

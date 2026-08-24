@@ -17,15 +17,15 @@ O objetivo principal deste repositório é organizar, de forma estruturada, toda
 
 ## Fontes utilizadas
 
-A lista de versões, com licença, fonte e completude de cada uma, é gerada automaticamente a partir dos arquivos `versoes/{versao}/LICENSE.md` e fica disponível em [docs/fontes.md](docs/fontes.md).
+A lista de versões, com licença, fonte e completude de cada uma, é gerada automaticamente a partir dos arquivos `versoes/{versao}/LICENSE.md` e fica disponível em [docs/texto-biblico/fontes.md](docs/texto-biblico/fontes.md).
 
 ## Canonicidade
 
-Para saber qual cânon (protestante, católico ou outro) cada versão segue, e se inclui livros deuterocanônicos, veja [docs/canonicidade.md](docs/canonicidade.md).
+Para saber qual cânon (protestante, católico ou outro) cada versão segue, e se inclui livros deuterocanônicos, veja [docs/texto-biblico/canonicidade.md](docs/texto-biblico/canonicidade.md).
 
 ## Comparação de versículos-chave
 
-O texto de João 3:16, Gênesis 1:1 e Salmo 23:1 lado a lado entre todas as versões está em [docs/comparacao-versiculos.md](docs/comparacao-versiculos.md).
+O texto de João 3:16, Gênesis 1:1 e Salmo 23:1 lado a lado entre todas as versões está em [docs/texto-biblico/comparacao-versiculos.md](docs/texto-biblico/comparacao-versiculos.md).
 
 ## Qualidade do texto
 
@@ -33,8 +33,8 @@ O esforço inicial deste projeto tem se dedicado à indexação das versões bí
 
 ## Estrutura dos arquivos
 
-- Formato json: para mais detalhes sobre a estrutura utilizada nos arquivos `.json`, leia a documentação em [docs/estrutura-json.md](docs/estrutura-json.md);
-- Formato XML: leia a documentação em [docs/estrutura-xml.md](docs/estrutura-xml.md) para mais detalhes sobre a estrututra dos arquivos no formato `.xml`.
+- Formato json: para mais detalhes sobre a estrutura utilizada nos arquivos `.json`, leia a documentação em [docs/estrutura-arquivos/estrutura-json.md](docs/estrutura-arquivos/estrutura-json.md);
+- Formato XML: leia a documentação em [docs/estrutura-arquivos/estrutura-xml.md](docs/estrutura-arquivos/estrutura-xml.md) para mais detalhes sobre a estrututra dos arquivos no formato `.xml`.
 - Metadados por versão: o formato do `meta.json` de cada versão está documentado em [docs/estrutura-arquivos/estrutura-meta.md](docs/estrutura-arquivos/estrutura-meta.md).
 
 ## Contribuições
@@ -43,7 +43,7 @@ Deseja adicionar uma nova versão bíblica ou corrigir algo? Antes de abrir um P
 
 ## Uso de Inteligência Artificial
 
-Ferramentas de IA são usadas no desenvolvimento de scripts, automações e documentação técnica do projeto, mas **nunca** para escrever, corrigir ou revisar o texto bíblico presente neste projeto. Esse trabalho é feito exclusivamente por colaboradores humanos. Veja os critérios completos em [POLITICA_IA.md](POLITICA_IA.md).
+Ferramentas de IA são usadas no desenvolvimento de scripts, automações e documentação técnica do projeto, mas **nunca** para escrever, corrigir ou revisar o texto bíblico presente neste projeto. Esse trabalho é feito exclusivamente por colaboradores humanos. Veja os critérios completos em [docs/projeto/politica-ia.md](docs/projeto/politica-ia.md).
 
 ## Licenças
 
