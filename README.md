@@ -23,6 +23,10 @@ O esforço inicial deste projeto tem se dedicado à indexação das versões bí
 
 Deseja adicionar uma nova versão bíblica ou corrigir algo? Antes de abrir um Pull Request, leia os requisitos de contribuição em [CONTRIBUTING.md](CONTRIBUTING.md). Especialmente os critérios de licenciamento (domínio público ou Creative Commons), obrigatórios para qualquer versão adicionada ao projeto.
 
+## Uso de Inteligência Artificial
+
+Ferramentas de IA são usadas no desenvolvimento de scripts, automações e documentação técnica do projeto, mas **nunca** para escrever, corrigir ou revisar o texto bíblico presente neste projeto. Esse trabalho é feito exclusivamente por colaboradores humanos. Veja os critérios completos em [POLITICA_IA.md](POLITICA_IA.md).
+
 ## Licenças
 
 Cada tradução bíblica indexada neste projeto possuí sua própria licença de uso. Detalhes como: tipo de licença, fonte do conteúdo, página pública para conferência da licença, modificações permitidas e detalhes de completude da versão estão disponíveis em `versoes/{versao}/LICENSE.md`.

@@ -17,6 +17,7 @@
 - [ ] Se a licença é `ND` (No Derivatives), nenhuma alteração de texto foi feita além da conversão técnica de formato (XML/JSON)
 - [ ] Se a versão está incompleta, os livros faltantes estão listados no `LICENSE.md` da versão
 - [ ] Rodei o script de conversão correspondente (`scripts/xml_to_json.py` ou `scripts/json_to_xml.py`) e não houve erros
+- [ ] Se este PR altera arquivos de texto bíblico (`versoes/{versao}/xml/**` ou `json/**`), confirmo que nenhuma IA foi usada para gerar, corrigir ou revisar esse conteúdo (ver [POLITICA_IA.md](../POLITICA_IA.md))
 
 ## Observações adicionais
 

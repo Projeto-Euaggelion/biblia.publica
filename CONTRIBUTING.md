@@ -4,6 +4,12 @@ Obrigado por considerar contribuir! Toda contribuição para o projeto biblia.pu
 
 Este é um repositório público de traduções bíblicas em português, e por isso existem critérios objetivos sobre o que será ou não aceito no projeto. Leia este documento antes de abrir um Pull Request (PR).
 
+## Critério obrigatório: uso de IA no texto bíblico
+
+Ferramentas de IA podem ser usadas livremente no desenvolvimento de scripts, ferramentas e documentação técnica do projeto, mas **não podem, em nenhuma hipótese, ser usadas para escrever, corrigir ou revisar o texto bíblico**, incluindo digitação inicial de fontes digitalizadas (OCR), ajustes ortográficos, "melhorias" de tradução ou decisões entre variantes de um versículo. Todo manuseio do texto bíblico é feito exclusivamente por colaboradores humanos. Critérios completos e exemplos em [POLITICA_IA.md](POLITICA_IA.md).
+
+Todo PR que altere arquivos de texto bíblico (`versoes/{versao}/xml/**`, `versoes/{versao}/json/**`) precisa confirmar, no template de PR, que nenhuma IA foi usada no conteúdo do texto.
+
 ## Critério obrigatório: licenciamento
 
 Toda versão bíblica adicionada ao projeto precisa estar, obrigatoriamente, sob uma das seguintes condições:
@@ -89,3 +95,4 @@ Antes de abrir o PR, verifique se os arquivos enviados são bem formados e passa
 - [ ] Arquivos seguem a convenção de nomes e a estrutura em `docs/estrutura-xml.md` ou `docs/estrutura-json.md`
 - [ ] Se a licença for `ND`, nenhuma alteração de texto foi feita além da conversão de formato
 - [ ] Se a versão for incompleta, os livros faltantes estão listados no `LICENSE.md`
+- [ ] Se o PR altera arquivos de texto bíblico (`versoes/{versao}/xml/**` ou `json/**`), confirmo que nenhuma IA foi usada para gerar, corrigir ou revisar esse conteúdo (ver [POLITICA_IA.md](POLITICA_IA.md))
