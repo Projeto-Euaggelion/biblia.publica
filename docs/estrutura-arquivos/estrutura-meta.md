@@ -75,7 +75,7 @@ Representa, em formato estruturado, a mesma informação do campo **Completude**
 | `status`         | string (enum)    | calculado | `"complete"` (todos os 66 livros protestantes presentes) ou `"incomplete"`   | `"complete"` |
 | `missingBooks`   | array de string  | calculado | Siglas ([tabela de livros](estrutura-xml.md#tabela-de-livros)) dos livros da lista canônica ausentes em `json/`; `[]` quando `status` é `"complete"` | `["ap"]` |
 
-**Importante:** por só comparar contra o cânon protestante de 66 livros, `status`/`missingBooks` ainda não distinguem "faltam livros" de "cânon diferente" — uma versão católica com todos os deuterocanônicos, mas sem repetir o mesmo agrupamento dos 66 protestantes, pode aparecer como `"incomplete"`. Essa limitação é conhecida e será resolvida quando `docs/canonicidade.md` ([1.8](../plano-desenvolvimento.md), [#10](https://github.com/Projeto-Euaggelion/biblia.publica/issues/10)) definir o cânon de cada versão; até lá, as 3 versões atuais do repositório seguem o cânon protestante, então o cálculo é correto para todas elas.
+**Importante:** por só comparar contra o cânon protestante de 66 livros, `status`/`missingBooks` ainda não distinguem "faltam livros" de "cânon diferente" — uma versão católica com todos os deuterocanônicos, mas sem repetir o mesmo agrupamento dos 66 protestantes, pode aparecer como `"incomplete"`. O cânon de cada versão está documentado em [docs/canonicidade.md](../canonicidade.md); como todas as versões atuais do repositório seguem o cânon protestante, o cálculo é correto para todas elas por ora, mas ainda não considera essa informação automaticamente — isso fica para quando uma versão de outro cânon for adicionada.
 
 ### Objeto `counts`
 

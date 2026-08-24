@@ -19,6 +19,10 @@ O objetivo principal deste repositório é organizar, de forma estruturada, toda
 
 A lista de versões, com licença, fonte e completude de cada uma, é gerada automaticamente a partir dos arquivos `versoes/{versao}/LICENSE.md` e fica disponível em [docs/fontes.md](docs/fontes.md).
 
+## Canonicidade
+
+Para saber qual cânon (protestante, católico ou outro) cada versão segue, e se inclui livros deuterocanônicos, veja [docs/canonicidade.md](docs/canonicidade.md).
+
 ## Qualidade do texto
 
 O esforço inicial deste projeto tem se dedicado à indexação das versões bíblicas. Revisões e correções do texto não foram realizadas (exceto quando indicado) antes do texto ser adicionado ao projeto.
