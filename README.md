@@ -17,6 +17,7 @@ O esforço inicial deste projeto tem se dedicado à indexação das versões bí
 
 - Formato json: para mais detalhes sobre a estrutura utilizada nos arquivos `.json`, leia a documentação em [docs/estrutura-json.md](docs/estrutura-json.md);
 - Formato XML: leia a documentação em [docs/estrutura-xml.md](docs/estrutura-xml.md) para mais detalhes sobre a estrututra dos arquivos no formato `.xml`.
+- Metadados por versão: o formato do `meta.json` de cada versão está documentado em [docs/estrutura-arquivos/estrutura-meta.md](docs/estrutura-arquivos/estrutura-meta.md).
 
 ## Contribuições
 
