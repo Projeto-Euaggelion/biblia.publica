@@ -17,9 +17,9 @@ versoes/
 │   │   └── ...
 │   └── xml/
 │       └── ...
-├── jfaal/
+├── nva/
 │   ├── json/
-│   │   ├── jfaal-gn.json
+│   │   ├── nva-gn.json
 │   │   └── ...
 │   └── xml/
 │       └── ...
@@ -27,7 +27,7 @@ versoes/
 ```
 
 - `blivre` — Bíblia Livre
-- `jfaal` — João Ferreira de Almeida Atualizada Livre
+- `nva` — Nova Bíblia de Acesso Livre
 - etc...
 
 ### Convenção de nomes de arquivo
@@ -36,7 +36,7 @@ versoes/
 {versao}-{abbrev}.json
 ```
 
-Onde `{versao}` é a sigla da versão (`blivre`, `jfaal`) e `{abbrev}` é a sigla do livro (ver tabela em [estrutura-xml.md](estrutura-xml.md#tabela-de-livros)). Exemplo: `jfaal-1co.json` é o livro de 1 Coríntios na versão João Ferreira de Almeida Atualizada Livre.
+Onde `{versao}` é a sigla da versão (`blivre`, `nva`) e `{abbrev}` é a sigla do livro (ver tabela em [estrutura-xml.md](estrutura-xml.md#tabela-de-livros)). Exemplo: `blivre-1co.json` é o livro de 1 Coríntios na versão Bíblia Livre.
 
 ## Codificação
 

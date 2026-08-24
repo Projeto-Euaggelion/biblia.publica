@@ -13,15 +13,15 @@ versoes/
 │       ├── blivre-gn.xml
 │       ├── blivre-ex.xml
 │       └── ...
-├── jfaal/
+├── nva/
 │   └── xml/
-│       ├── jfaal-gn.xml
+│       ├── nva-gn.xml
 │       └── ...
 └── etc...
 ```
 
 - `blivre` — Bíblia Livre
-- `jfaal` — João Ferreira de Almeida Atualizada Livre
+- `nva` — Nova Bíblia de Acesso Livre
 - etc...
 
 ### Convenção de nomes de arquivo
@@ -30,7 +30,7 @@ versoes/
 {versao}-{abbrev}.xml
 ```
 
-Onde `{versao}` é a sigla da versão (`blivre`, `jfaal`) e `{abbrev}` é a sigla do livro (ver tabela abaixo). Exemplo: `jfaal-1co.xml` é o livro de 1 Coríntios na versão João Ferreira de Almeida Atualizada Livre.
+Onde `{versao}` é a sigla da versão (`blivre`, `nva`) e `{abbrev}` é a sigla do livro (ver tabela abaixo). Exemplo: `blivre-1co.xml` é o livro de 1 Coríntios na versão Bíblia Livre.
 
 ## Codificação
 

@@ -18,7 +18,7 @@ python scripts/validar_estrutura.py [--version <versao>] [--check {estrutura,dif
 
 | Parâmetro   | Obrigatório | Descrição                                                                                       |
 |-------------|-------------|---------------------------------------------------------------------------------------------------|
-| `--version` | Não         | Sigla da versão a validar (ex.: `jfaal`). Se for omitido, valida todas as versões em `versoes/`.    |
+| `--version` | Não         | Sigla da versão a validar (ex.: `blivre`). Se for omitido, valida todas as versões em `versoes/`.    |
 | `--check`   | Não         | `estrutura` roda só a validação de `json/`/`meta.json`; `diff` roda só a comparação `xml/` × `json/`; `tudo` (padrão) roda os dois. |
 
 ### Exemplos
@@ -29,10 +29,10 @@ Rodar as duas verificações sobre todas as versões (padrão):
 python scripts/validar_estrutura.py
 ```
 
-Validar apenas a estrutura da versão João Ferreira de Almeida Atualizada Livre:
+Validar apenas a estrutura da versão Bíblia Livre:
 
 ```bash
-python scripts/validar_estrutura.py --version jfaal --check estrutura
+python scripts/validar_estrutura.py --version blivre --check estrutura
 ```
 
 Comparar apenas xml/ e json/ de todas as versões:
@@ -68,8 +68,6 @@ Para cada versão, o script casa os arquivos de `xml/` e `json/` pelo nome (`{ve
 - **Capítulos:** mesmo conjunto de números de capítulo nos dois formatos.
 - **Versículos:** mesmo conjunto de números de versículo em cada capítulo, nos dois formatos.
 - **Texto:** o `text` de cada versículo é idêntico, caractere a caractere, entre `xml/` e `json/`.
-
-Uma divergência de texto real e conhecida no momento em que este documento foi escrito: `jfaal-mt.xml` capítulo 17, versículo 14, ainda contém o texto duplicado original (ver anomalia documentada em `versoes/jfaal/LICENSE.md`), que foi corrigido apenas no `.json` — o `.xml` precisa ser atualizado e reconvertido para que a divergência desapareça.
 
 ## Relatório e exit code
 
