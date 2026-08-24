@@ -17,25 +17,25 @@ versoes/
 │   │   └── ...
 │   └── xml/
 │       └── ...
+├── jfaal/
+│   ├── json/
+│   │   ├── jfaal-gn.json
+│   │   └── ...
+│   └── xml/
+│       └── ...
 ├── otb/
 │   ├── json/
 │   │   ├── otb-gn.json
 │   │   └── ...
 │   └── xml/
 │       └── ...
-└── tb/
-    ├── json/
-    │   ├── tb-gn.json
-    │   └── ...
-    └── xml/
-        └── ...
+└── etc...
 ```
 
 - `blivre` — Bíblia Livre
+- `jfaal` — João Ferreira de Almeida Atualizada Livre
 - `otb` — Open Translate Bible
-- `tb` — Tradução Brasileira
-
-As três versões contêm exatamente os mesmos 66 arquivos (um por livro), diferindo apenas no prefixo do nome do arquivo e no texto traduzido.
+- etc...
 
 ### Convenção de nomes de arquivo
 
@@ -43,11 +43,11 @@ As três versões contêm exatamente os mesmos 66 arquivos (um por livro), difer
 {versao}-{abbrev}.json
 ```
 
-Onde `{versao}` é a sigla da versão (`blivre`, `otb`, `tb`) e `{abbrev}` é a sigla do livro (ver tabela em [estrutura-xml.md](estrutura-xml.md#tabela-de-livros)). Exemplo: `tb-1co.json` é o livro de 1 Coríntios na versão Tradução Brasileira.
+Onde `{versao}` é a sigla da versão (`blivre`, `jfaal`,`otb`) e `{abbrev}` é a sigla do livro (ver tabela em [estrutura-xml.md](estrutura-xml.md#tabela-de-livros)). Exemplo: `otb-1co.json` é o livro de 1 Coríntios na versão Open Translate Bible.
 
 ## Codificação
 
-Os arquivos são salvos em UTF-8, com os caracteres acentuados e tipográficos (`á`, `ç`, `“ ” ‘ ’`, `—` etc.) gravados diretamente como caracteres Unicode — não são usadas sequências de escape (`\uXXXX`) nem entidades como na versão XML.
+Os arquivos são salvos em UTF-8, com os caracteres acentuados e tipográficos (`á`, `ç`, `“ ” ‘ ’`, `—` etc.) gravados diretamente como caracteres Unicode, não são usadas sequências de escape (`\uXXXX`) nem entidades como na versão XML.
 
 ## Hierarquia dos elementos
 
@@ -81,7 +81,7 @@ Cada arquivo é um único objeto JSON representando um livro, com uma lista de c
 | `abbrev`   | string | Sigla do livro, também usada no nome do arquivo | `"gn"`      |
 | `chapters` | array  | Lista de objetos de capítulo (ver abaixo)       | —           |
 
-Diferente do XML, o objeto raiz não repete o número total de capítulos (`chapters` como contagem) — em JSON, `chapters` é a própria lista de capítulos, e o total pode ser obtido com o tamanho do array.
+Diferente do XML, o objeto raiz não repete o número total de capítulos (`chapters` como contagem). Em JSON, `chapters` é a própria lista de capítulos, e o total pode ser obtido com o tamanho do array.
 
 ### Objeto de capítulo
 

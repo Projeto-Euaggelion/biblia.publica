@@ -13,21 +13,21 @@ versoes/
 │       ├── blivre-gn.xml
 │       ├── blivre-ex.xml
 │       └── ...
+├── jfaal/
+│   └── xml/
+│       ├── jfaal-gn.xml
+│       └── ...
 ├── otb/
 │   └── xml/
 │       ├── otb-gn.xml
 │       └── ...
-└── tb/
-    └── xml/
-        ├── tb-gn.xml
-        └── ...
+└── etc...
 ```
 
 - `blivre` — Bíblia Livre
+- `jfaal` — João Ferreira de Almeida Atualizada Livre
 - `otb` — Open Translate Bible
-- `tb` — Tradução Brasileira
-
-As três versões contêm exatamente os mesmos 66 arquivos (um por livro), diferindo apenas no prefixo do nome do arquivo e no texto traduzido.
+- etc...
 
 ### Convenção de nomes de arquivo
 
@@ -35,7 +35,7 @@ As três versões contêm exatamente os mesmos 66 arquivos (um por livro), difer
 {versao}-{abbrev}.xml
 ```
 
-Onde `{versao}` é a sigla da versão (`blivre`, `otb`, `tb`) e `{abbrev}` é a sigla do livro (ver tabela abaixo). Exemplo: `tb-1co.xml` é o livro de 1 Coríntios na versão Tradução Brasileira.
+Onde `{versao}` é a sigla da versão (`blivre`, `jfaal`, `otb`) e `{abbrev}` é a sigla do livro (ver tabela abaixo). Exemplo: `jfaal-1co.xml` é o livro de 1 Coríntios na versão João Ferreira de Almeida Atualizada Livre.
 
 ## Codificação
 
@@ -93,8 +93,8 @@ Um versículo do capítulo. O texto do versículo é o conteúdo textual do elem
 ## Observações e inconsistências conhecidas
 
 - O arquivo `versoes/otb/xml/otb-1rs.xml` possui um `<chapter number="0">` vazio (sem versículos) antes do capítulo `1`. Trata-se de uma particularidade herdada da fonte original, não um padrão do formato.
-- O estilo de aspas e pontuação (retas vs. tipográficas, uso de travessão) varia entre versões, refletindo o texto original de cada tradução — não há normalização entre elas.
-- Não há marcação de formatação (itálico, notas de rodapé, referências cruzadas, poesia, etc.) — cada `<verse>` contém apenas texto plano.
+- O estilo de aspas e pontuação (retas vs. tipográficas, uso de travessão) varia entre versões, refletindo o texto original de cada tradução, não há normalização entre elas.
+- Não há marcação de formatação (itálico, notas de rodapé, referências cruzadas, poesia, etc.), cada `<verse>` contém apenas texto plano.
 
 ## Tabela de livros
 
