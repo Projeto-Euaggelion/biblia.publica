@@ -23,6 +23,10 @@ A lista de versões, com licença, fonte e completude de cada uma, é gerada aut
 
 Para saber qual cânon (protestante, católico ou outro) cada versão segue, e se inclui livros deuterocanônicos, veja [docs/canonicidade.md](docs/canonicidade.md).
 
+## Comparação de versículos-chave
+
+O texto de João 3:16, Gênesis 1:1 e Salmo 23:1 lado a lado entre todas as versões está em [docs/comparacao-versiculos.md](docs/comparacao-versiculos.md).
+
 ## Qualidade do texto
 
 O esforço inicial deste projeto tem se dedicado à indexação das versões bíblicas. Revisões e correções do texto não foram realizadas (exceto quando indicado) antes do texto ser adicionado ao projeto.

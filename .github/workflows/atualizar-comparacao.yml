@@ -1,0 +1,50 @@
+name: Atualizar docs/comparacao-versiculos.md
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "versoes/**/json/**"
+      - "versoes/**/meta.json"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar-comparacao:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Gerar docs/comparacao-versiculos.md
+        run: python scripts/gerar_comparacao.py
+
+      - name: Commit e push, se houver mudanças
+        run: |
+          if git diff --quiet -- docs/comparacao-versiculos.md; then
+            echo "Nenhuma mudança em docs/comparacao-versiculos.md."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/comparacao-versiculos.md
+          git commit -m "chore: atualiza docs/comparacao-versiculos.md automaticamente"
+          for tentativa in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "push rejeitado (tentativa $tentativa), sincronizando com origin/main..."
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo "erro: nao foi possivel dar push apos varias tentativas" >&2
+          exit 1
