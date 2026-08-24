@@ -28,7 +28,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python scripts/gerar_fontes.py
+        run: python scripts/ci/gerar_fontes.py
 
       - name: Commit e push, se houver mudanças
         run: |
