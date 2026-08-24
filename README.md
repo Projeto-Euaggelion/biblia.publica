@@ -11,6 +11,8 @@
 
 Repositório dedicado à organização de traduções bíblicas, em português brasileiro, disponíveis em domínio público e em licenças Creative Commons.
 
+🔗 **[Projeto-Euaggelion.github.io/biblia.publica](https://Projeto-Euaggelion.github.io/biblia.publica/)** — leia os textos direto no navegador, sem clonar o repositório (código em [web/](web/)).
+
 ## Objetivo
 
 O objetivo principal deste repositório é organizar, de forma estruturada, todas as versões bíblicas disponíveis em lingua portuguesa sob licença de domínio público e/ou em licenças Creative Commons.

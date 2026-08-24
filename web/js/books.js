@@ -1,0 +1,81 @@
+// Tabela canonica dos 66 livros do canon protestante, na ordem tradicional.
+// Mesma fonte de docs/estrutura-arquivos/estrutura-xml.md#tabela-de-livros;
+// usada apenas para montar a lista/ordem de livros na navegacao — o texto em
+// si vem sempre do .json de cada versao (ver js/api.js).
+export const BOOKS = [
+  { abbrev: "gn", name: "Gênesis", testament: "AT" },
+  { abbrev: "ex", name: "Êxodo", testament: "AT" },
+  { abbrev: "lv", name: "Levítico", testament: "AT" },
+  { abbrev: "nm", name: "Números", testament: "AT" },
+  { abbrev: "dt", name: "Deuteronômio", testament: "AT" },
+  { abbrev: "js", name: "Josué", testament: "AT" },
+  { abbrev: "jz", name: "Juízes", testament: "AT" },
+  { abbrev: "rt", name: "Rute", testament: "AT" },
+  { abbrev: "1sm", name: "1 Samuel", testament: "AT" },
+  { abbrev: "2sm", name: "2 Samuel", testament: "AT" },
+  { abbrev: "1rs", name: "1 Reis", testament: "AT" },
+  { abbrev: "2rs", name: "2 Reis", testament: "AT" },
+  { abbrev: "1cr", name: "1 Crônicas", testament: "AT" },
+  { abbrev: "2cr", name: "2 Crônicas", testament: "AT" },
+  { abbrev: "ed", name: "Esdras", testament: "AT" },
+  { abbrev: "ne", name: "Neemias", testament: "AT" },
+  { abbrev: "et", name: "Ester", testament: "AT" },
+  { abbrev: "job", name: "Jó", testament: "AT" },
+  { abbrev: "sl", name: "Salmos", testament: "AT" },
+  { abbrev: "pv", name: "Provérbios", testament: "AT" },
+  { abbrev: "ec", name: "Eclesiastes", testament: "AT" },
+  { abbrev: "ct", name: "Cânticos", testament: "AT" },
+  { abbrev: "is", name: "Isaías", testament: "AT" },
+  { abbrev: "jr", name: "Jeremias", testament: "AT" },
+  { abbrev: "lm", name: "Lamentações de Jeremias", testament: "AT" },
+  { abbrev: "ez", name: "Ezequiel", testament: "AT" },
+  { abbrev: "dn", name: "Daniel", testament: "AT" },
+  { abbrev: "os", name: "Oséias", testament: "AT" },
+  { abbrev: "jl", name: "Joel", testament: "AT" },
+  { abbrev: "am", name: "Amós", testament: "AT" },
+  { abbrev: "ob", name: "Obadias", testament: "AT" },
+  { abbrev: "jn", name: "Jonas", testament: "AT" },
+  { abbrev: "mq", name: "Miquéias", testament: "AT" },
+  { abbrev: "na", name: "Naum", testament: "AT" },
+  { abbrev: "hc", name: "Habacuque", testament: "AT" },
+  { abbrev: "sf", name: "Sofonias", testament: "AT" },
+  { abbrev: "ag", name: "Ageu", testament: "AT" },
+  { abbrev: "zc", name: "Zacarias", testament: "AT" },
+  { abbrev: "ml", name: "Malaquias", testament: "AT" },
+  { abbrev: "mt", name: "Mateus", testament: "NT" },
+  { abbrev: "mc", name: "Marcos", testament: "NT" },
+  { abbrev: "lc", name: "Lucas", testament: "NT" },
+  { abbrev: "jo", name: "João", testament: "NT" },
+  { abbrev: "at", name: "Atos", testament: "NT" },
+  { abbrev: "rm", name: "Romanos", testament: "NT" },
+  { abbrev: "1co", name: "1 Coríntios", testament: "NT" },
+  { abbrev: "2co", name: "2 Coríntios", testament: "NT" },
+  { abbrev: "gl", name: "Gálatas", testament: "NT" },
+  { abbrev: "ef", name: "Efésios", testament: "NT" },
+  { abbrev: "fp", name: "Filipenses", testament: "NT" },
+  { abbrev: "cl", name: "Colossenses", testament: "NT" },
+  { abbrev: "1ts", name: "1 Tessalonicenses", testament: "NT" },
+  { abbrev: "2ts", name: "2 Tessalonicenses", testament: "NT" },
+  { abbrev: "1tm", name: "1 Timóteo", testament: "NT" },
+  { abbrev: "2tm", name: "2 Timóteo", testament: "NT" },
+  { abbrev: "tt", name: "Tito", testament: "NT" },
+  { abbrev: "fm", name: "Filemom", testament: "NT" },
+  { abbrev: "hb", name: "Hebreus", testament: "NT" },
+  { abbrev: "tg", name: "Tiago", testament: "NT" },
+  { abbrev: "1pe", name: "1 Pedro", testament: "NT" },
+  { abbrev: "2pe", name: "2 Pedro", testament: "NT" },
+  { abbrev: "1jo", name: "1 João", testament: "NT" },
+  { abbrev: "2jo", name: "2 João", testament: "NT" },
+  { abbrev: "3jo", name: "3 João", testament: "NT" },
+  { abbrev: "jd", name: "Judas", testament: "NT" },
+  { abbrev: "ap", name: "Apocalipse", testament: "NT" },
+];
+
+export function booksForVersion(versionEntry) {
+  const missing = new Set(versionEntry?.completeness?.missingBooks ?? []);
+  return BOOKS.filter((book) => !missing.has(book.abbrev));
+}
+
+export function bookByAbbrev(abbrev) {
+  return BOOKS.find((book) => book.abbrev === abbrev);
+}
