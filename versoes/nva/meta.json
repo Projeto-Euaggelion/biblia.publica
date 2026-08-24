@@ -1,0 +1,36 @@
+{
+  "name": "Nova Bíblia de Acesso Livre (NVA)",
+  "abbrev": "nva",
+  "year": 2025,
+  "language": "pt-BR",
+  "textualBasis": null,
+  "completeness": {
+    "status": "complete",
+    "missingBooks": []
+  },
+  "counts": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31096
+  },
+  "knownAnomalies": [
+    "1 Cr 17 v8: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+    "1 Cr 25 v2: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+    "1 Cr 25 v3: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+    "1 Sm 07: fragmento '05.txt' ignorado (conteúdo duplicado de outro capítulo na fonte)",
+    "1 Sm 07: versículo(s) sem nenhuma tag \\v na fonte - [5, 6]",
+    "2 Cr 06 v23: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+    "2 Sm 17: versículo(s) sem nenhuma tag \\v na fonte - [5, 6, 7]",
+    "Jó 25 v2: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+    "Jó 40 v13: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+    "Jr 23 v36: marcador \\v presente mas sem conteúdo real na fonte - versículo omitido",
+    "Jr 23: versículo(s) sem nenhuma tag \\v na fonte - [36]",
+    "Jr 43 v13: marcador \\v presente mas sem conteúdo real na fonte - versículo omitido",
+    "Lm 03 v15: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+    "Lm 05 v18: marcador \\v presente mas sem conteúdo real na fonte - versículo omitido",
+    "Lm 05: versículo(s) sem nenhuma tag \\v na fonte - [18]",
+    "Sl 136 v9: marcador \\v duplicado com ocorrência vazia/trivial descartada"
+  ],
+  "licenseCheckedAt": "2026-08-23",
+  "filesHash": "sha256:ff6726bc15ace5b4a402aaf7907109b5eaa255a1dd551dd265075be706ac2c99"
+}

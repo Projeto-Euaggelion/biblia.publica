@@ -1,0 +1,21 @@
+{
+  "name": "Open Translation Bible",
+  "abbrev": "otb",
+  "year": 2025,
+  "language": "pt-BR",
+  "textualBasis": null,
+  "completeness": {
+    "status": "complete",
+    "missingBooks": []
+  },
+  "counts": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31082
+  },
+  "knownAnomalies": [
+    "`otb-1rs.json` possui um capítulo `{ \"number\": 0, \"verses\": [] }` vazio antes do capítulo 1, herdado do XML de origem."
+  ],
+  "licenseCheckedAt": "2026-08-23",
+  "filesHash": "sha256:9e7a46bf37e350046e994089353391882e5c436fcb593b288025d101e3bc2f95"
+}

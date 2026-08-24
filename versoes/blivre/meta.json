@@ -1,0 +1,19 @@
+{
+  "name": "Bíblia Livre",
+  "abbrev": "blivre",
+  "year": 2018,
+  "language": "pt-BR",
+  "textualBasis": null,
+  "completeness": {
+    "status": "complete",
+    "missingBooks": []
+  },
+  "counts": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31101
+  },
+  "knownAnomalies": [],
+  "licenseCheckedAt": "2026-08-23",
+  "filesHash": "sha256:b9e123a5d5b5443be155a03130fe5eba1ac31155f4ae37a1df01162f1abba30b"
+}

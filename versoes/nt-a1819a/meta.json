@@ -1,0 +1,36 @@
+{
+  "name": "Novo Testamento Almeida 1819 Atualizada",
+  "abbrev": "nt-a1819a",
+  "year": 2026,
+  "language": "pt-BR",
+  "textualBasis": null,
+  "completeness": {
+    "status": "incomplete",
+    "missingBooks": ["gn","ex","lv","nm","dt","js","jz","rt","1sm","2sm","1rs","2rs","1cr","2cr","ed","ne","et","job","sl","pv","ec","ct","is","jr","lm","ez","dn","os","jl","am","ob","jn","mq","na","hc","sf","ag","zc","ml"]
+  },
+  "counts": {
+    "books": 27,
+    "chapters": 260,
+    "verses": 7957
+  },
+  "knownAnomalies": [
+    "At: linha sem número de versículo anexada ao último versículo",
+    "At: capítulo 6 inferido a partir da reinicializacao do número do versículo (cabeçalho 'capítulo N' ausente na fonte)",
+    "Rm: linha sem número de versículo anexada ao último versículo",
+    "1 Co: linha sem número de versículo anexada ao último versículo",
+    "2 Co: linha sem número de versículo anexada ao último versículo",
+    "Gl: linha sem número de versículo anexada ao último versículo",
+    "Fp: linha sem número de versículo anexada ao último versículo",
+    "Cl: linha sem número de versículo anexada ao último versículo",
+    "1 Ts: linha sem número de versículo anexada ao último versículo",
+    "2 Ts: linha sem número de versículo anexada ao último versículo",
+    "1 Tm: linha sem número de versículo anexada ao último versículo",
+    "2 Tm: linha sem número de versículo anexada ao último versículo",
+    "Tt: linha sem número de versículo anexada ao último versículo",
+    "Fm: linha sem número de versículo anexada ao último versículo",
+    "Hb: linha sem número de versículo anexada ao último versículo",
+    "Hb: linha sem número de versículo anexada ao último versículo"
+  ],
+  "licenseCheckedAt": "2026-08-23",
+  "filesHash": "sha256:df1a0149e4654c92d51e0e7a0386438979f4be9f849ba1ad8cb902258c28352c"
+}
