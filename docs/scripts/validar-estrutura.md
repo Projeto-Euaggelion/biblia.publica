@@ -2,24 +2,30 @@
 
 Este documento descreve o uso do script responsável por validar a estrutura dos arquivos `versoes/{versao}/json/*.json`, sua coerência com `meta.json`, e a fidelidade da conversão entre `xml/` e `json/` de cada versão.
 
-- [scripts/validar_estrutura.py](../../scripts/validar_estrutura.py) roda dois modos de verificação, individualmente ou em conjunto:
+- [scripts/validar_estrutura.py](../../scripts/validar_estrutura.py) roda três modos de verificação, individualmente ou em conjunto:
   - **`estrutura`** — os arquivos `.json` de uma versão estão bem formados e `meta.json` reflete corretamente o conteúdo atual desses arquivos.
   - **`diff`** — `xml/` e `json/` de uma versão representam exatamente o mesmo texto.
+  - **`schema`** — os arquivos `.json` de uma versão validam contra [docs/schema/biblia.schema.json](../schema/biblia.schema.json) (JSON Schema Draft 2020-12).
 
 ## Requisitos
 
-- Python 3.9 ou superior (nenhuma dependência externa é necessária, apenas a biblioteca padrão).
+- Python 3.9 ou superior.
+- Os modos `estrutura` e `diff` não precisam de dependência externa, apenas a biblioteca padrão. O modo `schema` (incluído em `tudo`) requer o pacote [`jsonschema`](https://pypi.org/project/jsonschema/), listado em [scripts/requirements.txt](../../scripts/requirements.txt):
+
+  ```bash
+  pip install -r scripts/requirements.txt
+  ```
 
 ## Uso
 
 ```bash
-python scripts/validar_estrutura.py [--version <versao>] [--check {estrutura,diff,tudo}]
+python scripts/validar_estrutura.py [--version <versao>] [--check {estrutura,diff,schema,tudo}]
 ```
 
 | Parâmetro   | Obrigatório | Descrição                                                                                       |
 |-------------|-------------|---------------------------------------------------------------------------------------------------|
 | `--version` | Não         | Sigla da versão a validar (ex.: `blivre`). Se for omitido, valida todas as versões em `versoes/`.    |
-| `--check`   | Não         | `estrutura` roda só a validação de `json/`/`meta.json`; `diff` roda só a comparação `xml/` × `json/`; `tudo` (padrão) roda os dois. |
+| `--check`   | Não         | `estrutura` roda só a validação de `json/`/`meta.json`; `diff` roda só a comparação `xml/` × `json/`; `schema` roda só a validação contra o JSON Schema; `tudo` (padrão) roda os três. |
 
 ### Exemplos
 
@@ -69,9 +75,13 @@ Para cada versão, o script casa os arquivos de `xml/` e `json/` pelo nome (`{ve
 - **Versículos:** mesmo conjunto de números de versículo em cada capítulo, nos dois formatos.
 - **Texto:** o `text` de cada versículo é idêntico, caractere a caractere, entre `xml/` e `json/`.
 
+### Modo `schema`
+
+Para cada versão, cada arquivo `versoes/{versao}/json/*.json` é validado contra [docs/schema/biblia.schema.json](../schema/biblia.schema.json) usando o pacote `jsonschema`: tipos dos campos (`name`/`abbrev` string, `number` inteiro, `text` string não vazia), campos obrigatórios (`name`, `abbrev`, `chapters`, `number`, `verses`, `text`), ausência de campos extras, e formato da sigla (`abbrev`, ver [tabela de livros](../estrutura-arquivos/estrutura-xml.md#tabela-de-livros)). Esse modo cobre a forma dos dados; ordem crescente, duplicatas e caracteres de controle continuam sendo verificados pelo modo `estrutura`.
+
 ## Relatório e exit code
 
-O script imprime, por versão, `OK` quando nada é encontrado ou uma lista de linhas `ERRO [estrutura]:`/`ERRO [diff]:` com o problema e sua localização (arquivo, capítulo, versículo). Ao final, imprime um resumo com o total de versões verificadas, versões com problema e problemas encontrados, somando os dois modos quando `--check tudo` é usado.
+O script imprime, por versão, `OK` quando nada é encontrado ou uma lista de linhas `ERRO [estrutura]:`/`ERRO [diff]:`/`ERRO [schema]:` com o problema e sua localização (arquivo, capítulo, versículo, ou caminho dentro do JSON). Ao final, imprime um resumo com o total de versões verificadas, versões com problema e problemas encontrados, somando os modos executados quando `--check tudo` é usado.
 
 Retorna exit code `0` se nenhum problema for encontrado em nenhuma versão, ou `1` caso contrário — pensado para uso em CI (ver [1.7](../projeto/plano-desenvolvimento.md#17-integrar-validação-ao-ci-9)).
 

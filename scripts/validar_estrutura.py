@@ -12,6 +12,10 @@ Modo "diff" verifica, por livro, se xml/ e json/ representam
 exatamente o mesmo texto (mesmos capitulos, mesmos versiculos, mesmo
 texto por versiculo).
 
+Modo "schema" verifica, por livro, se o .json valida contra
+docs/schema/biblia.schema.json (JSON Schema Draft 2020-12), e requer o
+pacote jsonschema (ver scripts/requirements.txt).
+
 Reaproveita o calculo de contagens/completude/hash de
 scripts/gerar_meta.py e o parser de XML de scripts/xml_to_json.py (ver
 docs/estrutura-arquivos/estrutura-meta.md e estrutura-xml.md).
@@ -30,6 +34,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 VERSOES_DIR = REPO_ROOT / "versoes"
+SCHEMA_PATH = REPO_ROOT / "docs" / "schema" / "biblia.schema.json"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from gerar_meta import compute_completeness, compute_counts_and_hash  # noqa: E402
@@ -127,6 +132,45 @@ def validate_version(version_dir: Path) -> list[str]:
     return issues
 
 
+def load_schema_validator():
+    try:
+        import jsonschema
+    except ImportError as exc:
+        raise SystemExit(
+            "erro: o modo 'schema' requer o pacote jsonschema "
+            "(pip install -r scripts/requirements.txt)"
+        ) from exc
+
+    schema = json.loads(SCHEMA_PATH.read_text(encoding="utf-8"))
+    validator_cls = jsonschema.validators.validator_for(schema)
+    validator_cls.check_schema(schema)
+    return validator_cls(schema)
+
+
+def validate_book_schema(path: Path, validator) -> list[str]:
+    try:
+        book = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        return [f"{path.name}: JSON invalido ({exc})"]
+
+    issues = []
+    for error in sorted(validator.iter_errors(book), key=lambda e: list(e.absolute_path)):
+        location = "/".join(str(p) for p in error.absolute_path) or "(raiz)"
+        issues.append(f"{path.name}: {location}: {error.message}")
+    return issues
+
+
+def validate_version_schema(version_dir: Path, validator) -> list[str]:
+    json_dir = version_dir / "json"
+    if not json_dir.is_dir():
+        return ["pasta json/ nao encontrada"]
+
+    issues = []
+    for path in sorted(json_dir.glob("*.json")):
+        issues.extend(validate_book_schema(path, validator))
+    return issues
+
+
 def compare_book(xml_path: Path, json_path: Path) -> list[str]:
     if not xml_path.is_file():
         return [f"{json_path.name}: xml correspondente nao encontrado ({xml_path.name})"]
@@ -196,11 +240,12 @@ def main() -> int:
     parser.add_argument(
         "--check",
         dest="check",
-        choices=["estrutura", "diff", "tudo"],
+        choices=["estrutura", "diff", "schema", "tudo"],
         default="tudo",
         help=(
             "'estrutura' valida apenas os arquivos json/ e o meta.json; 'diff' apenas compara "
-            "xml/ com json/; 'tudo' (padrao) executa os dois."
+            "xml/ com json/; 'schema' valida json/ contra docs/schema/biblia.schema.json; "
+            "'tudo' (padrao) executa os tres."
         ),
     )
     args = parser.parse_args()
@@ -214,6 +259,8 @@ def main() -> int:
     else:
         version_dirs = sorted(d for d in VERSOES_DIR.iterdir() if d.is_dir())
 
+    schema_validator = load_schema_validator() if args.check in ("schema", "tudo") else None
+
     total_issues = 0
     versions_with_issues = 0
     for version_dir in version_dirs:
@@ -223,6 +270,8 @@ def main() -> int:
             issues.extend(("estrutura", issue) for issue in validate_version(version_dir))
         if args.check in ("diff", "tudo"):
             issues.extend(("diff", issue) for issue in compare_version(version_dir))
+        if args.check in ("schema", "tudo"):
+            issues.extend(("schema", issue) for issue in validate_version_schema(version_dir, schema_validator))
 
         if issues:
             versions_with_issues += 1

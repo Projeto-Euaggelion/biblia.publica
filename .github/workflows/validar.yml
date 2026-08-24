@@ -17,5 +17,8 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Instalar dependencias
+        run: pip install -r scripts/requirements.txt
+
       - name: Rodar validar_estrutura.py
         run: python scripts/validar_estrutura.py

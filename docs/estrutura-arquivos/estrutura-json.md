@@ -4,6 +4,8 @@ Este documento descreve o formato utilizado nos arquivos `.json` do repositório
 
 Os arquivos `.json` são gerados a partir dos arquivos `.xml` (ver [estrutura-xml.md](estrutura-xml.md)) pelo script [scripts/xml_to_json.py](../scripts/xml_to_json.py), mantendo a mesma hierarquia de dados: livro → capítulos → versículos.
 
+O formato descrito neste documento tem uma definição formal em [docs/schema/biblia.schema.json](../schema/biblia.schema.json) (JSON Schema Draft 2020-12). Todos os arquivos `versoes/{versao}/json/*.json` devem validar contra esse schema — verificação feita pelo modo `schema` de [scripts/validar_estrutura.py](../../scripts/validar_estrutura.py) (ver [validar-estrutura.md](../scripts/validar-estrutura.md)).
+
 ## Organização de diretórios
 
 Cada versão bíblica possui, dentro de `versoes/`, uma subpasta `json/` com um arquivo por livro, ao lado da subpasta `xml/`:
