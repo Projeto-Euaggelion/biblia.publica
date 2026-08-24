@@ -4,6 +4,7 @@
 
 | Versão | Licença | Fonte | Completude | PR | Contribuidor |
 |--------|---------|-------|------------|----|--------------|
+| `alm1911` | Domínio Público | [https://github.com/damarals/biblias/tree/main](https://github.com/damarals/biblias/tree/main) | Bíblia Protestante, 66 livros completos. | — | — |
 | `blivre` | CC BY 3.0 | [https://github.com/blivre/BibliaLivre/tree/master](https://github.com/blivre/BibliaLivre/tree/master) | Bíblia Protestante, 66 livros completos. | — | — |
 | `nt-a1819a` | CC BY-NC-ND 3.0 | [https://sites.google.com/site/ntalmeida1819a/](https://sites.google.com/site/ntalmeida1819a/) | apenas o Novo Testamento disponível. | — | — |
 | `nva` | CC BY-SA 4.0 | [https://git.door43.org/alexandre_brazil](https://git.door43.org/alexandre_brazil) | Bíblia Protestante, 66 livros completos. | — | — |
