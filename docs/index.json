@@ -1,0 +1,187 @@
+{
+  "repository": "https://github.com/Projeto-Euaggelion/biblia.publica",
+  "schemas": {
+    "json": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/docs/schema/biblia.schema.json",
+    "xml": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/docs/schema/biblia.xsd"
+  },
+  "versions": [
+    {
+      "abbrev": "alm1911",
+      "name": "Almeida 1911",
+      "year": null,
+      "language": "pt-BR",
+      "textualBasis": null,
+      "completeness": {
+        "status": "complete",
+        "missingBooks": []
+      },
+      "counts": {
+        "books": 66,
+        "chapters": 1189,
+        "verses": 31101
+      },
+      "knownAnomalies": [],
+      "licenseCheckedAt": "2026-08-24",
+      "filesHash": "sha256:b7f7144056f96e0d236b42b3ff05ade2218c6bfcedd456fb75ab80076fdb0afd",
+      "formats": {
+        "meta": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/alm1911/meta.json",
+        "license": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/alm1911/LICENSE.md",
+        "xml": "https://github.com/Projeto-Euaggelion/biblia.publica/tree/main/versoes/alm1911/xml",
+        "json": "https://github.com/Projeto-Euaggelion/biblia.publica/tree/main/versoes/alm1911/json",
+        "sql": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/alm1911/sql/alm1911.sqlite"
+      }
+    },
+    {
+      "abbrev": "blivre",
+      "name": "Bíblia Livre",
+      "year": 2018,
+      "language": "pt-BR",
+      "textualBasis": null,
+      "completeness": {
+        "status": "complete",
+        "missingBooks": []
+      },
+      "counts": {
+        "books": 66,
+        "chapters": 1189,
+        "verses": 31101
+      },
+      "knownAnomalies": [],
+      "licenseCheckedAt": "2026-08-23",
+      "filesHash": "sha256:b9e123a5d5b5443be155a03130fe5eba1ac31155f4ae37a1df01162f1abba30b",
+      "formats": {
+        "meta": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/blivre/meta.json",
+        "license": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/blivre/LICENSE.md",
+        "xml": "https://github.com/Projeto-Euaggelion/biblia.publica/tree/main/versoes/blivre/xml",
+        "json": "https://github.com/Projeto-Euaggelion/biblia.publica/tree/main/versoes/blivre/json",
+        "sql": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/blivre/sql/blivre.sqlite"
+      }
+    },
+    {
+      "abbrev": "nt-a1819a",
+      "name": "Novo Testamento Almeida 1819 Atualizada",
+      "year": 2026,
+      "language": "pt-BR",
+      "textualBasis": null,
+      "completeness": {
+        "status": "incomplete",
+        "missingBooks": [
+          "gn",
+          "ex",
+          "lv",
+          "nm",
+          "dt",
+          "js",
+          "jz",
+          "rt",
+          "1sm",
+          "2sm",
+          "1rs",
+          "2rs",
+          "1cr",
+          "2cr",
+          "ed",
+          "ne",
+          "et",
+          "job",
+          "sl",
+          "pv",
+          "ec",
+          "ct",
+          "is",
+          "jr",
+          "lm",
+          "ez",
+          "dn",
+          "os",
+          "jl",
+          "am",
+          "ob",
+          "jn",
+          "mq",
+          "na",
+          "hc",
+          "sf",
+          "ag",
+          "zc",
+          "ml"
+        ]
+      },
+      "counts": {
+        "books": 27,
+        "chapters": 260,
+        "verses": 7957
+      },
+      "knownAnomalies": [
+        "At: linha sem número de versículo anexada ao último versículo",
+        "At: capítulo 6 inferido a partir da reinicializacao do número do versículo (cabeçalho 'capítulo N' ausente na fonte)",
+        "Rm: linha sem número de versículo anexada ao último versículo",
+        "1 Co: linha sem número de versículo anexada ao último versículo",
+        "2 Co: linha sem número de versículo anexada ao último versículo",
+        "Gl: linha sem número de versículo anexada ao último versículo",
+        "Fp: linha sem número de versículo anexada ao último versículo",
+        "Cl: linha sem número de versículo anexada ao último versículo",
+        "1 Ts: linha sem número de versículo anexada ao último versículo",
+        "2 Ts: linha sem número de versículo anexada ao último versículo",
+        "1 Tm: linha sem número de versículo anexada ao último versículo",
+        "2 Tm: linha sem número de versículo anexada ao último versículo",
+        "Tt: linha sem número de versículo anexada ao último versículo",
+        "Fm: linha sem número de versículo anexada ao último versículo",
+        "Hb: linha sem número de versículo anexada ao último versículo",
+        "Hb: linha sem número de versículo anexada ao último versículo"
+      ],
+      "licenseCheckedAt": "2026-08-23",
+      "filesHash": "sha256:df1a0149e4654c92d51e0e7a0386438979f4be9f849ba1ad8cb902258c28352c",
+      "formats": {
+        "meta": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/nt-a1819a/meta.json",
+        "license": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/nt-a1819a/LICENSE.md",
+        "xml": "https://github.com/Projeto-Euaggelion/biblia.publica/tree/main/versoes/nt-a1819a/xml",
+        "json": "https://github.com/Projeto-Euaggelion/biblia.publica/tree/main/versoes/nt-a1819a/json",
+        "sql": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/nt-a1819a/sql/nt-a1819a.sqlite"
+      }
+    },
+    {
+      "abbrev": "nva",
+      "name": "Nova Bíblia de Acesso Livre (NVA)",
+      "year": 2025,
+      "language": "pt-BR",
+      "textualBasis": null,
+      "completeness": {
+        "status": "complete",
+        "missingBooks": []
+      },
+      "counts": {
+        "books": 66,
+        "chapters": 1189,
+        "verses": 31096
+      },
+      "knownAnomalies": [
+        "1 Cr 17 v8: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+        "1 Cr 25 v2: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+        "1 Cr 25 v3: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+        "1 Sm 07: fragmento '05.txt' ignorado (conteúdo duplicado de outro capítulo na fonte)",
+        "1 Sm 07: versículo(s) sem nenhuma tag \\v na fonte - [5, 6]",
+        "2 Cr 06 v23: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+        "2 Sm 17: versículo(s) sem nenhuma tag \\v na fonte - [5, 6, 7]",
+        "Jó 25 v2: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+        "Jó 40 v13: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+        "Jr 23 v36: marcador \\v presente mas sem conteúdo real na fonte - versículo omitido",
+        "Jr 23: versículo(s) sem nenhuma tag \\v na fonte - [36]",
+        "Jr 43 v13: marcador \\v presente mas sem conteúdo real na fonte - versículo omitido",
+        "Lm 03 v15: marcador \\v duplicado com ocorrência vazia/trivial descartada",
+        "Lm 05 v18: marcador \\v presente mas sem conteúdo real na fonte - versículo omitido",
+        "Lm 05: versículo(s) sem nenhuma tag \\v na fonte - [18]",
+        "Sl 136 v9: marcador \\v duplicado com ocorrência vazia/trivial descartada"
+      ],
+      "licenseCheckedAt": "2026-08-23",
+      "filesHash": "sha256:ff6726bc15ace5b4a402aaf7907109b5eaa255a1dd551dd265075be706ac2c99",
+      "formats": {
+        "meta": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/nva/meta.json",
+        "license": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/nva/LICENSE.md",
+        "xml": "https://github.com/Projeto-Euaggelion/biblia.publica/tree/main/versoes/nva/xml",
+        "json": "https://github.com/Projeto-Euaggelion/biblia.publica/tree/main/versoes/nva/json",
+        "sql": "https://raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/versoes/nva/sql/nva.sqlite"
+      }
+    }
+  ]
+}

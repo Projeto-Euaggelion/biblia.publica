@@ -2,7 +2,7 @@
 
 Este documento descreve o formato do arquivo `meta.json`, que armazena os metadados de cada versão bíblica do repositório: identificação, base textual, completude, contagens e informações de integridade/licenciamento.
 
-Diferente de `LICENSE.md` (texto livre voltado para a revisão humana de licenciamento, ver [CONTRIBUTING.md](../../CONTRIBUTING.md)), o `meta.json` é a representação **estruturada e legível por máquina** desses mesmos metadados, pensada para ser consumida por scripts (validação, `index.json` a ser implementado na [Fase 2](https://github.com/Projeto-Euaggelion/biblia.publica/milestone/2) de desenvolvimento do projeto, badges, etc.).
+Diferente de `LICENSE.md` (texto livre voltado para a revisão humana de licenciamento, ver [CONTRIBUTING.md](../../CONTRIBUTING.md)), o `meta.json` é a representação **estruturada e legível por máquina** desses mesmos metadados, pensada para ser consumida por scripts (validação, [docs/index.json](../../docs/index.json) — ver [estrutura-index.md](estrutura-index.md) —, badges, etc.).
 
 ## Localização
 

@@ -37,6 +37,7 @@ O esforço inicial deste projeto tem se dedicado à indexação das versões bí
 - Formato XML: leia a documentação em [docs/estrutura-arquivos/estrutura-xml.md](docs/estrutura-arquivos/estrutura-xml.md) para mais detalhes sobre a estrututra dos arquivos no formato `.xml`.
 - Metadados por versão: o formato do `meta.json` de cada versão está documentado em [docs/estrutura-arquivos/estrutura-meta.md](docs/estrutura-arquivos/estrutura-meta.md).
 - Formato SQLite: cada versão também tem um banco `.sqlite` (tabelas `books`/`chapters`/`verses`), documentado em [docs/estrutura-arquivos/estrutura-sql.md](docs/estrutura-arquivos/estrutura-sql.md).
+- API estática: [docs/index.json](docs/index.json) lista todas as versões com metadados e links diretos para os arquivos de cada formato, documentado em [docs/estrutura-arquivos/estrutura-index.md](docs/estrutura-arquivos/estrutura-index.md).
 
 ## Contribuições
 
