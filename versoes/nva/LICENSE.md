@@ -16,7 +16,7 @@
 
 **Completude:** Bíblia Protestante, 66 livros completos.
 
-Anomalias encontradas na fonte durante a consolidação da NVA (revisão pendente):
+**Anomalias:**
 
 - 1 Cr 17 v8: marcador \v duplicado com ocorrência vazia/trivial descartada
 - 1 Cr 25 v2: marcador \v duplicado com ocorrência vazia/trivial descartada

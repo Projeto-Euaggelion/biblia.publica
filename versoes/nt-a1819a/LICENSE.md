@@ -15,21 +15,21 @@
 
 **Completude:** apenas o Novo Testamento disponível.
 
-Relatório de anomalias do web scraper.
+**Anomalias:** relatório de anomalias do web scraper.
 
-At: linha sem número de versículo anexada ao último versículo
-At: capítulo 6 inferido a partir da reinicializacao do número do versículo (cabeçalho 'capítulo N' ausente na fonte)
-Rm: linha sem número de versículo anexada ao último versículo
-1 Co: linha sem número de versículo anexada ao último versículo
-2 Co: linha sem número de versículo anexada ao último versículo
-Gl: linha sem número de versículo anexada ao último versículo
-Fp: linha sem número de versículo anexada ao último versículo
-Cl: linha sem número de versículo anexada ao último versículo
-1 Ts: linha sem número de versículo anexada ao último versículo
-2 Ts: linha sem número de versículo anexada ao último versículo
-1 Tm: linha sem número de versículo anexada ao último versículo
-2 Tm: linha sem número de versículo anexada ao último versículo
-Tt: linha sem número de versículo anexada ao último versículo
-Fm: linha sem número de versículo anexada ao último versículo
-Hb: linha sem número de versículo anexada ao último versículo
-Hb: linha sem número de versículo anexada ao último versículo
+- At: linha sem número de versículo anexada ao último versículo
+- At: capítulo 6 inferido a partir da reinicializacao do número do versículo (cabeçalho 'capítulo N' ausente na fonte)
+- Rm: linha sem número de versículo anexada ao último versículo
+- 1 Co: linha sem número de versículo anexada ao último versículo
+- 2 Co: linha sem número de versículo anexada ao último versículo
+- Gl: linha sem número de versículo anexada ao último versículo
+- Fp: linha sem número de versículo anexada ao último versículo
+- Cl: linha sem número de versículo anexada ao último versículo
+- 1 Ts: linha sem número de versículo anexada ao último versículo
+- 2 Ts: linha sem número de versículo anexada ao último versículo
+- 1 Tm: linha sem número de versículo anexada ao último versículo
+- 2 Tm: linha sem número de versículo anexada ao último versículo
+- Tt: linha sem número de versículo anexada ao último versículo
+- Fm: linha sem número de versículo anexada ao último versículo
+- Hb: linha sem número de versículo anexada ao último versículo
+- Hb: linha sem número de versículo anexada ao último versículo

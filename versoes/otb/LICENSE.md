@@ -9,3 +9,7 @@
 **Modificações permitidas:** a licença permite a alteração do conteúdo desde que o material derivado esteja licenciado sob a mesma licença do original. O conteúdo deste diretório não foi alterado, apenas reestruturado para a estrutura padrão utilizada pelo projeto.
 
 **Completude:** Bíblia protestante, versão completa (66 livros).
+
+**Anomalias:**
+
+- `otb-1rs.json` possui um capítulo `{ "number": 0, "verses": [] }` vazio antes do capítulo 1, herdado do XML de origem.
