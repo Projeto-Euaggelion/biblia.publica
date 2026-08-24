@@ -40,9 +40,16 @@ Toda versão precisa incluir um arquivo `versoes/{versao}/LICENSE.md` descrevend
 - **Licença declarada em:** https://... (onde a licença é encontrada na fonte)
 - **Modificações permitidas:** apenas estruturação técnica em XML/JSON (padrão para `ND`) | tradução pode ser adaptada livremente (quando a licença permitir)
 - **Completude:** completa (66 livros) | incompleta — faltam: {lista de siglas de livros}
+- **Anomalias:** (opcional, omitir se não houver nenhuma)
+  - {descrição da primeira peculiaridade conhecida dos arquivos desta versão}
+  - {descrição da segunda, se houver}
 ```
 
-Esse arquivo é a referência oficial para revisão de licenciamento — sem ele, o PR não é aceito.
+Esse arquivo é a referência oficial para revisão de licenciamento, sem ele, o PR não é aceito.
+
+O campo **Anomalias** é uma lista simples (um item por linha, prefixado com `-`) de peculiaridades conhecidas dos arquivos desta versão (ex.: um capítulo vazio herdado da fonte original)
+
+O script [`scripts/gerar_meta.py`](scripts/gerar_meta.py) lê essa lista automaticamente e a copia para `knownAnomalies` no `meta.json` da versão (ver [estrutura-meta.md](docs/estrutura-arquivos/estrutura-meta.md)).
 
 Depois que o PR é mesclado na `main`, o workflow [`atualizar-fontes.yml`](.github/workflows/atualizar-fontes.yml) lê automaticamente todos os `versoes/{versao}/LICENSE.md` e regenera [`docs/fontes.md`](docs/fontes.md), incluindo o número do PR e o autor da contribuição.
 
