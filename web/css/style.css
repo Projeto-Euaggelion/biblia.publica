@@ -596,7 +596,6 @@ main {
 .site-footer {
   background: var(--dark);
   color: var(--dark-text-muted);
-  margin-top: 3rem;
 }
 
 .site-footer__grid {
