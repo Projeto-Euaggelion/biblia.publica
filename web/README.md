@@ -4,13 +4,15 @@ Interface web simples (HTML/CSS/JS puro, sem build step nem framework) para expl
 
 ## Como funciona
 
-- `index.html` — casca da página (cabeçalho, breadcrumb, `<main id="app">`).
-- `css/style.css` — estilos, sem framework externo.
+- `index.html` — casca da página (cabeçalho, breadcrumb, `<main id="app">`, rodapé), com o `<link>` para as fontes do Google Fonts.
+- `css/style.css` — estilos, sem framework externo (variáveis de cor/tipografia no `:root`).
 - `js/api.js` — busca `docs/index.json` e os `.json` de cada livro direto de `raw.githubusercontent.com/Projeto-Euaggelion/biblia.publica/main/...` (nenhum dado é duplicado dentro de `web/`).
-- `js/books.js` — tabela estática dos 66 livros do cânon protestante (sigla/nome/testamento), usada só para montar a navegação — o texto sempre vem do `.json` real da versão.
+- `js/books.js` — tabela estática dos 66 livros do cânon protestante (sigla/nome/testamento/número de capítulos), usada só para montar a navegação (posição do livro, contagem de capítulos sem precisar buscar todos os `.json` da versão) — o texto sempre vem do `.json` real da versão.
 - `js/app.js` — roteamento por hash (`#/{versao}`, `#/{versao}/{abbrev}`, `#/{versao}/{abbrev}/{capitulo}`) e renderização das telas.
 
 Não há chamada a nenhuma API do GitHub além do conteúdo raw — sem autenticação, sem limite de taxa relevante para uso normal.
+
+A única dependência externa é a tipografia: `index.html` carrega as fontes **Fraunces** (serifa display, títulos) e **Inter** (interface) via `fonts.googleapis.com`/`fonts.gstatic.com`. Sem build step — é só um `<link>` no `<head>`.
 
 ## Rodando localmente
 
